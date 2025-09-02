@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg16">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter853" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter880" x="-0.053333334" width="1.1066667" y="-0.043636365" height="1.0872727">
+      <feGaussianBlur stdDeviation="1.6"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter905" x="-0.025553079" width="1.0511062" y="-0.39487618" height="1.7897524">
+      <feGaussianBlur stdDeviation="1.4480078"/>
+    </filter>
+  </defs>
+  <rect width="160" height="160" x="-180" y="-176" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)" style="filter:url(#filter853);opacity:0.2;fill:#000000"/>
+  <rect style="fill:#4f4f4f" transform="matrix(0,-1,-1,0,0,0)" ry="8" rx="8" y="-176" x="-176" height="160" width="160"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 24 16 C 19.568 16 16 19.568 16 24 L 16 25 C 16 20.568 19.568 17 24 17 L 168 17 C 172.432 17 176 20.568 176 25 L 176 24 C 176 19.568 172.432 16 168 16 L 24 16 z "/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="6.8000002" rx="6.8000002" y="-164" x="-164" height="136" width="136" style="fill:#3f3f3f"/>
+  <path d="M 136,100 99.999994,122 64,144 V 99.999994 56.000002 l 36,21.999999 z" style="filter:url(#filter880);opacity:0.2"/>
+  <path d="M 136,96.000001 99.999994,118 64,140 V 95.999994 52.000002 l 36,21.999999 z" style="fill:#ffffff"/>
+  <path style="filter:url(#filter905);opacity:0.2;fill:#000000" d="M 34.800781 28 C 31.033581 28 28 31.033581 28 34.800781 L 28 36.800781 C 28 33.033581 31.033581 30 34.800781 30 L 157.19922 30 C 160.96642 30 164 33.033581 164 36.800781 L 164 34.800781 C 164 31.033581 160.96642 28 157.19922 28 L 34.800781 28 z "/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 28 157.19922 L 28 158.19922 C 28 161.96642 31.033581 165 34.800781 165 L 157.19922 165 C 160.96642 165 164 161.96642 164 158.19922 L 164 157.19922 C 164 160.96642 160.96642 164 157.19922 164 L 34.800781 164 C 31.033581 164 28 160.96642 28 157.19922 z "/>
+</svg>

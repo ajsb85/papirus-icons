@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg14">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter848" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter864" x="-0.048" width="1.096" y="-0.048" height="1.096">
+      <feGaussianBlur stdDeviation="2.24"/>
+    </filter>
+  </defs>
+  <circle r="80" cy="100" cx="96" style="filter:url(#filter848);opacity:0.2"/>
+  <circle r="80" cy="96" cx="96" style="fill:#e05048"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 96 16 A 80 80 0 0 0 16 96 A 80 80 0 0 0 16.019531 96.472656 A 80 80 0 0 1 96 17 A 80 80 0 0 1 175.97461 96.513672 A 80 80 0 0 0 176 96 A 80 80 0 0 0 96 16 z "/>
+  <circle r="56" cy="98" cx="96" style="filter:url(#filter864);opacity:0.2"/>
+  <circle r="56" cy="96" cx="96" style="fill:#ffffff"/>
+</svg>

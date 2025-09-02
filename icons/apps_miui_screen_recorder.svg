@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg12">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter860" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter853" x="-0.041142856" width="1.0822857" y="-0.057599999" height="1.1152">
+      <feGaussianBlur stdDeviation="1.92"/>
+    </filter>
+  </defs>
+  <rect style="filter:url(#filter860);opacity:0.2" width="160" height="160" x="16" y="20" rx="48" ry="48"/>
+  <rect style="fill:#e5463e" width="160" height="160" x="16" y="16" rx="48" ry="48"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 64,16 C 37.408,16 16,37.408 16,64 v 1 C 16,38.408 37.408,17 64,17 h 64 c 26.592,0 48,21.408 48,48 V 64 C 176,37.408 154.592,16 128,16 Z"/>
+  <path style="filter:url(#filter853);opacity:0.2;fill:#000000" d="m 56,58 c -8.864,0 -16,7.136 -16,16 v 4 h 8 v -4 c 0,-4.570376 3.429624,-8 8,-8 h 4 v -8 z m 20,0 v 8 h 12 v -8 z m 28,0 v 8 h 12 v -8 z m 28,0 v 8 h 4 c 4.57038,0 8,3.429624 8,8 v 4 h 8 v -4 c 0,-8.864 -7.136,-16 -16,-16 z M 96,78 A 20,20 0 0 0 76,98 20,20 0 0 0 96,118 20,20 0 0 0 116,98 20,20 0 0 0 96,78 Z M 40,94 v 12 h 8 V 94 Z m 104,0 v 12 h 8 V 94 Z M 40,122 c 0,8.864 7.136,16 16,16 h 4 v -8 h -4 c -4.570376,0 -8,-3.42962 -8,-8 z m 104,0 c 0,4.57038 -3.42962,8 -8,8 h -4 v 8 h 4 c 8.864,0 16,-7.136 16,-16 z m -68,8 v 8 h 12 v -8 z m 28,0 v 8 h 12 v -8 z"/>
+  <circle style="fill:#ffffff" cx="96" cy="96" r="20"/>
+  <path style="fill:#ffffff" d="m 56,56 c -8.864,0 -16,7.136 -16,16 v 4 h 8 v -4 c 0,-4.570376 3.429624,-8 8,-8 h 4 v -8 z m 20,0 v 8 h 12 v -8 z m 28,0 v 8 h 12 v -8 z m 28,0 v 8 h 4 c 4.57038,0 8,3.429624 8,8 v 4 h 8 v -4 c 0,-8.864 -7.136,-16 -16,-16 z M 40,92 v 12 h 8 V 92 Z m 104,0 v 12 h 8 V 92 Z M 40,120 c 0,8.864 7.136,16 16,16 h 4 v -8 h -4 c -4.570376,0 -8,-3.42962 -8,-8 z m 104,0 c 0,4.57038 -3.42962,8 -8,8 h -4 v 8 h 4 c 8.864,0 16,-7.136 16,-16 z m -68,8 v 8 h 12 v -8 z m 28,0 v 8 h 12 v -8 z"/>
+</svg>

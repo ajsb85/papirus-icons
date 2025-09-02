@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg12">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter955" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter9340" x="-0.064445608" y="-0.089688465" width="1.1288912" height="1.1793769">
+      <feGaussianBlur stdDeviation="3.2138367"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter9384" x="-0.092906692" y="-0.12894855" width="1.1858134" height="1.2578971">
+      <feGaussianBlur stdDeviation="2.202871"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter9388" x="-0.09290669" y="-0.12894855" width="1.1858134" height="1.2578971">
+      <feGaussianBlur stdDeviation="2.2028711"/>
+    </filter>
+  </defs>
+  <rect style="filter:url(#filter955);opacity:0.2;fill:#000000" width="160" height="160" x="16" y="20" rx="30" ry="30"/>
+  <rect style="fill:#0072d0" width="160" height="160" x="16" y="16" rx="30" ry="30"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 46 16 C 29.38 16 16 29.38 16 46 L 16 47 C 16 30.38 29.38 17 46 17 L 146 17 C 162.62 17 176 30.38 176 47 L 176 46 C 176 29.38 162.62 16 146 16 L 46 16 z "/>
+  <path style="filter:url(#filter9388);opacity:0.2;fill:#000000" d="m 75.857449,100 h 36.100281 l 20.8051,41 H 96.662551 Z"/>
+  <path style="fill:#ffffff" d="m 75.857449,98 h 36.100281 l 20.8051,41 H 96.662551 Z"/>
+  <path style="filter:url(#filter9340);opacity:0.2;fill:#000000" d="M 119.68555,55 79.789062,96 H 115.78906 L 155.68555,55 Z M 75.896484,100 36,141 h 36 l 39.89648,-41 z"/>
+  <path style="fill:#ff9d0a" d="M 119.68555 53 L 79.789062 94 L 115.78906 94 L 155.68555 53 L 119.68555 53 z M 75.896484 98 L 36 139 L 72 139 L 111.89648 98 L 75.896484 98 z "/>
+  <path style="filter:url(#filter9384);opacity:0.2;fill:#000000" d="M 58.935,55 H 95.035281 L 115.84038,96 H 79.740102 Z"/>
+  <path style="fill:#ffffff" d="M 58.935,53 H 95.035281 L 115.84038,94 H 79.740102 Z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 119.68555 53 L 79.789062 94 L 80.761719 94 L 119.68555 54 L 154.71289 54 L 155.68555 53 L 119.68555 53 z M 75.896484 98 L 36 139 L 36.972656 139 L 75.896484 99 L 110.92383 99 L 111.89648 98 L 75.896484 98 z "/>
+</svg>

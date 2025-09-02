@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg18">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter1055" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter1100" x="-0.071999998" y="-0.035999999" width="1.144" height="1.072">
+      <feGaussianBlur stdDeviation="1.92"/>
+    </filter>
+  </defs>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-180" y="-176" width="160" height="160" rx="8" ry="8" style="filter:url(#filter1055);opacity:0.2;fill:#000000"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-176" y="-176" width="160" height="160" rx="8" ry="8" style="fill:#90decd"/>
+  <path d="M 96,34 64,98 96,162 128,98 Z" style="filter:url(#filter1100);opacity:0.2"/>
+  <path d="M 96,32 64,96 96,160 128,96 Z" style="fill:#72be45"/>
+  <path d="m 80,96 h 32 L 96,32 Z" style="fill:#a7e077"/>
+  <path d="M 64,96 96,160 80,96 Z m 32,64 32,-64 h -16 z" style="opacity:0.4;fill:#008000"/>
+  <path d="m 96,32 -32,64 1,2 31,-62 31,62 1,-2 z" style="opacity:0.2;fill:#ffffff"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 24 16 C 19.568 16 16 19.568 16 24 L 16 25 C 16 20.568 19.568 17 24 17 L 168 17 C 172.432 17 176 20.568 176 25 L 176 24 C 176 19.568 172.432 16 168 16 L 24 16 z "/>
+</svg>

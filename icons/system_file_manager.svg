@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg26">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter881" x="-0.0408" width="1.0816" y="-0.058285715" height="1.1165714">
+      <feGaussianBlur stdDeviation="2.72"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter1010" x="-0.030857144" width="1.0617143" y="-0.108" height="1.216">
+      <feGaussianBlur stdDeviation="0.72"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter1052" x="-0.021" width="1.042" y="-0.028" height="1.056">
+      <feGaussianBlur stdDeviation="1.12"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter1068" x="-0.020000001" width="1.04" y="-0.030000001" height="1.06">
+      <feGaussianBlur stdDeviation="1.2"/>
+    </filter>
+  </defs>
+  <rect style="fill:#5294e2" width="112" height="96" x="40" y="16" rx="6" ry="6"/>
+  <rect ry="6" rx="6" y="30" x="32" height="96" width="128" style="filter:url(#filter1052);opacity:0.1;fill:#000000"/>
+  <rect style="fill:#89e058" width="128" height="96" x="32" y="32" rx="6" ry="6"/>
+  <rect ry="6" rx="6" y="46" x="24" height="96" width="144" style="filter:url(#filter1068);opacity:0.1;fill:#000000"/>
+  <rect style="fill:#ffcd54" width="144" height="96" x="24" y="48" rx="6" ry="6"/>
+  <rect style="filter:url(#filter881);opacity:0.2" width="160" height="112" x="16" y="68" rx="8" ry="8"/>
+  <rect style="fill:#8e8e8e" width="160" height="112" x="16" y="64" rx="8" ry="8"/>
+  <rect style="filter:url(#filter1010);opacity:0.1" width="56" height="16" x="68" y="110" rx="4" ry="4"/>
+  <rect style="fill:#ececec" width="56" height="16" x="68" y="108" rx="4" ry="4"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 46 16 C 42.676 16 40 18.676 40 22 L 40 23 C 40 19.676 42.676 17 46 17 L 146 17 C 149.324 17 152 19.676 152 23 L 152 22 C 152 18.676 149.324 16 146 16 L 46 16 z "/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 38 32 C 34.676 32 32 34.676 32 38 L 32 39 C 32 35.676 34.676 33 38 33 L 154 33 C 157.324 33 160 35.676 160 39 L 160 38 C 160 34.676 157.324 32 154 32 L 38 32 z "/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 30 48 C 26.676 48 24 50.676 24 54 L 24 55 C 24 51.676 26.676 49 30 49 L 162 49 C 165.324 49 168 51.676 168 55 L 168 54 C 168 50.676 165.324 48 162 48 L 30 48 z "/>
+</svg>

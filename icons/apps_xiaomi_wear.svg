@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg12">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter955" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter13248" x="-0.075" y="-0.075" width="1.15" height="1.15">
+      <feGaussianBlur stdDeviation="3.1875"/>
+    </filter>
+  </defs>
+  <rect style="filter:url(#filter955);opacity:0.2;fill:#000000" width="160" height="160" x="16" y="20" rx="30" ry="30"/>
+  <rect style="fill:#ffd01b" width="160" height="160" x="16" y="16" rx="30" ry="30"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 46 16 C 29.38 16 16 29.38 16 46 L 16 47 C 16 30.38 29.38 17 46 17 L 146 17 C 162.62 17 176 30.38 176 47 L 176 46 C 176 29.38 162.62 16 146 16 L 46 16 z "/>
+  <path style="filter:url(#filter13248);opacity:0.2;fill:#000000;color:#000000" d="m 96,47 c -28.059892,0 -51,22.940108 -51,51 0,28.05989 22.940108,51 51,51 28.05989,0 51,-22.94011 51,-51 0,-28.059892 -22.94011,-51 -51,-51 z m 0,18 c 18.33198,0 33,14.66802 33,33 0,18.33198 -14.66802,33 -33,33 C 77.66802,131 63,116.33198 63,98 63,79.66802 77.66802,65 96,65 Z"/>
+  <path style="fill:#3f3f3f;color:#000000" d="m 96,45 c -28.059892,0 -51,22.940108 -51,51 0,28.05989 22.940108,51 51,51 28.05989,0 51,-22.94011 51,-51 0,-28.059892 -22.94011,-51 -51,-51 z m 0,18 c 18.33198,0 33,14.66802 33,33 0,18.33198 -14.66802,33 -33,33 C 77.66802,129 63,114.33198 63,96 63,77.66802 77.66802,63 96,63 Z"/>
+</svg>

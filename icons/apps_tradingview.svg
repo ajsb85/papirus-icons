@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg28">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter6495" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter1862" x="-0.081547151" y="-0.15985488" width="1.1630943" height="1.3197098">
+      <feGaussianBlur stdDeviation="3.9297656"/>
+    </filter>
+  </defs>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-180" height="160" width="160" style="filter:url(#filter6495);opacity:0.2;fill:#000000"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-176" height="160" width="160" style="fill:#3f3f3f"/>
+  <path style="opacity:0.1;fill:#ffffff" d="m 28,16 c -6.648,0 -12,5.352 -12,12 v 1 c 0,-6.648 5.352,-12 12,-12 h 136 c 6.648,0 12,5.352 12,12 v -1 c 0,-6.648 -5.352,-12 -12,-12 z"/>
+  <path style="filter:url(#filter1862);opacity:0.2;fill:#000000" d="m 38,69 v 24 h 23 v 35 H 85 V 93 81 69 Z m 65,0 A 12,12 0 0 0 91,81 12,12 0 0 0 103,93 12,12 0 0 0 115,81 12,12 0 0 0 103,69 Z M 126.65625,69 102,128 h 27 l 24.65625,-59 z"/>
+  <path style="fill:#ffffff;fill-opacity:0.99607801" d="M 38 67 L 38 91 L 61 91 L 61 126 L 85 126 L 85 91 L 85 79 L 85 67 L 38 67 z M 103 67 A 12 12 0 0 0 91 79 A 12 12 0 0 0 103 91 A 12 12 0 0 0 115 79 A 12 12 0 0 0 103 67 z M 126.65625 67 L 102 126 L 129 126 L 153.65625 67 L 126.65625 67 z "/>
+</svg>

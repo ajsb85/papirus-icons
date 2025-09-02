@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg14">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter849" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter2962" x="-0.046829269" y="-0.04923077" width="1.0936585" height="1.0984615">
+      <feGaussianBlur stdDeviation="1.6"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter2966" x="-0.073636364" y="-0.076415094" width="1.1472727" height="1.1528302">
+      <feGaussianBlur stdDeviation="1.6875"/>
+    </filter>
+  </defs>
+  <rect style="filter:url(#filter849);opacity:0.2" width="160" height="160" x="16" y="20" rx="32" ry="32"/>
+  <rect style="fill:#d8382c" width="160" height="160" x="16" y="16" rx="32" ry="32"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 48,16 C 30.272,16 16,30.272 16,48 v 1 C 16,31.272 30.272,17 48,17 h 96 c 17.728,0 32,14.272 32,32 V 48 C 176,30.272 161.728,16 144,16 Z"/>
+  <path style="filter:url(#filter2966);opacity:0.2;fill:#000000" d="M 50.390625,90 C 45.18843,90 41,94.25674 41,99.544922 V 125.45508 C 41,130.74326 45.18843,135 50.390625,135 H 56 v 8 l 18.109375,-7.77539 V 135 h 12.5 C 91.81157,135 96,130.74326 96,125.45508 V 99.544922 C 96,94.25674 91.81157,90 86.609375,90 Z"/>
+  <path style="fill:#ec9c96" d="M 50.390625,88 C 45.18843,88 41,92.25674 41,97.544922 V 123.45508 C 41,128.74326 45.18843,133 50.390625,133 H 56 v 8 l 18.109375,-7.77539 V 133 h 12.5 C 91.81157,133 96,128.74326 96,123.45508 V 97.544922 C 96,92.25674 91.81157,88 86.609375,88 Z"/>
+  <path style="filter:url(#filter2962);opacity:0.2;fill:#000000" d="m 83,54 c -7.756,0 -14,6.244 -14,14 v 38 c 0,7.756 6.244,14 14,14 h 19 l 27,12 v -12 h 8 c 7.756,0 14,-6.244 14,-14 V 68 c 0,-7.756 -6.244,-14 -14,-14 z"/>
+  <path style="fill:#ffffff" d="m 83,52 c -7.756,0 -14,6.244 -14,14 v 38 c 0,7.756 6.244,14 14,14 h 19 l 27,12 v -12 h 8 c 7.756,0 14,-6.244 14,-14 V 66 c 0,-7.756 -6.244,-14 -14,-14 z"/>
+</svg>

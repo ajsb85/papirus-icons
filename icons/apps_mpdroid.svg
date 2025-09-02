@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg14">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter848" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter857" x="-0.047999999" width="1.096" y="-0.047999998" height="1.096">
+      <feGaussianBlur stdDeviation="1.92"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter873" x="-0.050754097" width="1.1015082" y="-0.04552941" height="1.0910588">
+      <feGaussianBlur stdDeviation="2.58"/>
+    </filter>
+  </defs>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="8" rx="8" y="-176" x="-180" height="160" width="160" style="filter:url(#filter848);opacity:0.2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="8" rx="8" y="-176" x="-176" height="160" width="160" style="fill:#0277bd"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="6.7999997" rx="6.1000004" y="-164" x="-152" height="136" width="122" style="filter:url(#filter873);opacity:0.2;fill:#000000"/>
+  <path style="opacity:0.1;fill:#ffffff" d="m 24,16 c -4.432,0 -8,3.568 -8,8 v 1 c 0,-4.432 3.568,-8 8,-8 h 144 c 4.432,0 8,3.568 8,8 v -1 c 0,-4.432 -3.568,-8 -8,-8 z"/>
+  <rect style="fill:#039be5" width="122" height="136" x="-150" y="-164" rx="6.1000004" ry="6.7999997" transform="matrix(0,-1,-1,0,0,0)"/>
+  <path d="M 95.999997,41.999999 C 69.440001,41.999999 48,63.44 48,90.000001 V 122.00001 C 48,122.00001 48,138 64,138 H 80.000005 V 98 H 64 V 90.000001 C 64,72.24 78.239994,57.999999 95.999996,57.999999 113.76,57.999999 128.00001,72.24 128.00001,90.000001 V 98 H 112 v 40 h 16.00001 c 0,0 15.99999,0 15.99999,-15.99999 V 90.000001 C 144,63.44 122.56,41.999999 95.999997,41.999999 Z" style="filter:url(#filter857);opacity:0.2;fill:#000000"/>
+  <path style="fill:#ffffff" d="M 95.999997,39.999999 C 69.440001,39.999999 48,61.44 48,88.000001 V 120.00001 C 48,120.00001 48,136 64,136 H 80.000005 V 96 H 64 V 88.000001 C 64,70.24 78.239994,55.999999 95.999996,55.999999 113.76,55.999999 128.00001,70.24 128.00001,88.000001 V 96 H 112 v 40 h 16.00001 c 0,0 15.99999,0 15.99999,-15.99999 V 88.000001 C 144,61.44 122.56,39.999999 95.999997,39.999999 Z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 34.800781,28 C 31.033581,28 28,30.720209 28,34.099609 v 1 C 28,31.720209 31.033581,29 34.800781,29 H 157.19922 C 160.96642,29 164,31.720209 164,35.099609 v -1 C 164,30.720209 160.96642,28 157.19922,28 Z"/>
+</svg>

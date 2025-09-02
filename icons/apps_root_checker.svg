@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg12">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter835" x="-0.052363635" width="1.1047273" y="-0.044307691" height="1.0886154">
+      <feGaussianBlur stdDeviation="1.92"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter2135" x="-0.048" y="-0.048" width="1.096" height="1.096">
+      <feGaussianBlur stdDeviation="1.76"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter2139" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+  </defs>
+  <circle style="filter:url(#filter2139);opacity:0.2;fill:#000000;stop-color:#000000" cx="96" cy="100" r="80"/>
+  <circle style="fill:#009688;stop-color:#000000" cx="96" cy="96" r="80"/>
+  <path d="M 82.326172,46 76.574757,74 H 52 v 10 h 22.522023 l -5.735267,28 H 52 v 10 h 14.734022 l -5.7516,28 h 10.207031 l 5.753553,-28 h 28.783204 l -5.751601,28 h 10.207031 l 5.75356,-28 H 140 V 112 H 117.98598 L 123.7232,84 H 140 V 74 h -14.22602 l 5.75336,-28 h -10.20898 l -5.75141,28 H 86.781788 l 5.753368,-28 z m 2.404835,38 h 28.783203 l -5.73526,28 H 78.993787 Z" style="filter:url(#filter835);opacity:0.2;fill:#000000;color:#000000;font-stretch:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill-rule:nonzero;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"/>
+  <path style="fill:#ffffff;color:#000000;font-stretch:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill-rule:nonzero;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" d="M 82.326172,44 76.574757,72 H 52 v 10 h 22.522023 l -5.735267,28 H 52 v 10 h 14.734022 l -5.7516,28 h 10.207031 l 5.753553,-28 h 28.783204 l -5.751601,28 h 10.207031 l 5.75356,-28 H 140 V 110 H 117.98598 L 123.7232,82 H 140 V 72 h -14.22602 l 5.75336,-28 h -10.20898 l -5.75141,28 H 86.781788 l 5.753368,-28 z m 2.404835,38 h 28.783203 l -5.73526,28 H 78.993787 Z"/>
+  <path style="opacity:0.2;fill:#ffffff;stop-color:#000000" d="M 96,16 A 80,80 0 0 0 16,96 80,80 0 0 0 16.035156,96.5 80,80 0 0 1 96,17 80,80 0 0 1 175.98242,96.253906 80,80 0 0 0 176,96 80,80 0 0 0 96,16 Z"/>
+  <circle r="44" cy="142" cx="144" style="filter:url(#filter2135);opacity:0.2;fill:#000000"/>
+  <circle r="44" cy="140" cx="144" style="fill:#f44336"/>
+  <path style="fill:none;stroke:#f8f8f8;stroke-width:12;stroke-linecap:round;stroke-linejoin:round" d="m 125,140.0003 16,16 26,-33"/>
+</svg>

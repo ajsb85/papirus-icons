@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg22">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter862" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter886" x="-0.042426786" width="1.0848536" y="-0.055258844" height="1.1105177">
+      <feGaussianBlur stdDeviation="2.1213393"/>
+    </filter>
+  </defs>
+  <rect style="filter:url(#filter862);opacity:0.2;fill:#000000" width="160" height="160" x="-180" y="-176" rx="80" ry="80" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="80" rx="80" y="-176" x="-176" height="160" width="160" style="fill:#566df3"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 96 16 C 51.68 16 16 51.68 16 96 C 16 96.116813 16.005391 96.231684 16.007812 96.347656 C 16.356433 52.330881 51.897996 17 96 17 C 140.10527 17 175.64875 52.336104 175.99219 96.357422 C 175.99453 96.238196 176 96.119996 176 96 C 176 51.68 140.32 16 96 16 z "/>
+  <path style="filter:url(#filter886);opacity:0.2" d="M 95.869141 53.949219 A 4.0004 4.0004 0 0 0 92.154297 56.902344 L 68.154297 140.90234 A 4.0004 4.0004 0 1 0 75.845703 143.09961 L 99.845703 59.099609 A 4.0004 4.0004 0 0 0 95.869141 53.949219 z M 42 66 C 38.676 66 36 68.676 36 72 L 36 124 C 36 127.324 38.676 130 42 130 L 62 130 C 65.324 130 68 127.324 68 124 L 68 72 C 68 68.676 65.324 66 62 66 L 42 66 z M 124 66 A 32 32 0 0 0 92 98 A 32 32 0 0 0 124 130 A 32 32 0 0 0 156 98 A 32 32 0 0 0 124 66 z "/>
+  <rect ry="6" rx="6" y="64" x="36" height="64" width="32" style="fill:#ffffff"/>
+  <circle r="32" cy="96" cx="124" style="fill:#ffffff"/>
+  <path d="M 72,140 96,56" style="fill:none;stroke:#1ce8b5;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"/>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg26">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter887" x="-0.045599999" width="1.0912" y="-0.050666666" height="1.1013333">
+      <feGaussianBlur stdDeviation="3.04"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter891" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="1.6"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter895" x="-0.047999999" width="1.096" y="-0.047999999" height="1.096">
+      <feGaussianBlur stdDeviation="0.96"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter905" x="-0.047999999" width="1.096" y="-0.047999999" height="1.096">
+      <feGaussianBlur stdDeviation="0.32"/>
+    </filter>
+  </defs>
+  <path style="filter:url(#filter887);opacity:0.2" d="M 68.20148,32.15121 57.359376,44 H 32 c -8.8,0 -16,7.2 -16,16 v 96 c 0,8.8 7.2,16 16,16 h 128 c 8.8,0 16,-7.2 16,-16 V 60 c 0,-8.8 -7.2,-16 -16,-16 H 134.64062 L 123.65178,31.990846 C 120,28 120,28 116,28 H 76 c -4,0 -4,0 -7.79852,4.15121 z"/>
+  <path style="fill:#4f4f4f" d="M 68.20148,28.15121 57.359376,40 H 32 c -8.8,0 -16,7.2 -16,16 v 96 c 0,8.8 7.2,16 16,16 h 128 c 8.8,0 16,-7.2 16,-16 V 56 c 0,-8.8 -7.2,-16 -16,-16 H 134.64062 L 123.65178,27.990846 C 120,24 120,24 116,24 H 76 c -4,0 -4,0 -7.79852,4.15121 z"/>
+  <path style="opacity:0.2" d="M 68.20148,28.15121 57.359376,40 H 32 c -8.8,0 -16,7.2 -16,16 v 8 h 160 v -8 c 0,-8.8 -7.2,-16 -16,-16 H 134.64062 L 123.65178,27.990846 C 120,24 120,24 116,24 H 76 c -4,0 -4,0 -7.79852,4.15121 z"/>
+  <circle style="fill:#2f2f2f" cx="96" cy="-104" r="52" transform="scale(1,-1)"/>
+  <circle style="filter:url(#filter905);opacity:0.1" cx="160" cy="58" r="8"/>
+  <circle style="fill:#ffffff" cx="160" cy="56" r="8"/>
+  <circle style="filter:url(#filter891);opacity:0.2" cx="96" cy="-108" r="40" transform="scale(1,-1)"/>
+  <circle style="fill:#00b1c4" cx="96" cy="-104" r="40" transform="scale(1,-1)"/>
+  <circle style="filter:url(#filter895);opacity:0.2" cx="96" cy="106" r="24"/>
+  <circle style="fill:#70f4ff" cx="96" cy="104" r="24"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 76 24 C 72 24 72.001645 23.997199 68.203125 28.148438 L 57.359375 40 L 32 40 C 23.2 40 16 47.2 16 56 L 16 57 C 16 48.2 23.2 41 32 41 L 57.359375 41 L 68.203125 29.148438 C 72.001645 24.9972 72 25 76 25 L 116 25 C 120 25 119.99666 25.001341 123.64844 28.992188 L 134.64062 41 L 160 41 C 168.8 41 176 48.2 176 57 L 176 56 C 176 47.2 168.8 40 160 40 L 134.64062 40 L 123.64844 27.992188 C 119.99666 24.001342 120 24 116 24 L 76 24 z "/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 96 80 A 24 24 0 0 0 72 104 A 24 24 0 0 0 72.005859 104.48047 A 24 24 0 0 1 96 81 A 24 24 0 0 1 119.99414 104.48242 A 24 24 0 0 0 120 104 A 24 24 0 0 0 96 80 z "/>
+</svg>

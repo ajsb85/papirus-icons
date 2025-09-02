@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg26">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter881" x="-0.043200002" width="1.0864" y="-0.054000002" height="1.108">
+      <feGaussianBlur stdDeviation="1.44"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter897" x="-0.028" width="1.056" y="-0.168" height="1.336">
+      <feGaussianBlur stdDeviation="0.56"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter913" x="-0.048" width="1.096" y="-0.048" height="1.096">
+      <feGaussianBlur stdDeviation="2.24"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter929" x="-0.042857143" width="1.0857143" y="-0.054545455" height="1.1090909">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+  </defs>
+  <rect style="filter:url(#filter897);opacity:0.2" width="48" height="8" x="96" y="170" rx="3" ry="4"/>
+  <rect style="filter:url(#filter929);opacity:0.2" width="112" height="88" x="64" y="20" rx="12" ry="12"/>
+  <circle style="filter:url(#filter913);opacity:0.2" cx="72" cy="100" r="56"/>
+  <rect style="fill:#00b4ed" width="112" height="88" x="64" y="16" rx="12" ry="12"/>
+  <circle style="fill:#4f4f4f" cx="72" cy="96" r="56"/>
+  <circle style="fill:#3f3f3f" cx="72" cy="96" r="44"/>
+  <circle style="opacity:0.2" cx="72" cy="96" r="16"/>
+  <rect style="fill:#3f3f3f" width="24" height="20" x="108" y="152" rx="3.428" ry="4"/>
+  <rect style="filter:url(#filter881);opacity:0.2" width="80" height="64" x="80" y="102" rx="8.5719995" ry="8.7279997"/>
+  <rect style="fill:#1d64bc" width="80" height="64" x="80" y="100" rx="8.5719995" ry="8.7279997"/>
+  <rect style="fill:#4f4f4f" width="48" height="8" x="96" y="168" rx="3" ry="4"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 76 16 C 69.352 16 64 21.352 64 28 L 64 29 C 64 22.352 69.352 17 76 17 L 164 17 C 170.648 17 176 22.352 176 29 L 176 28 C 176 21.352 170.648 16 164 16 L 76 16 z "/>
+</svg>

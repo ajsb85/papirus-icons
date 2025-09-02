@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg28">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter6495" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter4861" x="-0.074605263" y="-0.075398936" width="1.1492105" height="1.1507979">
+      <feGaussianBlur stdDeviation="2.953125"/>
+    </filter>
+  </defs>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="11.925" rx="11.925" y="-175.5" x="-175.5" height="159" width="159" style="fill:#393939"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-180" height="160" width="160" style="filter:url(#filter6495);opacity:0.2;fill:#000000"/>
+  <path style="fill:#35daba" d="M 28 16 C 21.352 16 16 21.352 16 28 L 16 46.828125 L 145.17188 176 L 164 176 C 170.648 176 176 170.648 176 164 L 176 145.17188 L 46.828125 16 L 28 16 z "/>
+  <path style="fill:#19c2de" d="M 16 46.828125 L 16 108.48828 L 83.511719 176 L 145.17188 176 L 16 46.828125 z "/>
+  <path style="fill:#3191fe" d="M 16 108.48828 L 16 164 C 16 170.648 21.352 176 28 176 L 83.511719 176 L 16 108.48828 z "/>
+  <path style="fill:#f6b92c" d="M 46.828125 16 L 176 145.17188 L 176 83.511719 L 108.48828 16 L 46.828125 16 z "/>
+  <path style="fill:#fb693a" d="M 108.48828 16 L 176 83.511719 L 176 28 C 176 21.352 170.648 16 164 16 L 108.48828 16 z "/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 83.511719 16 L 16 83.511719 L 16 145.17188 L 145.17188 16 L 83.511719 16 z "/>
+  <path style="opacity:0.25;fill:#ffffff" d="M 28 16 C 21.352 16 16 21.352 16 28 L 16 83.511719 L 83.511719 16 L 28 16 z "/>
+  <path style="opacity:0.07;fill:#000000" d="M 176 46.828125 L 46.828125 176 L 108.48828 176 L 176 108.48828 L 176 46.828125 z "/>
+  <path style="opacity:0.15;fill:#000000" d="M 176 108.48828 L 108.48828 176 L 164 176 C 170.648 176 176 170.648 176 164 L 176 108.48828 z "/>
+  <path style="opacity:0.2;fill:#ffffff" d="m 28,16 c -6.648,0 -12,5.352 -12,12 v 1 c 0,-6.648 5.352,-12 12,-12 h 136 c 6.648,0 12,5.352 12,12 v -1 c 0,-6.648 -5.352,-12 -12,-12 z"/>
+  <path style="filter:url(#filter4861);opacity:0.2;fill:#000000" d="m 83,51 v 94 H 93 V 51 Z M 66,65 v 66 H 76 V 65 Z m 34,6 v 54 h 10 V 71 Z m 34,5 v 44 h 10 V 76 Z m -85,3 v 38 H 59 V 79 Z m 68,4 v 30 h 10 V 83 Z"/>
+  <path style="fill:#ffffff" d="M 83 49 L 83 143 L 93 143 L 93 49 L 83 49 z M 66 63 L 66 129 L 76 129 L 76 63 L 66 63 z M 100 69 L 100 123 L 110 123 L 110 69 L 100 69 z M 134 74 L 134 118 L 144 118 L 144 74 L 134 74 z M 49 77 L 49 115 L 59 115 L 59 77 L 49 77 z M 117 81 L 117 111 L 127 111 L 127 81 L 117 81 z "/>
+</svg>

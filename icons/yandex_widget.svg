@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg12">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter884" x="-0.043134169" width="1.0862683" y="-0.054103215" height="1.1082064">
+      <feGaussianBlur stdDeviation="2.3444727"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter891" x="-0.042559972" width="1.0851199" y="-0.055034534" height="1.1100691">
+      <feGaussianBlur stdDeviation="2.2931055"/>
+    </filter>
+  </defs>
+  <path style="filter:url(#filter891);opacity:0.2;fill:#000000" d="M 16 48 L 44.416016 148 L 86.207031 148 L 57.791016 48 L 16 48 z M 75.103516 48 L 103.51953 148 L 145.31055 148 L 116.89648 48 L 75.103516 48 z "/>
+  <path style="fill:#fc363b" d="M 57.791043,44 H 16 l 29.552242,104 h 41.791041 z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 16 44 L 16.283203 45 L 57.791016 45 L 87.060547 148 L 87.34375 148 L 57.791016 44 L 16 44 z "/>
+  <path style="fill:#3f3f3f" d="M 116.89552,44 H 75.104478 l 29.552242,104 h 41.79104 z"/>
+  <path style="filter:url(#filter884);opacity:0.2;fill:#000000" d="M 75.103516,48 45.552734,152 H 87.34375 L 116.89648,48 Z m 59.105464,0 -29.55273,104 h 41.79102 L 176,48 Z"/>
+  <path style="fill:#167bfb" d="M 134.20896,44 H 176 l -29.55224,104 h -41.79104 z"/>
+  <path style="fill:#fecb2e" d="M 75.104478,44 H 116.89552 L 87.343283,148 H 45.55224 Z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 134.20898 44 L 104.65625 148 L 104.93945 148 L 134.20898 45 L 175.7168 45 L 176 44 L 134.20898 44 z "/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 75.103516 44 L 45.552734 148 L 45.835938 148 L 75.103516 45 L 116.61328 45 L 116.89648 44 L 75.103516 44 z "/>
+</svg>

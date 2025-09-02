@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg14">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter13010" x="-0.074318182" y="-0.075694444" width="1.1486364" height="1.1513889">
+      <feGaussianBlur stdDeviation="1.703125"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter13052" x="-0.075" y="-0.075" width="1.15" height="1.15">
+      <feGaussianBlur stdDeviation="3.4375"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter13094" x="-0.075" y="-0.075" width="1.15" height="1.15">
+      <feGaussianBlur stdDeviation="4.0625"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter13136" x="-0.11442308" y="-0.05578125" width="1.2288462" height="1.1115625">
+      <feGaussianBlur stdDeviation="3.71875"/>
+    </filter>
+  </defs>
+  <rect style="filter:url(#filter13136);opacity:0.2;fill:#000000" width="78" height="160" x="57" y="18" ry="8"/>
+  <rect style="fill:#3f3f3f" width="78" height="160" x="57" y="16" ry="8"/>
+  <circle r="65" cy="98" cx="96" style="filter:url(#filter13094);opacity:0.2;fill:#000000"/>
+  <path style="fill:#38adfa" d="m 688.80525,256.99648 c -0.33229,-0.33229 -1.1948,-0.36781 -1.91667,-0.0789 -0.79773,0.31922 -0.56078,0.55618 0.60417,0.60416 1.05416,0.0434 1.64479,-0.19293 1.3125,-0.52522 z"/>
+  <circle r="65" cy="96" cx="96" style="fill:#4f4f4f"/>
+  <circle r="55" cy="98" cx="96" style="filter:url(#filter13052);opacity:0.2;fill:#000000"/>
+  <circle r="55" cy="96" cx="96" style="fill:#ffffff"/>
+  <path style="filter:url(#filter13010);opacity:0.2;fill:#000000;color:#000000" d="m 74,71 a 5.0005,5.0005 0 0 0 -5,5 v 44 a 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 V 81 h 40 a 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-5 z m 15,15 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 h 27.21484 l 4.93946,-10 z m 0,15 c -2.761309,2.8e-4 -4.999724,2.23869 -5,5 v 19 h 10 v -14 h 14.80469 l 4.93945,-10 z"/>
+  <path style="fill:#31ace1;color:#000000" d="m 74,69 a 5.0005,5.0005 0 0 0 -5,5 v 44 a 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 V 79 h 40 a 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-5 z"/>
+  <path style="fill:#6dbc48;color:#000000" d="m 89,84 a 5,5 0 0 0 -5,5 5,5 0 0 0 5,5 h 27.21484 l 4.93946,-10 z"/>
+  <path style="fill:#ed4445;color:#000000" d="m 89,99 c -2.761309,2.76e-4 -4.999724,2.23869 -5,5 v 19 h 10 v -14 h 14.80469 l 4.93945,-10 z"/>
+  <circle style="fill:#ffffff" cx="74" cy="74" r="2"/>
+  <circle style="fill:#ffffff" cx="89" cy="89" r="2"/>
+  <circle style="fill:#ffffff" cx="89" cy="104" r="2"/>
+</svg>

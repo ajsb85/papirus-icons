@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg14">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter848" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter859" x="-0.022499999" width="1.045" y="-0.025714285" height="1.0514286">
+      <feGaussianBlur stdDeviation="0.9"/>
+    </filter>
+  </defs>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="8" rx="8" y="-176" x="-180" height="160" width="160" style="filter:url(#filter848);opacity:0.2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="8" rx="8" y="-176" x="-176" height="160" width="160" style="fill:#546e7a"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 24 16 C 19.568 16 16 19.568 16 24 L 16 25 C 16 20.568 19.568 17 24 17 L 168 17 C 172.432 17 176 20.568 176 25 L 176 24 C 176 19.568 172.432 16 168 16 L 24 16 z "/>
+  <path d="m 84,54 c -4.432,0 -8,3.568 -8,8 v 8 H 56 c -4.432,0 -8,3.568 -8,8 v 52 c 0,4.432 3.568,8 8,8 h 12 v -20 c 0,-2.216 1.784,-4 4,-4 2.216,0 4,1.784 4,4 v 20 h 8 v -20 c 0,-2.216 1.784,-4 4,-4 2.216,0 4,1.784 4,4 v 20 h 8 v -20 c 0,-2.216 1.784,-4 4,-4 2.216,0 4,1.784 4,4 v 20 h 8 v -20 c 0,-2.216 1.784,-4 4,-4 2.216,0 4,1.784 4,4 v 20 h 12 c 4.432,0 8,-3.568 8,-8 V 78 c 0,-4.432 -3.568,-8 -8,-8 h -20 v -8 c 0,-4.432 -3.568,-8 -8,-8 z" style="filter:url(#filter859);opacity:0.1"/>
+  <path d="m 84,52 c -4.432,0 -8,3.568 -8,8 v 8 H 56 c -4.432,0 -8,3.568 -8,8 v 52 c 0,4.432 3.568,8 8,8 h 12 v -20 c 0,-2.216 1.784,-4 4,-4 2.216,0 4,1.784 4,4 v 20 h 8 v -20 c 0,-2.216 1.784,-4 4,-4 2.216,0 4,1.784 4,4 v 20 h 8 v -20 c 0,-2.216 1.784,-4 4,-4 2.216,0 4,1.784 4,4 v 20 h 8 v -20 c 0,-2.216 1.784,-4 4,-4 2.216,0 4,1.784 4,4 v 20 h 12 c 4.432,0 8,-3.568 8,-8 V 76 c 0,-4.432 -3.568,-8 -8,-8 h -20 v -8 c 0,-4.432 -3.568,-8 -8,-8 z" style="fill:#324249"/>
+</svg>

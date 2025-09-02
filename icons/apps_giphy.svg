@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg28">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter25288" x="-0.083388158" y="-0.068145161" width="1.1667763" height="1.1362903">
+      <feGaussianBlur stdDeviation="2.640625"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter25372" x="-0.29659091" y="-0.042927632" width="1.5931818" height="1.0858553">
+      <feGaussianBlur stdDeviation="1.359375"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter25376" x="-0.22159091" y="-0.045138889" width="1.4431818" height="1.0902778">
+      <feGaussianBlur stdDeviation="1.015625"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter25380" x="-0.108" y="-0.108" width="1.216" height="1.216">
+      <feGaussianBlur stdDeviation="1.485"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter25422" x="-0.0447" y="-0.051826087" width="1.0894" height="1.1036522">
+      <feGaussianBlur stdDeviation="2.98"/>
+    </filter>
+  </defs>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="10" rx="10" y="-165" x="-180" height="138" width="160" style="filter:url(#filter25422);opacity:0.2;fill:#000000"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="10" rx="10" y="-165" x="-176" height="138" width="160" style="fill:#3f3f3f"/>
+  <path style="filter:url(#filter25288);opacity:0.2;fill:#000000" d="m 58,49 v 93 H 69 V 49 Z m 65,22 v 71 h 11 V 71 Z"/>
+  <rect style="fill:#00ff99" width="11" height="98" x="58" y="47"/>
+  <rect style="fill:#a953ff" width="11" height="76" x="123" y="69"/>
+  <rect style="filter:url(#filter25376);opacity:0.2;fill:#000000" width="11" height="54" x="-60" y="58" transform="rotate(-90)"/>
+  <rect style="fill:#fff140" width="11" height="54" x="-58" y="58" transform="rotate(-90)"/>
+  <path style="filter:url(#filter25380);opacity:0.2;fill:#000000" d="m 101,49 v 11 11 11 h 11 22 V 71 H 123 V 60 H 112 V 49 Z"/>
+  <path style="fill:#ff6060" d="M 101 47 L 101 58 L 101 69 L 101 80 L 112 80 L 134 80 L 134 69 L 123 69 L 123 58 L 112 58 L 112 47 L 101 47 z "/>
+  <rect style="filter:url(#filter25372);opacity:0.2;fill:#000000" width="11" height="76" x="-147" y="58" transform="rotate(-90)"/>
+  <rect style="fill:#00abfd" width="11" height="76" x="-145" y="58" transform="rotate(-90)"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 37 16 C 31.46 16 27 20.46 27 26 L 27 27 C 27 21.46 31.46 17 37 17 L 155 17 C 160.54 17 165 21.46 165 27 L 165 26 C 165 20.46 160.54 16 155 16 L 37 16 z "/>
+</svg>

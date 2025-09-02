@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg22">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter893" x="-0.044571427" width="1.0891429" y="-0.052" height="1.104">
+      <feGaussianBlur stdDeviation="2.08"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter909" x="-0.044571427" width="1.0891429" y="-0.052" height="1.104">
+      <feGaussianBlur stdDeviation="2.08"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter925" x="-0.038999999" width="1.078" y="-0.062399998" height="1.1248">
+      <feGaussianBlur stdDeviation="1.04"/>
+    </filter>
+  </defs>
+  <path d="m 176,28.000003 -16,16 V 116 c 0,4.432 -3.568,8 -8,8 H 72 c -4.432,0 -8,-3.568 -8,-8 V 36.000003 c 0,-4.432 3.568,-8 8,-8 z" style="filter:url(#filter893);opacity:0.2;fill:#000000"/>
+  <path style="fill:#0286c2" d="m 176,24 -16,16 v 72 c 0,4.432 -3.568,8 -8,8 H 72 c -4.432,0 -8,-3.568 -8,-8 V 32 c 0,-4.432 3.568,-8 8,-8 z"/>
+  <path style="opacity:0.2" d="m 80,48 v 8 h 64 v -8 z m 0,16 v 8 h 64 v -8 z m 0,16 v 8 h 48 v -8 z"/>
+  <path style="fill:#0286c2" d="m 176,24 -16,16 v 72 c 0,4.432 -3.568,8 -8,8 H 72 c -4.432,0 -8,-3.568 -8,-8 V 32 c 0,-4.432 3.568,-8 8,-8 z"/>
+  <path d="m 16,76.000003 16,16 V 164 c 0,4.432 3.568,8 8,8 h 80 c 4.432,0 8,-3.568 8,-8 V 84.000003 c 0,-4.432 -3.568,-8 -8,-8 z" style="filter:url(#filter909);opacity:0.2;fill:#000000"/>
+  <path style="fill:#35b9f5" d="m 16,72 16,16 v 72 c 0,4.432 3.568,8 8,8 h 80 c 4.432,0 8,-3.568 8,-8 V 80 c 0,-4.432 -3.568,-8 -8,-8 z"/>
+  <path style="filter:url(#filter925);opacity:0.2" d="m 48,106 v 8 h 64 v -8 z m 0,16 v 8 h 64 v -8 z m 0,16 v 8 h 48 v -8 z"/>
+  <path style="fill:#aee3fb" d="m 48,104 v 8 h 64 v -8 z m 0,16 v 8 h 64 v -8 z m 0,16 v 8 h 48 v -8 z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 72 24 C 67.568 24 64 27.568 64 32 L 64 33 C 64 28.568 67.568 25 72 25 L 175 25 L 176 24 L 72 24 z "/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 16 72 L 17 73 L 120 73 C 124.432 73 128 76.568 128 81 L 128 80 C 128 75.568 124.432 72 120 72 L 16 72 z "/>
+</svg>

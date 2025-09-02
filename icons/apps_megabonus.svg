@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg12">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter860" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter835" x="-0.045818297" width="1.0916366" y="-0.050399864" height="1.1007997">
+      <feGaussianBlur stdDeviation="1.6799878"/>
+    </filter>
+  </defs>
+  <rect style="filter:url(#filter860);opacity:0.2" width="160" height="160" x="16" y="20" rx="8" ry="8"/>
+  <rect style="fill:#fddd08" width="160" height="160" x="16" y="16" rx="8" ry="8"/>
+  <path style="opacity:0.2;fill:#ffffff" d="m 24,16 c -4.432,0 -8,3.568 -8,8 v 1 c 0,-4.432 3.568,-8 8,-8 h 144 c 4.432,0 8,3.568 8,8 v -1 c 0,-4.432 -3.568,-8 -8,-8 z"/>
+  <path d="M 52.00043,58.000365 V 138 h 16 V 81.031615 L 86.539492,136.92773 86.869571,138 h 18.260859 l 0.33008,-1.07227 18.53906,-55.896115 V 138 h 16 V 58.000365 h -8.07812 -7.92188 -8.99609 L 96.000001,112.33398 76.996524,58.000365 H 68.00043 60.078555 Z" style="filter:url(#filter835);opacity:0.2;fill:#000000"/>
+  <path style="fill:#3a3a3a" d="m 52.00043,56.000375 v 79.999635 h 16 V 79.031625 l 18.539062,55.896115 0.330079,1.07227 h 18.260859 l 0.33008,-1.07227 18.53906,-55.896115 v 56.968385 h 16 V 56.000375 h -8.07812 -7.92188 -8.99609 L 96.000001,110.33399 76.996524,56.000375 H 68.00043 60.078555 Z"/>
+</svg>

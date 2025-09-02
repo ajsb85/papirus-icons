@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg16">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter853" x="-0.054000002" width="1.108" y="-0.043200002" height="1.0864">
+      <feGaussianBlur stdDeviation="2.88"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter885" x="-0.10032" width="1.20064" y="-0.031547171" height="1.0630943">
+      <feGaussianBlur stdDeviation="0.836"/>
+    </filter>
+  </defs>
+  <path d="m 40,20 c -4.432,0 -8,3.568 -8,8 v 144 c 0,4.432 3.568,8 8,8 h 112 c 4.432,0 8,-3.568 8,-8 V 28 c 0,-4.432 -3.568,-8 -8,-8 z" style="filter:url(#filter853);opacity:0.2;fill:#000000"/>
+  <path style="fill:#009587" d="m 40,16 c -4.432,0 -8,3.568 -8,8 v 144 c 0,4.432 3.568,8 8,8 h 112 c 4.432,0 8,-3.568 8,-8 V 24 c 0,-4.432 -3.568,-8 -8,-8 z"/>
+  <path style="opacity:0.2" d="m 40,16 c -4.432,0 -8,3.568 -8,8 v 144 c 0,4.432 3.568,8 8,8 H 55.914 V 16 H 40.002 Z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 40 16 C 35.568 16 32 19.568 32 24 L 32 25 C 32 20.568 35.568 17 40 17 L 152 17 C 156.432 17 160 20.568 160 25 L 160 24 C 160 19.568 156.432 16 152 16 L 40 16 z "/>
+  <path d="m 128.0164,20.4 c -4,0 -4,4 -4,4 V 84 l 10,-6 10,6 V 24.4 c 0,-4 -4,-4 -4,-4 z" style="filter:url(#filter885);opacity:0.2"/>
+  <path style="fill:#d8d8d8" d="m 124,16 v 66 l 10,-6 10,6 V 16 Z"/>
+</svg>

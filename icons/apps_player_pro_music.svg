@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg28">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter871" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter890" x="-0.047999999" width="1.096" y="-0.047999999" height="1.096">
+      <feGaussianBlur stdDeviation="2.56"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter906" x="-0.051999999" width="1.104" y="-0.044571429" height="1.0891429">
+      <feGaussianBlur stdDeviation="1.04"/>
+    </filter>
+  </defs>
+  <rect width="160" height="160" x="-180" y="-176" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)" style="filter:url(#filter871);opacity:0.2;fill:#000000"/>
+  <rect style="fill:#4f4f4f" transform="matrix(0,-1,-1,0,0,0)" ry="8" rx="8" y="-176" x="-176" height="160" width="160"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 24 16 C 19.568 16 16 19.568 16 24 L 16 25 C 16 20.568 19.568 17 24 17 L 168 17 C 172.432 17 176 20.568 176 25 L 176 24 C 176 19.568 172.432 16 168 16 L 24 16 z "/>
+  <circle r="64" cy="100" cx="96" style="filter:url(#filter890);opacity:0.2;fill:#000000"/>
+  <circle r="64" cy="96" cx="96" style="fill:#aee42e"/>
+  <circle r="52" cy="96" cx="96" style="fill:#3c3c3c"/>
+  <path d="m 128,100 -24,14 -23.999999,14 V 99.999997 72.000002 l 23.999999,14 z" style="filter:url(#filter906);opacity:0.1;fill:#000000"/>
+  <path d="M 128,96.000002 104,110 80.000001,124 V 95.999997 68.000002 l 23.999999,14 z" style="fill:#aee42e"/>
+  <circle r="8" cy="32" cx="32" style="fill:#3c3c3c"/>
+  <circle r="8" cy="32" cx="160" style="fill:#3c3c3c"/>
+  <circle r="8" cy="160" cx="32" style="fill:#3c3c3c"/>
+  <circle r="8" cy="160" cx="160" style="fill:#3c3c3c"/>
+</svg>

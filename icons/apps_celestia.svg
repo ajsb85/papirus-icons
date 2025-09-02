@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg28">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter1555" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
+      <feGaussianBlur stdDeviation="2.92"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter1603" x="-0.048000002" y="-0.048000002" width="1.096" height="1.096">
+      <feGaussianBlur stdDeviation="0.72"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter1607" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
+      <feGaussianBlur stdDeviation="1.6"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter1611" x="-0.048" y="-0.048" width="1.096" height="1.096">
+      <feGaussianBlur stdDeviation="1"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter1615" x="-0.048" y="-0.048" width="1.096" height="1.096">
+      <feGaussianBlur stdDeviation="0.44"/>
+    </filter>
+  </defs>
+  <circle style="filter:url(#filter1555);opacity:0.2;fill:#000000" cx="89" cy="105" r="73"/>
+  <circle style="fill:#3f3f3f" cx="89" cy="101" r="73"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 89 28 A 73 73 0 0 0 16 101 A 73 73 0 0 0 16.035156 101.5 A 73 73 0 0 1 89 29 A 73 73 0 0 1 161.98242 101.25586 A 73 73 0 0 0 162 101 A 73 73 0 0 0 89 28 z "/>
+  <circle style="filter:url(#filter1603);opacity:0.2;fill:#000000" cx="154" cy="136" r="18"/>
+  <circle style="fill:#4f4f4f" cx="154" cy="134" r="18"/>
+  <circle style="filter:url(#filter1607);opacity:0.2;fill:#000000" cx="136" cy="56" r="40"/>
+  <circle style="fill:#a27a40" cx="136" cy="54" r="40"/>
+  <circle style="filter:url(#filter1611);opacity:0.2;fill:#000000" cx="136" cy="56" r="25"/>
+  <circle style="fill:#f1b100" cx="136" cy="54" r="25"/>
+  <circle style="filter:url(#filter1615);opacity:0.2;fill:#000000" cx="136" cy="56" r="11"/>
+  <circle style="fill:#ffffff" cx="136" cy="54" r="11"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 154 116 A 18 18 0 0 0 136 134 A 18 18 0 0 0 136.03516 134.5 A 18 18 0 0 1 154 117 A 18 18 0 0 1 171.98242 134.25391 A 18 18 0 0 0 172 134 A 18 18 0 0 0 154 116 z "/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 136 14 A 40 40 0 0 0 96 54 A 40 40 0 0 0 96.035156 54.5 A 40 40 0 0 1 136 15 A 40 40 0 0 1 175.98242 54.257812 A 40 40 0 0 0 176 54 A 40 40 0 0 0 136 14 z "/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 136 29 A 25 25 0 0 0 111 54 A 25 25 0 0 0 111.03516 54.5 A 25 25 0 0 1 136 30 A 25 25 0 0 1 160.98242 54.25 A 25 25 0 0 0 161 54 A 25 25 0 0 0 136 29 z "/>
+</svg>

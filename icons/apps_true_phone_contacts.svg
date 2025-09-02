@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg14">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter866" x="-0.055200001" width="1.1104" y="-0.042461539" height="1.0849231">
+      <feGaussianBlur stdDeviation="1.84"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter850" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+  </defs>
+  <circle style="filter:url(#filter850);opacity:0.2;fill:#000000" cx="96" cy="100" r="80"/>
+  <circle r="80" cy="96" cx="96" style="fill:#2495dd"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 96,16 A 80,80 0 0 0 16,96 80,80 0 0 0 16.02,96.473 80,80 0 0 1 96,17 80,80 0 0 1 175.97,96.514 80,80 0 0 0 176,96 80,80 0 0 0 96,16 Z"/>
+  <path d="M 96,46 C 84.952,46 76,54.956 76,66 76,77.044 84.952,86 96,86 107.05,86 116,77.044 116,66 116,54.956 107.05,46 96,46 Z M 96,98 C 56.004,98.024 56,123.6 56,123.6 V 134 C 56,134 63.385,150 96,150 128.62,150 136,134 136,134 V 123.6 C 136,123.6 136,97.984 96.008,98 Z" style="filter:url(#filter866);opacity:0.2"/>
+  <path d="M 96,44 C 84.952,44 76,52.956 76,64 76,75.044 84.952,84 96,84 107.05,84 116,75.044 116,64 116,52.956 107.05,44 96,44 Z M 96,96 C 56.004,96.024 56,121.6 56,121.6 V 132 C 56,132 63.385,148 96,148 128.62,148 136,132 136,132 V 121.6 C 136,121.6 136,95.984 96.008,96 Z" style="fill:#ffffff"/>
+</svg>

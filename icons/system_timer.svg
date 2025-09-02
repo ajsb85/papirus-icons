@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg44">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter897" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter913" x="-0.061269391" width="1.1225388" y="-0.061269391" height="1.1225388">
+      <feGaussianBlur stdDeviation="1.2253878"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter941" x="-0.048000002" width="1.096" y="-0.048000002" height="1.096">
+      <feGaussianBlur stdDeviation="2.4"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter949" x="-0.024" width="1.048" y="-0.024" height="1.048">
+      <feGaussianBlur stdDeviation="0.28"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter965" x="-0.048006" width="1.096012" y="-0.047994" height="1.095988">
+      <feGaussianBlur stdDeviation="0.63992001"/>
+    </filter>
+  </defs>
+  <rect transform="rotate(-45)" ry="8" rx="8" y="43.32" x="-25.4" height="48" width="48" style="filter:url(#filter913);opacity:0.2"/>
+  <rect style="fill:#597123" transform="rotate(-45)" ry="8" rx="8" y="41.919998" x="-23.959999" height="48" width="48"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 46.632812 15.929688 C 44.587852 15.929688 42.543762 16.71429 40.976562 18.28125 L 18.351562 40.90625 C 16.685444 42.572369 15.990478 44.772533 16.113281 46.943359 C 16.227486 45.109714 16.941534 43.316279 18.351562 41.90625 L 40.976562 19.28125 C 42.543762 17.71429 44.587852 16.929688 46.632812 16.929688 C 48.676812 16.929688 50.725062 17.71445 52.289062 19.28125 L 74.921875 41.90625 C 76.330571 43.315163 77.045074 45.104605 77.160156 46.935547 C 77.281871 44.766558 76.586886 42.571518 74.921875 40.90625 L 52.289062 18.28125 C 50.725062 16.71445 48.676812 15.929687 46.632812 15.929688 z "/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="80" rx="80" y="-176" x="-180" height="160" width="160" style="filter:url(#filter897);opacity:0.2"/>
+  <rect style="fill:#96ba42" transform="matrix(0,-1,-1,0,0,0)" ry="80" rx="80" y="-176" x="-176" height="160" width="160"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 96 16 C 51.68 16 16 51.68 16 96 C 16 96.116813 16.005368 96.231684 16.007812 96.347656 C 16.356433 52.330881 51.897996 17 96 17 C 140.102 17 175.64357 52.330881 175.99219 96.347656 C 175.99459 96.231684 176 96.11681 176 96 C 176 51.68 140.32 16 96 16 z "/>
+  <circle r="60" cy="98" cx="96" style="filter:url(#filter941);opacity:0.2"/>
+  <circle style="fill:#ffffff" r="60" cy="96" cx="96"/>
+  <rect style="fill:#f45246" transform="rotate(30)" ry="8" rx="8" y="-12.88" x="123.16" height="56" width="16"/>
+  <g transform="matrix(4,0,0,4,0,2)" style="filter:url(#filter949);opacity:0.1">
+    <circle r="2" cy="36" cx="24"/>
+    <circle r="2" cy="12" cx="24"/>
+    <circle transform="rotate(90)" r="2" cy="-12" cx="24"/>
+    <circle transform="rotate(90)" r="2" cy="-36" cx="24"/>
+  </g>
+  <ellipse ry="16" rx="15.996" cy="98" cx="96" style="filter:url(#filter965);opacity:0.1"/>
+  <circle style="fill:#4d4d4d" r="16" cy="96" cx="96"/>
+  <g style="fill:#4d4d4d" transform="scale(4)">
+    <circle r="2" cy="36" cx="24"/>
+    <circle r="2" cy="12" cx="24"/>
+    <circle transform="rotate(90)" r="2" cy="-12" cx="24"/>
+    <circle transform="rotate(90)" r="2" cy="-36" cx="24"/>
+  </g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg54">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter909" x="-0.045599999" width="1.0912" y="-0.050666667" height="1.1013333">
+      <feGaussianBlur stdDeviation="3.04"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter946" x="-0.027428571" width="1.0548571" y="-0.192" height="1.384">
+      <feGaussianBlur stdDeviation="1.28"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter962" x="-0.048" width="1.096" y="-0.048" height="1.096">
+      <feGaussianBlur stdDeviation="1.76"/>
+    </filter>
+  </defs>
+  <path style="filter:url(#filter909);opacity:0.2;fill:#000000" d="m 24,24.000004 c -4.432,0 -8,3.568 -8,8 V 63.599613 64.000004 160 c 0,4.432 3.568,8 8,8 h 144 c 4.432,0 8,-3.568 8,-8 V 64.000004 63.599613 32.000004 c 0,-4.432 -3.568,-8 -8,-8 z"/>
+  <path d="M 16,59.600004 V 156 c 0,4.432 3.568,8 8,8 h 144 c 4.432,0 8,-3.568 8,-8 V 59.600004 Z" style="fill:#e4e4e4"/>
+  <path d="m 176,60.000004 v -32 c 0,-4.432 -3.568,-8 -8,-8 H 24 c -4.432,0 -8,3.568 -8,8 v 32 z" style="fill:#86c20a"/>
+  <path d="m 24,20.000004 c -4.432,0 -8,3.568 -8,8 v 2 c 0,-4.432 3.568,-8 8,-8 h 144 c 4.432,0 8,3.568 8,8 v -2 c 0,-4.432 -3.568,-8 -8,-8 z" style="opacity:0.2;fill:#ffffff"/>
+  <rect y="100.00001" x="132" height="24" width="24" style="opacity:0.2"/>
+  <rect y="100.00001" x="68" height="24" width="24" style="opacity:0.2"/>
+  <rect y="100.00001" x="36" height="24" width="24" style="opacity:0.2"/>
+  <rect y="132" x="100" height="24" width="24" style="opacity:0.2"/>
+  <rect y="132" x="132" height="24" width="24" style="opacity:0.2"/>
+  <rect y="132" x="68" height="24" width="24" style="opacity:0.2"/>
+  <rect y="132" x="36" height="24" width="24" style="opacity:0.2"/>
+  <rect y="68.000008" x="100" height="24" width="24" style="opacity:0.2"/>
+  <rect y="68.000008" x="132" height="24" width="24" style="opacity:0.2"/>
+  <rect y="68.000008" x="68" height="24" width="24" style="opacity:0.2"/>
+  <rect y="68.000008" x="36" height="24" width="24" style="opacity:0.2"/>
+  <path style="filter:url(#filter946);opacity:0.1" d="m 48,34.000004 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 96,0 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z"/>
+  <circle r="8" cy="40.000004" cx="48" style="fill:#ffffff"/>
+  <circle r="8" cy="40.000004" cx="144" style="fill:#ffffff"/>
+  <circle r="44" cy="144" cx="144" style="filter:url(#filter962);opacity:0.2"/>
+  <rect y="100.00001" x="100" height="24" width="24" style="opacity:0.2"/>
+  <circle r="44" cy="140" cx="144" style="fill:#507dd6"/>
+  <rect y="112.00001" x="140" height="56" width="8" style="fill:#ffffff"/>
+  <rect transform="rotate(90)" y="-172" x="136" height="56" width="8" style="fill:#ffffff"/>
+  <rect style="opacity:0.2;fill:#ffffff" width="160" height="1" x="16" y="60.000004"/>
+</svg>

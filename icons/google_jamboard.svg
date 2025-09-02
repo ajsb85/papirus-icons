@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg20">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter888" x="-0.060444445" width="1.1208889" y="-0.039804878" height="1.0796098">
+      <feGaussianBlur stdDeviation="2.72"/>
+    </filter>
+  </defs>
+  <path style="filter:url(#filter888);opacity:0.2;fill:#000000" d="m 92,16 v 56 0.07031 A 54,54 0 0 0 40,126 54,54 0 0 0 94,180 54,54 0 0 0 147.90039,128 H 148 V 72 16 Z"/>
+  <circle r="54" cy="122" cx="94" style="fill:#ffe03a"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 94 68 A 54 54 0 0 0 40 122 A 54 54 0 0 0 40.019531 122.46875 A 54 54 0 0 1 94 69 A 54 54 0 0 1 147.97266 122.47266 A 54 54 0 0 0 148 122 A 54 54 0 0 0 94 68 z "/>
+  <rect y="68" x="92" height="56" width="56" style="fill:#f89f10"/>
+  <path d="m 92,124 v 1 h 56 v -1 z" style="opacity:0.2;fill:#ffffff"/>
+  <path d="m 92,68 v 1 h 56 v -1 z" style="opacity:0.2;fill:#ffffff"/>
+  <rect y="12" x="92" height="56" width="56" style="fill:#ea7a09"/>
+  <path d="m 92,12 v 1 h 56 v -1 z" style="opacity:0.2;fill:#ffffff"/>
+</svg>

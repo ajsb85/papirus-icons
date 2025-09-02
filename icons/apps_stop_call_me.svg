@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg16">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter867" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter3259" x="-0.047999999" y="-0.047999999" width="1.096" height="1.096">
+      <feGaussianBlur stdDeviation="2.56"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter3301" x="-0.05220696" y="-0.052337732" width="1.1044139" height="1.1046755">
+      <feGaussianBlur stdDeviation="2.4795312"/>
+    </filter>
+  </defs>
+  <rect ry="80" rx="80" height="160" width="160" y="-176" x="-180" transform="matrix(0,-1,-1,0,0,0)" style="filter:url(#filter867);opacity:0.2;fill:#000000"/>
+  <rect style="fill:#f14037" transform="matrix(0,-1,-1,0,0,0)" x="-176" y="-176" width="160" height="160" rx="80" ry="80"/>
+  <circle style="filter:url(#filter3259);opacity:0.2;fill:#000000" cx="96" cy="98" r="64"/>
+  <circle style="fill:#ffffff" cx="96" cy="96" r="64"/>
+  <path style="fill:#545454" d="M 75 52 C 72.784 52 71 53.784 71 56 L 71 136 C 71 138.216 72.784 140 75 140 L 117 140 C 119.216 140 121 138.216 121 136 L 121 56 C 121 53.784 119.216 52 117 52 L 75 52 z M 78 59 L 114 59 L 114 121 L 78 121 L 78 59 z M 61 81 L 61 110 L 65 110 L 65 81 L 61 81 z M 127 81 L 127 110 L 131 110 L 131 81 L 127 81 z M 52 87 L 52 104 L 56 104 L 56 87 L 52 87 z M 136 87 L 136 104 L 140 104 L 140 87 L 136 87 z M 86 129 L 106 129 L 106 133 L 86 133 L 86 129 z "/>
+  <path style="filter:url(#filter3301);opacity:0.2;fill:#000000" d="M 145.73519,49.597236 45.005756,146.25291 c 3.384247,4.14035 -3.819933,10.35084 0.320416,13.73509 L 157.98828,47.325892 c -3.38425,-4.140349 -8.11274,5.655591 -12.25309,2.271344 z"/>
+  <path style="fill:#f14037" d="M 146.67383 34.011719 L 34.011719 146.67383 C 37.395966 150.81418 41.185823 154.60403 45.326172 157.98828 L 157.98828 45.326172 C 154.60403 41.185823 150.81418 37.395966 146.67383 34.011719 z "/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 96 16 C 51.68 16 16 51.68 16 96 C 16 96.336 16.002 96.6675 16 97 C 16 52.68 51.68 17 96 17 C 140.32 17 176 52.68 176 97 C 175.998 96.6675 176 96.336 176 96 C 176 51.68 140.32 16 96 16 z "/>
+</svg>

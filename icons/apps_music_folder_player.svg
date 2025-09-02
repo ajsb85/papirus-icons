@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg16">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter879" x="-0.039600002" width="1.0792" y="-0.060923079" height="1.1218462">
+      <feGaussianBlur stdDeviation="2.64"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter887" x="-0.019800001" width="1.0396" y="-0.03046154" height="1.0609231">
+      <feGaussianBlur stdDeviation="1.32"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter1265" x="-0.048000343" y="-0.047999657" width="1.0960007" height="1.0959993">
+      <feGaussianBlur stdDeviation="1.120008"/>
+    </filter>
+  </defs>
+  <rect style="filter:url(#filter879);opacity:0.2" width="160" height="104" x="16" y="68" rx="8" ry="8"/>
+  <path style="fill:#a9a9a9" d="m 16,136 c 0,4.432 3.568,8 8,8 h 144 c 4.432,0 8,-3.568 8,-8 V 48 c 0,-4.432 -3.568,-8 -8,-8 H 96 C 84,40 80,24 68,24 H 24 c -4.432,0 -8,3.568 -8,8"/>
+  <rect style="filter:url(#filter887);opacity:0.2" width="160" height="104" x="16" y="62" rx="8" ry="8"/>
+  <rect style="fill:#ffffff" width="144" height="64" x="24" y="52" rx="8" ry="8"/>
+  <rect style="fill:#e4e4e4" width="160" height="104" x="16" y="64" rx="8" ry="8"/>
+  <path style="opacity:0.1;fill:#ffffff" d="m 24,24 c -4.432,0 -8,3.568 -8,8 v 1 c 0,-4.432 3.568,-8 8,-8 h 44 c 12,0 16,16 28,16 h 72 c 4.432,0 8,3.568 8,8 v -1 c 0,-4.432 -3.568,-8 -8,-8 H 96 C 84,40 80,24 68,24 Z"/>
+  <path d="m 89.376,89.9992 c -2.956,0 -5.376,2.42 -5.376,5.376 V 122.75 C 82.73412,122.29592 81.42212,122 80,122 c -6.6272,0 -12,5.3728 -12,12 0,6.6272 5.3728,12 12,12 6.6272,0 12,-5.3728 12,-12 v -28 h 24 v 16.75 c -1.26588,-0.45408 -2.57788,-0.75 -4,-0.75 -6.6272,0 -12,5.3728 -12,12 0,6.6272 5.3728,12 12,12 6.6272,0 12,-5.3728 12,-12 V 94 h -0.25 c -0.59524,-2.29632 -2.63744,-4 -5.1248,-4 h -29.25 z" style="filter:url(#filter1265);opacity:0.1;fill:#000000"/>
+  <path d="m 89.376,87.9992 c -2.956,0 -5.376,2.42 -5.376,5.376 V 120.75 C 82.73412,120.29592 81.42212,120 80,120 c -6.6272,0 -12,5.3728 -12,12 0,6.6272 5.3728,12 12,12 6.6272,0 12,-5.3728 12,-12 v -28 h 24 v 16.75 c -1.26588,-0.45408 -2.57788,-0.75 -4,-0.75 -6.6272,0 -12,5.3728 -12,12 0,6.6272 5.3728,12 12,12 6.6272,0 12,-5.3728 12,-12 V 92 h -0.25 c -0.59524,-2.29632 -2.63744,-4 -5.1248,-4 h -29.25 z" style="fill:#0098da"/>
+</svg>

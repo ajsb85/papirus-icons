@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg28">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter6495" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter10010" x="-0.085498705" y="-0.066797671" width="1.1709974" height="1.1335953">
+      <feGaussianBlur stdDeviation="2.5605773"/>
+    </filter>
+  </defs>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-180" height="160" width="160" style="filter:url(#filter6495);opacity:0.2;fill:#000000"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-176" height="160" width="160" style="fill:#3f3f3f"/>
+  <path style="opacity:0.1;fill:#ffffff" d="m 28,16 c -6.648,0 -12,5.352 -12,12 v 1 c 0,-6.648 5.352,-12 12,-12 h 136 c 6.648,0 12,5.352 12,12 v -1 c 0,-6.648 -5.352,-12 -12,-12 z"/>
+  <path style="filter:url(#filter10010);opacity:0.2;fill:#000000" d="m 82.129884,52 -22.068359,92 h 16 L 98.129884,52 Z m 33.808586,0 -22.068351,92 h 16.000001 l 22.06835,-92 z"/>
+  <path style="fill:#11e8cd" d="m 82.129884,50 -22.068359,92 h 16 L 98.129884,50 Z m 33.808586,0 -22.068351,92 h 16.000001 l 22.06835,-92 z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 82.130859 50 L 60.0625 142 L 60.302734 142 L 82.130859 51 L 97.890625 51 L 98.130859 50 L 82.130859 50 z M 115.9375 50 L 93.871094 142 L 94.111328 142 L 115.9375 51 L 131.69727 51 L 131.9375 50 L 115.9375 50 z "/>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg12">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter860" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter898" x="-0.051579356" width="1.1031587" y="-0.044669032" height="1.0893381">
+      <feGaussianBlur stdDeviation="1.5352849"/>
+    </filter>
+  </defs>
+  <rect style="filter:url(#filter860);opacity:0.2" width="160" height="160" x="16" y="20" rx="48" ry="48"/>
+  <rect style="fill:#2e3746" width="160" height="160" x="16" y="16" rx="48" ry="48"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 64 16 C 37.408 16 16 37.408 16 64 L 16 65 C 16 38.408 37.408 17 64 17 L 128 17 C 154.592 17 176 38.408 176 65 L 176 64 C 176 37.408 154.592 16 128 16 L 64 16 z "/>
+  <path transform="matrix(1.0078785,0,0,0.87284842,0.07867875,18.316994)" d="m 134.85883,91.290771 -35.718587,20.622139 -35.718589,20.62214 0,-41.24428 0,-41.244273 35.718591,20.622138 z" style="filter:url(#filter898);opacity:0.2;fill:#000000"/>
+  <path style="fill:#ffffff" d="m 134.85883,91.290771 -35.718587,20.622139 -35.718589,20.62214 0,-41.24428 0,-41.244273 35.718591,20.622138 z" transform="matrix(1.0078785,0,0,0.87284842,0.07867875,16.316994)"/>
+</svg>

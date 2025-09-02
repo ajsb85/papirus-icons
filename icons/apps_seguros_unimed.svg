@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg28">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter6495" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter12779" x="-0.087428574" y="-0.14123077" width="1.1748571" height="1.2824615">
+      <feGaussianBlur stdDeviation="4.59"/>
+    </filter>
+  </defs>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-180" height="160" width="160" style="filter:url(#filter6495);opacity:0.2;fill:#000000"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-176" height="160" width="160" style="fill:#1c3f71"/>
+  <path style="opacity:0.1;fill:#ffffff" d="m 28,16 c -6.648,0 -12,5.352 -12,12 v 1 c 0,-6.648 5.352,-12 12,-12 h 136 c 6.648,0 12,5.352 12,12 v -1 c 0,-6.648 -5.352,-12 -12,-12 z"/>
+  <path style="filter:url(#filter12779);opacity:0.2;fill:#000000" d="M 70.982422,59 33,111 H 58.625 L 40,137 H 72 L 90.625,111 H 78 L 87,98 96,85 H 78 L 87,72 96,59 Z M 96,59 l 9,13 9,13 H 96 l 9,13 9,13 H 101.375 L 120,137 h 32 L 133.375,111 H 159 L 121.01758,59 Z"/>
+  <path style="fill:#18a6ff" d="M 70.982422,57 33,109 H 58.625 L 40,135 H 72 L 90.625,109 H 78 L 87,96 96,83 H 78 L 87,70 96,57 Z M 96,57 l 9,13 9,13 H 96 l 9,13 9,13 H 101.375 L 120,135 h 32 L 133.375,109 H 159 L 121.01758,57 Z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 70.982422 57 L 33 109 L 33.730469 109 L 70.982422 58 L 95.308594 58 L 96 57 L 70.982422 57 z M 96 57 L 96.691406 58 L 121.01758 58 L 158.26953 109 L 159 109 L 121.01758 57 L 96 57 z M 78.691406 83 L 78 84 L 95.308594 84 L 96 83 L 78.691406 83 z M 96 83 L 96.691406 84 L 114 84 L 113.30859 83 L 96 83 z M 78.691406 109 L 78 110 L 89.908203 110 L 90.625 109 L 78.691406 109 z M 101.375 109 L 102.0918 110 L 114 110 L 113.30859 109 L 101.375 109 z M 57.908203 110 L 40 135 L 40.716797 135 L 58.625 110 L 57.908203 110 z M 133.375 110 L 151.2832 135 L 152 135 L 134.0918 110 L 133.375 110 z "/>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg14">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter877" x="-0.054000002" width="1.108" y="-0.043200002" height="1.0864">
+      <feGaussianBlur stdDeviation="2.88"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter921" x="-0.1008" width="1.2016" y="-0.031499999" height="1.063">
+      <feGaussianBlur stdDeviation="0.84"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter941" x="-0.05171419" width="1.1034284" y="-0.044785803" height="1.0895716">
+      <feGaussianBlur stdDeviation="0.97035909"/>
+    </filter>
+  </defs>
+  <path style="filter:url(#filter877);opacity:0.2;fill:#000000" d="m 40,20 c -4.432,0 -8,3.568 -8,8 v 144 c 0,4.432 3.568,8 8,8 h 112 c 4.432,0 8,-3.568 8,-8 V 28 c 0,-4.432 -3.568,-8 -8,-8 z"/>
+  <path d="m 40,16 c -4.432,0 -8,3.568 -8,8 v 144 c 0,4.432 3.568,8 8,8 h 112 c 4.432,0 8,-3.568 8,-8 V 24 c 0,-4.432 -3.568,-8 -8,-8 z" style="fill:#d5502e"/>
+  <path style="opacity:0.3" d="m 40,16 c -4.432,0 -8,3.568 -8,8 v 144 c 0,4.432 3.568,8 8,8 H 55.914 V 16 H 40.002 Z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="m 40,16 c -4.432,0 -8,3.568 -8,8 v 1 c 0,-4.432 3.568,-8 8,-8 h 112 c 4.432,0 8,3.568 8,8 v -1 c 0,-4.432 -3.568,-8 -8,-8 z"/>
+  <path transform="matrix(0.99926005,0,0,1,-0.50673649,0.69624251)" d="m 130.60338,97.303757 -45.033326,26.000003 0,-52.000004 z" style="filter:url(#filter941);opacity:0.2;fill:#000000"/>
+  <path style="fill:#ffffff" d="m 130.60338,97.303757 -45.033326,26.000003 0,-52.000004 z" transform="matrix(0.99926005,0,0,1,-0.50673649,-1.3037567)"/>
+  <path style="filter:url(#filter921);opacity:0.2" d="m 127.916,20 c -4,0 -4,4 -4,4 v 60 l 10,-6 10,6 V 24 c 0,-4 -4,-4 -4,-4 z"/>
+  <path d="m 123.916,16 v 66 l 10,-6 10,6 V 16 Z" style="fill:#3f3f3f"/>
+</svg>

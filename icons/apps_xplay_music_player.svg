@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg22">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter864" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter892" x="-0.048000002" width="1.096" y="-0.048000002" height="1.096">
+      <feGaussianBlur stdDeviation="2.4"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter908" x="-0.051999999" width="1.104" y="-0.044571425" height="1.0891429">
+      <feGaussianBlur stdDeviation="1.04"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter930" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="1.6"/>
+    </filter>
+  </defs>
+  <path style="filter:url(#filter864);opacity:0.2;fill:#000000" d="M 176,100 C 175.69512,81.594636 122.94195,20.30488 96,20 51.68,20 16,55.68 16,100 c 0,44.32 35.68,80 80,80 44.32,0 80,-35.68 80,-80 z"/>
+  <path d="M 176,96 C 175.69512,77.594636 122.94195,16.30488 96,16 51.68,16 16,51.68 16,96 c 0,44.32 35.68,80 80,80 44.32,0 80,-35.68 80,-80 z" style="fill:#4f4f4f"/>
+  <path style="filter:url(#filter930);opacity:0.2;fill:#000000" d="m 96,18 v 80 h 80 C 176,53.68 140.32,18 96,18 Z"/>
+  <path d="m 96,16 v 80 h 80 C 176,51.68 140.32,16 96,16 Z" style="fill:#ff8739"/>
+  <path d="m 96,16 c -44.316,0 -79.992,35.68 -79.992,80 0,0.67088 -0.016,1.33316 0,2 C 17.0648,54.616 52.356,20 96,20 c 43.644,0 78.936,34.6144 79.992,78 0.016,-0.66684 0,-1.32912 0,-2 0,-44.32 -35.676,-80 -79.992,-80 z" style="opacity:0.1;fill:#ffffff"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="60" rx="60" y="-156" x="-160" height="120" width="120" style="filter:url(#filter892);opacity:0.2;fill:#000000"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="60" rx="60" y="-156" x="-156" height="120" width="120" style="fill:#ffffff"/>
+  <path d="M 128,97.999997 104,112 80.000001,126 V 97.999994 69.999998 l 23.999999,14 z" style="filter:url(#filter908);opacity:0.1"/>
+  <path d="M 128,96.000002 104,110 80.000001,124 V 95.999997 68.000002 l 23.999999,14 z" style="fill:#4f4f4f"/>
+  <path d="m 96,36 c -33.24,0 -60,26.76 -60,60 0,0.67578 0.07961,1.329748 0.101562,2 C 37.159309,65.702116 63.43578,40 96,40 128.56422,40 154.84069,65.702116 155.89844,98 155.92039,97.329748 156,96.67578 156,96 156,62.76 129.24,36 96,36 Z" style="opacity:0.1;fill:#fbfbfb"/>
+</svg>

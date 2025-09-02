@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg34">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter897" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter916" x="-0.048" width="1.096" y="-0.048" height="1.096">
+      <feGaussianBlur stdDeviation="2.24"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter932" x="-0.03948387" width="1.0789677" y="-0.061199999" height="1.1224">
+      <feGaussianBlur stdDeviation="0.51"/>
+    </filter>
+  </defs>
+  <circle style="filter:url(#filter897);opacity:0.2" cx="96" cy="100" r="80"/>
+  <circle style="fill:#1ca4d4" cx="96" cy="96" r="80"/>
+  <path style="filter:url(#filter916);opacity:0.2" d="M 96,42 A 56,56 0 0 0 40,98 56,56 0 0 0 96,154 56,56 0 0 0 152,98 56,56 0 0 0 96,42 Z m 0,8 a 48,48 0 0 1 42.936,26.5704 l -32.3672,21.578 -57.968,7.242 a 48,48 0 0 1 -0.6,-7.392 48,48 0 0 1 48,-48 z m 45.928,34.1876 a 48,48 0 0 1 2.072,13.812 48,48 0 0 1 -11.048,30.6 l -19.2188,-25.6248 28.1952,-18.7892 z m -35.742,22.0704 21.0704,28.0936 a 48,48 0 0 1 -31.256,11.648 48,48 0 0 1 -45.46,-32.788 l 55.648,-6.9532 z"/>
+  <path style="fill:#ffffff" d="M 96,40 A 56,56 0 0 0 40,96 56,56 0 0 0 96,152 56,56 0 0 0 152,96 56,56 0 0 0 96,40 Z m 0,8 A 48,48 0 0 1 144,96 48,48 0 0 1 96,144 48,48 0 0 1 48,96 48,48 0 0 1 96,48 Z"/>
+  <path style="fill:none;stroke:#ffffff;stroke-width:8" d="m 44,108 64,-8 36,-24"/>
+  <path style="fill:none;stroke:#ffffff;stroke-width:8" d="M 132,132 108,100"/>
+  <g style="filter:url(#filter932);opacity:0.2" transform="matrix(4,0,0,4,0,2)">
+    <circle cx="11" cy="27" r="3"/>
+    <circle cx="33" cy="33" r="3"/>
+    <circle cx="36" cy="19" r="3"/>
+    <circle cx="27" cy="25" r="3"/>
+  </g>
+  <circle style="fill:#ffffff" cx="132" cy="132" r="12"/>
+  <circle style="fill:#ffffff" cx="144" cy="76" r="12"/>
+  <circle style="fill:#ffffff" cx="108" cy="100" r="12"/>
+  <circle style="fill:#ffffff" cx="44" cy="108" r="12"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 96,16 A 80,80 0 0 0 16,96 80,80 0 0 0 16.017578,96.490234 80,80 0 0 1 96,17 80,80 0 0 1 175.97461,96.5 80,80 0 0 0 176,96 80,80 0 0 0 96,16 Z"/>
+</svg>

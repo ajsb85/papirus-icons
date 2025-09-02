@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg28">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter2932" x="-0.056199999" y="-0.041888198" width="1.1124" height="1.0837764">
+      <feGaussianBlur stdDeviation="2.81"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter3015" x="-0.057267442" y="-0.10863971" width="1.1145349" height="1.2172794">
+      <feGaussianBlur stdDeviation="3.078125"/>
+    </filter>
+  </defs>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-177" x="-160" height="161" width="120" style="filter:url(#filter2932);opacity:0.2;fill:#000000"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-177" x="-156" height="161" width="120" style="fill:#e4e4e4"/>
+  <rect style="fill:#ffffff" width="23" height="120" x="-62" y="36" transform="scale(-1,1)"/>
+  <rect style="fill:#ffffff" width="23" height="120" x="-108" y="36" transform="scale(-1,1)"/>
+  <rect style="fill:#ffffff" width="23" height="120" x="-154" y="36" transform="scale(-1,1)"/>
+  <path style="filter:url(#filter3015);opacity:0.2;fill:#000000" d="m 32,38 v 62 c 0,3.324 2.676,6 6,6 h 2 c 3.324,0 6,-2.676 6,-6 V 38 Z m 23,0 v 62 c 0,3.324 2.676,6 6,6 h 2 c 3.324,0 6,-2.676 6,-6 V 38 Z m 46,0 v 62 c 0,3.324 2.676,6 6,6 h 2 c 3.324,0 6,-2.676 6,-6 V 38 Z m 23,0 v 62 c 0,3.324 2.676,6 6,6 h 2 c 3.324,0 6,-2.676 6,-6 V 38 Z m 23,0 v 62 c 0,3.324 2.676,6 6,6 h 2 c 3.324,0 6,-2.676 6,-6 V 38 Z"/>
+  <path style="fill:#3f3f3f" d="M 32 36 L 32 98 C 32 101.324 34.676 104 38 104 L 40 104 C 43.324 104 46 101.324 46 98 L 46 36 L 32 36 z M 55 36 L 55 98 C 55 101.324 57.676 104 61 104 L 63 104 C 66.324 104 69 101.324 69 98 L 69 36 L 55 36 z M 101 36 L 101 98 C 101 101.324 103.676 104 107 104 L 109 104 C 112.324 104 115 101.324 115 98 L 115 36 L 101 36 z M 124 36 L 124 98 C 124 101.324 126.676 104 130 104 L 132 104 C 135.324 104 138 101.324 138 98 L 138 36 L 124 36 z M 147 36 L 147 98 C 147 101.324 149.676 104 153 104 L 155 104 C 158.324 104 161 101.324 161 98 L 161 36 L 147 36 z "/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 28 36 C 21.352 36 16 41.352 16 48 L 16 49 C 16 42.352 21.352 37 28 37 L 165 37 C 171.648 37 177 42.352 177 49 L 177 48 C 177 41.352 171.648 36 165 36 L 28 36 z "/>
+</svg>

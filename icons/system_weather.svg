@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg32">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter871" x="-0.038999999" width="1.078" y="-0.062399998" height="1.1248">
+      <feGaussianBlur stdDeviation="2.08"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter887" x="-0.048" width="1.096" y="-0.048" height="1.096">
+      <feGaussianBlur stdDeviation="2.24"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter903" x="-0.047999999" width="1.096" y="-0.047999999" height="1.096">
+      <feGaussianBlur stdDeviation="1.28"/>
+    </filter>
+  </defs>
+  <path d="m 172,108 c 0,21.39266 -8.39683,40.82412 -22.07444,55.17837 -14.57109,15.29193 -38.79397,0.0248 -61.584096,0.0248 -23.1397,0 -40.326276,14.97245 -54.933296,-0.73262 C 20.124646,148.18855 12.000001,129.04308 12.000001,108 12.000001,63.81722 47.81722,28 92,28 c 44.18278,0 80,35.81722 80,80 z" style="fill:#0091cf"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 92 28 A 80 80 0 0 0 12 108 A 80 80 0 0 0 12.019531 108.47266 A 80 80 0 0 1 92 29 A 80 80 0 0 1 171.97461 108.51367 A 80 80 0 0 0 172 108 A 80 80 0 0 0 92 28 z "/>
+  <path d="M 124,22 108,38 H 84 V 62 L 68,78 84,94 v 24 h 24 l 16,16 16,-16 h 24 V 94 L 180,78 164,62 V 38 h -24 z" style="filter:url(#filter887);opacity:0.2"/>
+  <path d="M 124,20 108,36 H 84 V 60 L 68,76 84,92 v 24 h 24 l 16,16 16,-16 h 24 V 92 L 180,76 164,60 V 36 h -24 z" style="fill:#ff8a47"/>
+  <circle r="32" cy="78" cx="124" style="filter:url(#filter903);opacity:0.2"/>
+  <circle r="32" cy="76" cx="124" style="fill:#ffcc42"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 124 20 L 108 36 L 84 36 L 84 37 L 108 37 L 124 21 L 140 37 L 164 37 L 164 36 L 140 36 L 124 20 z M 84 60 L 68 76 L 68.5 76.5 L 84 61 L 84 60 z M 164 60 L 164 61 L 179.5 76.5 L 180 76 L 164 60 z "/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 124 44 A 32 32 0 0 0 92 76 A 32 32 0 0 0 92.019531 76.464844 A 32 32 0 0 1 124 45 A 32 32 0 0 1 155.97461 76.513672 A 32 32 0 0 0 156 76 A 32 32 0 0 0 124 44 z "/>
+  <circle r="32" cy="132" cx="92" style="opacity:0.2"/>
+  <path d="m 92,100 a 32,32 0 0 0 -32,32 32,32 0 0 0 0.04688,1.42188 A 24,24 0 0 0 52,132 24,24 0 0 0 28,156 24,24 0 0 0 52,180 h 80 a 24,24 0 0 0 24,-24 24,24 0 0 0 -24,-24 24,24 0 0 0 -8.07031,1.42188 A 32,32 0 0 0 124,132 32,32 0 0 0 92,100 Z" style="filter:url(#filter871);opacity:0.2"/>
+  <circle r="24" cy="152" cx="52" style="fill:#ffffff"/>
+  <circle r="32" cy="128" cx="92" style="fill:#ffffff"/>
+  <circle r="24" cy="152" cx="132" style="fill:#ffffff"/>
+  <rect y="144" x="52" height="32" width="80" style="fill:#ffffff"/>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg8">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter843" x="-0.040465118" width="1.0809302" y="-0.05898305" height="1.1179661">
+      <feGaussianBlur stdDeviation="2.9"/>
+    </filter>
+  </defs>
+  <path d="M 126,40.000005 10,158.00001 H 57.3 L 108,105.55557 v 52.44444 l 47.92372,-48.02238 0.15256,48.02238 L 182,131.77779 V 40.000005 l -56,61.185185 z" style="filter:url(#filter843);opacity:0.2;fill:#000000;fill-rule:evenodd"/>
+  <path style="fill:#ed3ea0;fill-rule:evenodd" d="M 126,36.000005 10,154.00001 H 57.3 L 108,101.55557 v 52.44444 l 47.92372,-48.02238 0.15256,48.02238 L 182,127.77779 V 36.000005 L 126,97.18519 Z"/>
+  <path style="opacity:0.2;fill:#ffffff;fill-rule:evenodd" d="M 126,37 10,155 h 0.982422 L 126,38 Z m 56,0 -56,61.185547 v 1 L 182,38 Z"/>
+</svg>

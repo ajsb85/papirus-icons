@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg20">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter861" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter865" x="-0.051999998" y="-0.20799999" width="1.104" height="1.416">
+      <feGaussianBlur stdDeviation="2.08"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter869" x="-0.062399998" y="-0.1248" width="1.1248" height="1.2496">
+      <feGaussianBlur stdDeviation="2.08"/>
+    </filter>
+  </defs>
+  <rect style="filter:url(#filter861);opacity:0.2" width="160" height="160" x="16" y="20" rx="48" ry="48"/>
+  <rect style="fill:#795548" width="160" height="160" x="16" y="16" rx="48" ry="48"/>
+  <path style="fill:#6d4c41" d="m 64,16 c -5.624212,0 -10.993064,1.003859 -16,2.765625 V 48 H 80 V 16 Z m 16,32 v 32 h 32 V 48 Z m 32,0 h 32 V 18.765625 C 138.99306,17.003859 133.62421,16 128,16 h -16 z m 32,0 v 32 h 32 V 64 c 0,-5.624212 -1.00386,-10.993064 -2.76562,-16 z m 0,32 h -32 v 32 h 32 z m 0,32 v 32 h 29.23438 C 174.99614,138.99306 176,133.62421 176,128 v -16 z m 0,32 h -32 v 32 h 16 c 5.62421,0 10.99306,-1.00386 16,-2.76562 z m -32,0 V 112 H 80 v 32 z m -32,0 H 48 v 29.23438 C 53.006936,174.99614 58.375788,176 64,176 h 16 z m -32,0 V 112 H 16 v 16 c 0,5.62421 1.003859,10.99306 2.765625,16 z m 0,-32 H 80 V 80 H 48 Z M 48,80 V 48 H 18.765625 C 17.003859,53.006936 16,58.375788 16,64 v 16 z"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 64 16 C 37.408 16 16 37.408 16 64 L 16 65 C 16 38.408 37.408 17 64 17 L 128 17 C 154.592 17 176 38.408 176 65 L 176 64 C 176 37.408 154.592 16 128 16 L 64 16 z "/>
+  <rect style="fill:#bdbdbd" width="48" height="72" x="72" y="68"/>
+  <path style="filter:url(#filter869);opacity:0.2" d="m 56,42 v 24 c 0,8.864 7.136,16 16,16 h 48 c 8.864,0 16,-7.136 16,-16 V 42 H 120 V 58 H 104 V 42 H 88 V 58 H 72 V 42 Z"/>
+  <path style="fill:#ffffff" d="m 56,40 v 24 c 0,8.864 7.136,16 16,16 h 48 c 8.864,0 16,-7.136 16,-16 V 40 H 120 V 56 H 104 V 40 H 88 V 56 H 72 V 40 Z"/>
+  <path style="filter:url(#filter865);opacity:0.2" d="m 60,130 c -6.648,0 -12,5.352 -12,12 v 12 h 96 v -12 c 0,-6.648 -5.352,-12 -12,-12 z"/>
+  <path style="fill:#ffffff" d="m 60,128 c -6.648,0 -12,5.352 -12,12 v 12 h 96 v -12 c 0,-6.648 -5.352,-12 -12,-12 z"/>
+</svg>

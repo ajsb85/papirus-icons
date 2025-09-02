@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg14">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter848" x="-0.054000002" width="1.108" y="-0.043200002" height="1.0864">
+      <feGaussianBlur stdDeviation="2.88"/>
+    </filter>
+  </defs>
+  <path d="m 136,20 24,24 v 128 c 0,4.432 -3.568,8 -8,8 H 40 c -4.432,0 -8,-3.568 -8,-8 V 28 c 0,-4.432 3.568,-8 8,-8 z" style="filter:url(#filter848);opacity:0.2"/>
+  <path d="m 136,16 24,24 v 128 c 0,4.432 -3.568,8 -8,8 H 40 c -4.432,0 -8,-3.568 -8,-8 V 24 c 0,-4.432 3.568,-8 8,-8 z" style="fill:#e4e4e4"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 40 16 C 35.568 16 32 19.568 32 24 L 32 25 C 32 20.568 35.568 17 40 17 L 136 17 L 160 41 L 160 40 L 136 16 L 40 16 z "/>
+  <rect ry="8" rx="8" y="64" x="48" height="96" width="96" style="fill:#fca800"/>
+  <path d="m 68,64 v 44 h 76 v -4 H 128 V 64 h -4 v 40 H 108 V 64 h -4 v 40 H 88 V 64 h -4 v 40 H 72 V 64 Z m -20,68 v 4 h 36 v 24 h 4 v -24 h 16 v 24 h 4 v -24 h 16 v 24 h 4 v -24 h 16 v -4 z" style="opacity:0.4;fill-rule:evenodd"/>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg14">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter850" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter28116" x="-0.049984464" y="-0.15014" width="1.0999689" height="1.30028">
+      <feGaussianBlur stdDeviation="1.8327637"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter28161" x="-0.1040481" y="-0.11226395" width="1.2080962" height="1.2245279">
+      <feGaussianBlur stdDeviation="3.5983301"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter28203" x="-0.075" y="-0.075" width="1.15" height="1.15">
+      <feGaussianBlur stdDeviation="4.0625"/>
+    </filter>
+  </defs>
+  <circle style="filter:url(#filter850);opacity:0.2;fill:#000000" cx="96" cy="100" r="80"/>
+  <circle r="80" cy="96" cx="96" style="fill:#3a59b3"/>
+  <circle style="filter:url(#filter28203);opacity:0.2;fill:#000000" cx="96" cy="98" r="65"/>
+  <circle style="fill:#ffffff" cx="96" cy="96" r="65"/>
+  <path style="filter:url(#filter28161);opacity:0.2;fill:#000000" d="M 141,65.074219 111,82.414062 V 89 H 58 v 53 h 53 l 30,-23.92578 z"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 96 16 A 80 80 0 0 0 16 96 A 80 80 0 0 0 16.019531 96.472656 A 80 80 0 0 1 96 17 A 80 80 0 0 1 175.97461 96.513672 A 80 80 0 0 0 176 96 A 80 80 0 0 0 96 16 z "/>
+  <rect style="fill:#ff4300" width="53" height="53" x="58" y="87"/>
+  <path style="fill:#a22b00" d="M 111,80.414663 141,63.073796 V 116.0738 L 111,140 Z"/>
+  <path style="filter:url(#filter28116);opacity:0.2;fill:#000000" d="M 143,61.703125 115,80 H 55 v 11 h 60 l 28,-19.396484 z"/>
+  <path style="fill:#ff4300" d="m 55,78 h 60 V 89 H 55 Z"/>
+  <path style="fill:#bf3200" d="m 115,78 28,-18.296 v 9.900289 L 115,89 Z"/>
+  <path style="fill:#ff6933" d="M 84.453146,60 H 143 L 115,78 H 55 Z"/>
+  <rect style="fill:#a22b00" width="33" height="8" x="68" y="99"/>
+</svg>

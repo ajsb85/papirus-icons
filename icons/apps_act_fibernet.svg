@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg14">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter850" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter2043" x="-0.10677273" y="-0.10925581" width="1.2135455" height="1.2185116">
+      <feGaussianBlur stdDeviation="3.915"/>
+    </filter>
+  </defs>
+  <circle style="filter:url(#filter850);opacity:0.2;fill:#000000" cx="96" cy="100" r="80"/>
+  <circle r="80" cy="96" cx="96" style="fill:#eb3343"/>
+  <path style="fill:#38adfa" d="m 688.80525,256.99648 c -0.33229,-0.33229 -1.1948,-0.36781 -1.91667,-0.0789 -0.79773,0.31922 -0.56078,0.55618 0.60417,0.60416 1.05416,0.0434 1.64479,-0.19293 1.3125,-0.52522 z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 96 16 A 80 80 0 0 0 16 96 A 80 80 0 0 0 16.019531 96.472656 A 80 80 0 0 1 96 17 A 80 80 0 0 1 175.97461 96.513672 A 80 80 0 0 0 176 96 A 80 80 0 0 0 96 16 z "/>
+  <path style="filter:url(#filter2043);opacity:0.2;fill:#000000" d="m 96,44.999999 -22,43 L 52,131 96,106.08398 88,101 l 4,-8.000001 4,-8 4,8 L 104,101 96,106.08398 140,131 118,87.999999 Z"/>
+  <path style="fill:#ffffff" d="m 96,42.999999 -22,43 L 52,129 l 44,-24.91602 -8,-5.083981 4,-8 4,-8 4,8 4,8 -8,5.083981 L 140,129 118,85.999999 Z"/>
+</svg>

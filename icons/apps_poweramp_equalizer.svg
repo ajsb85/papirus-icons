@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg16">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter864" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter2526" x="-0.072383721" y="-0.0778125" width="1.1447674" height="1.155625">
+      <feGaussianBlur stdDeviation="2.59375"/>
+    </filter>
+  </defs>
+  <rect style="filter:url(#filter864);opacity:0.2;fill:#000000" width="160" height="160" x="-180" y="-176" rx="80" ry="80" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="80" rx="80" y="-176" x="-176" height="160" width="160" style="fill:#3f3f3f"/>
+  <path style="filter:url(#filter2526);opacity:0.2;fill:#000000" d="M 77,50 V 60 H 91 V 50 Z m 0,14 V 74 H 91 V 64 Z m 48,0 v 10 h 14 V 64 Z M 53,78 V 88 H 67 V 78 Z m 24,0 V 88 H 91 V 78 Z m 48,0 v 10 h 14 V 78 Z M 53,92 v 10 H 67 V 92 Z m 24,0 v 10 H 91 V 92 Z m 24,0 v 10 h 14 V 92 Z m 24,0 v 10 h 14 V 92 Z m -72,14 v 10 h 14 v -10 z m 24,0 v 10 h 14 v -10 z m 24,0 v 10 h 14 v -10 z m 24,0 v 10 h 14 v -10 z m -72,14 v 10 h 14 v -10 z m 24,0 v 10 h 14 v -10 z m 24,0 v 10 h 14 v -10 z m 24,0 v 10 h 14 v -10 z"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 96 16 C 51.684 16 16.007812 51.68 16.007812 96 C 16.007812 96.33544 16.009812 96.667215 16.007812 97 C 16.007812 52.68 51.684 17 96 17 C 140.316 17 175.99219 52.68 175.99219 97 C 175.99019 96.667215 175.99219 96.33544 175.99219 96 C 175.99219 51.68 140.316 16 96 16 z "/>
+  <rect style="fill:#00baa7" width="14" height="10" x="77" y="104"/>
+  <rect style="fill:#00baa7" width="14" height="10" x="77" y="118"/>
+  <rect style="fill:#00baa7" width="14" height="10" x="77" y="90"/>
+  <rect style="fill:#00baa7" width="14" height="10" x="77" y="76"/>
+  <rect style="fill:#00baa7" width="14" height="10" x="77" y="61.999996"/>
+  <rect style="fill:#00baa7" width="14" height="10" x="77" y="47.999996"/>
+  <rect style="fill:#f44336" width="14" height="10" x="101" y="104"/>
+  <rect style="fill:#f44336" width="14" height="10" x="101" y="118"/>
+  <rect style="fill:#f44336" width="14" height="10" x="101" y="90"/>
+  <rect style="fill:#ffc107" width="14" height="10" x="53" y="104"/>
+  <rect style="fill:#ffc107" width="14" height="10" x="53" y="118"/>
+  <rect style="fill:#ffc107" width="14" height="10" x="53" y="90"/>
+  <rect style="fill:#ffc107" width="14" height="10" x="53" y="76"/>
+  <rect style="fill:#00baa7" width="14" height="10" x="77" y="104"/>
+  <rect style="fill:#00baa7" width="14" height="10" x="77" y="118"/>
+  <rect style="fill:#00baa7" width="14" height="10" x="77" y="90"/>
+  <rect style="fill:#00baa7" width="14" height="10" x="77" y="76"/>
+  <rect style="fill:#00baa7" width="14" height="10" x="77" y="61.999996"/>
+  <rect style="fill:#00baa7" width="14" height="10" x="77" y="47.999996"/>
+  <rect style="fill:#f44336" width="14" height="10" x="101" y="104"/>
+  <rect style="fill:#f44336" width="14" height="10" x="101" y="118"/>
+  <rect style="fill:#f44336" width="14" height="10" x="101" y="90"/>
+  <rect style="fill:#ffffff" width="14" height="10" x="125" y="104"/>
+  <rect style="fill:#ffffff" width="14" height="10" x="125" y="118"/>
+  <rect style="fill:#ffffff" width="14" height="10" x="125" y="90"/>
+  <rect style="fill:#ffffff" width="14" height="10" x="125" y="76"/>
+  <rect style="fill:#ffffff" width="14" height="10" x="125" y="61.999996"/>
+</svg>

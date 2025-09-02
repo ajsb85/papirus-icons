@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg18">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter857" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter884" x="-0.028799999" width="1.0576" y="-0.144" height="1.288">
+      <feGaussianBlur stdDeviation="0.96"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter900" x="-0.028799999" width="1.0576" y="-0.144" height="1.288">
+      <feGaussianBlur stdDeviation="0.96"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter916" x="-0.050666666" width="1.1013333" y="-0.045599999" height="1.0912">
+      <feGaussianBlur stdDeviation="1.52"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter932" x="-0.028799999" width="1.0576" y="-0.144" height="1.288">
+      <feGaussianBlur stdDeviation="0.96"/>
+    </filter>
+  </defs>
+  <circle r="80" cy="100.00005" cx="96" style="filter:url(#filter857);opacity:0.2"/>
+  <circle r="80" cy="96.000046" cx="96" style="fill:#e4e4e4"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 96 16 A 80 80 0 0 0 16 96 A 80 80 0 0 0 16.017578 96.490234 A 80 80 0 0 1 96 17 A 80 80 0 0 1 175.97461 96.494141 A 80 80 0 0 0 176 96 A 80 80 0 0 0 96 16 z "/>
+  <rect style="filter:url(#filter932);opacity:0.1;fill:#000000" width="80" height="16" x="104" y="89.991142" ry="8"/>
+  <rect ry="8" y="87.991745" x="104" height="16" width="80" style="fill:#469961"/>
+  <rect style="filter:url(#filter884);opacity:0.1;fill:#000000" width="80" height="16" x="8" y="65.991142" ry="8"/>
+  <rect ry="8" y="63.991741" x="8" height="16" width="80" style="fill:#438f96"/>
+  <rect style="filter:url(#filter900);opacity:0.1;fill:#000000" width="80" height="16" x="8" y="113.99113" ry="8"/>
+  <rect ry="8" y="111.99174" x="8" height="16" width="80" style="fill:#469961"/>
+  <path style="filter:url(#filter916);opacity:0.1;fill:#000000" d="m 64,138 c 5.281684,-15.8016 7.934508,-28.148 8,-40 0.06712,-12.1496 -2.585684,-23.8016 -8,-40 49.84692,0 72,40 72,40 0,0 -22.15308,40 -72,40 z"/>
+  <path d="m 64,136.0006 c 5.281684,-15.8016 7.934508,-28.148 8,-40 0.06712,-12.1496 -2.585684,-23.8016 -8,-40 49.84692,0 72,40 72,40 0,0 -22.15308,40 -72,40 z" style="fill:#3f3f3f"/>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg24">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter866" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter894" x="-0.048000002" width="1.096" y="-0.048000002" height="1.096">
+      <feGaussianBlur stdDeviation="2.4"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter916" x="-0.047999999" width="1.096" y="-0.047999999" height="1.096">
+      <feGaussianBlur stdDeviation="0.64"/>
+    </filter>
+  </defs>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="80" rx="80" y="-176" x="-180" height="160" width="160" style="filter:url(#filter866);opacity:0.2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="80" rx="80" y="-176" x="-176" height="160" width="160" style="fill:#0098e1"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="60" rx="60" y="-156" x="-160" height="120" width="120" style="filter:url(#filter894);opacity:0.2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="60" rx="60" y="-156" x="-156" height="120" width="120" style="fill:#e3e3e3"/>
+  <path d="M 56,136 88.9348,88.936 103.064,103.0652 Z" style="fill:#f34235"/>
+  <path d="m 136,56 -47.064,32.9348 14.128,14.128 z" style="fill:#00a170"/>
+  <circle r="16" cy="98" cx="96" style="filter:url(#filter916);opacity:0.1;fill:#000000"/>
+  <circle r="16" cy="96" cx="96" style="fill:#ffffff"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 96 16 C 51.68 16 16 51.68 16 96 C 16 96.115411 16.006233 96.228869 16.007812 96.34375 C 16.358834 52.329079 51.899508 17 96 17 C 140.10049 17 175.64117 52.329079 175.99219 96.34375 C 175.99377 96.228869 176 96.115411 176 96 C 176 51.68 140.32 16 96 16 z "/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 96 36 C 62.76 36 36 62.76 36 96 C 36 96.12514 36.011037 96.247207 36.015625 96.371094 C 36.352428 63.424685 62.971025 37 96 37 C 129.02898 37 155.64757 63.424685 155.98438 96.371094 C 155.98896 96.247207 156 96.12514 156 96 C 156 62.76 129.24 36 96 36 z "/>
+</svg>

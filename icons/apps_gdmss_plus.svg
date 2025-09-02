@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg12">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter955" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter9063" x="-0.075" y="-0.075" width="1.15" height="1.15">
+      <feGaussianBlur stdDeviation="3.125"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter9106" x="-0.108" y="-0.108" width="1.216" height="1.216">
+      <feGaussianBlur stdDeviation="1.71"/>
+    </filter>
+  </defs>
+  <rect style="filter:url(#filter955);opacity:0.2;fill:#000000" width="160" height="160" x="16" y="20" rx="30" ry="30"/>
+  <rect style="fill:#425065" width="160" height="160" x="16" y="16" rx="30" ry="30"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 46 16 C 29.38 16 16 29.38 16 46 L 16 47 C 16 30.38 29.38 17 46 17 L 146 17 C 162.62 17 176 30.38 176 47 L 176 46 C 176 29.38 162.62 16 146 16 L 46 16 z "/>
+  <circle style="fill:#2f2f2f" cx="96" cy="96" r="60"/>
+  <circle style="filter:url(#filter9063);opacity:0.2;fill:#000000" cx="96" cy="98" r="50"/>
+  <circle style="fill:#269cff" cx="96" cy="96" r="50"/>
+  <circle style="fill:#404040" cx="96" cy="96" r="40"/>
+  <circle style="fill:#2f2f2f" cx="96" cy="96" r="25"/>
+  <path style="filter:url(#filter9106);opacity:0.2;fill:#000000" d="M 70,57 A 12,12 0 0 0 58,69 12,12 0 0 0 70,81 12,12 0 0 0 82,69 12,12 0 0 0 70,57 Z m 18,22 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z"/>
+  <path style="fill:#ffffff" d="M 70 56 A 12 12 0 0 0 58 68 A 12 12 0 0 0 70 80 A 12 12 0 0 0 82 68 A 12 12 0 0 0 70 56 z M 88 78 A 8 8 0 0 0 80 86 A 8 8 0 0 0 88 94 A 8 8 0 0 0 96 86 A 8 8 0 0 0 88 78 z "/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 96 46 A 50 50 0 0 0 46 96 A 50 50 0 0 0 46.035156 96.5 A 50 50 0 0 1 96 47 A 50 50 0 0 1 145.98242 96.255859 A 50 50 0 0 0 146 96 A 50 50 0 0 0 96 46 z "/>
+</svg>

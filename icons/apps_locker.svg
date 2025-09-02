@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg16">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter856" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter875" x="-0.047999999" width="1.096" y="-0.047999999" height="1.096">
+      <feGaussianBlur stdDeviation="1.92"/>
+    </filter>
+  </defs>
+  <circle style="filter:url(#filter856);opacity:0.2" cx="96" cy="100" r="80"/>
+  <circle style="fill:#00a6f0" cx="96" cy="96" r="80"/>
+  <path style="opacity:0.2;fill:#ffffff;fill-rule:evenodd" d="M 96 16 A 80 80 0 0 0 16 96 A 80 80 0 0 0 16.017578 96.513672 A 80 80 0 0 1 96 17 A 80 80 0 0 1 175.76562 92.320312 A 80 80 0 0 1 175.79102 92.832031 A 80 80 0 0 1 175.97656 96.517578 A 80 80 0 0 0 176 96 A 80 80 0 0 0 96 16 z "/>
+  <path style="filter:url(#filter875);opacity:0.2" d="m 80,50 c -6.648,0 -12,5.352 -12,12 v 28 h 8 V 62 h 44 v 72 H 76 v -28 h -8 v 28 c 0,6.648 5.352,12 12,12 h 36 c 6.648,0 12,-5.352 12,-12 V 62 c 0,-6.648 -5.352,-12 -12,-12 z M 48,82 A 16,16 0 0 0 32,98 16,16 0 0 0 48,114 16,16 0 0 0 63.476564,102 H 64 68 80 v 8 h 8 v -8 h 4 V 94 H 68 64 63.468752 A 16,16 0 0 0 48,82 Z m 0,8 a 8,8 0 0 1 8,8 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 z"/>
+  <path style="fill:#ffffff" d="m 80,48 c -6.648,0 -12,5.352 -12,12 v 28 h 8 V 60 h 44 v 72 H 76 v -28 h -8 v 28 c 0,6.648 5.352,12 12,12 h 36 c 6.648,0 12,-5.352 12,-12 V 60 c 0,-6.648 -5.352,-12 -12,-12 z M 48,80 A 16,16 0 0 0 32,96 16,16 0 0 0 48,112 16,16 0 0 0 63.476564,100 H 64 68 80 v 8 h 8 v -8 h 4 V 92 H 68 64 63.468752 A 16,16 0 0 0 48,80 Z m 0,8 a 8,8 0 0 1 8,8 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 z"/>
+</svg>

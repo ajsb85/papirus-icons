@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg14">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter967" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter971" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
+      <feGaussianBlur stdDeviation="1.6"/>
+    </filter>
+  </defs>
+  <path style="filter:url(#filter967);opacity:0.2;fill:#000000" d="M 96,20 A 80,80 0 0 0 16,100 80,80 0 0 0 96,180 80,80 0 0 0 176,100 80,80 0 0 0 96,20 Z"/>
+  <path style="fill:#e04c7f" d="M 96,16 A 80,80 0 0 0 16,96 80,80 0 0 0 96,176 80,80 0 0 0 176,96 80,80 0 0 0 96,16 Z"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 95.998047 16 A 80 80 0 0 0 16 96 A 80 80 0 0 0 16.029297 96.560547 A 80 80 0 0 1 95.998047 17 L 96 17 A 80 80 0 0 1 175.98438 96.376953 A 80 80 0 0 0 175.99805 96 A 80 80 0 0 0 96 16 L 95.998047 16 z "/>
+  <rect style="filter:url(#filter971);opacity:0.2" width="80" height="80" x="56" y="58" rx="12" ry="12"/>
+  <rect style="fill:#ffffff" width="80" height="80" x="56" y="56" rx="12" ry="12"/>
+  <rect style="fill:#ab4367" width="56" height="56" x="68" y="68" rx="8.3999996" ry="8.3999996"/>
+</svg>

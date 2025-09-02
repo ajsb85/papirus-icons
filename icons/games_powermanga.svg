@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg26">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter858" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
+      <feGaussianBlur stdDeviation="1.6"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter862" x="-0.036000001" y="-0.072000003" width="1.072" height="1.144">
+      <feGaussianBlur stdDeviation="2.4"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter866" x="-0.0672" y="-0.037333333" width="1.1344" height="1.0746667">
+      <feGaussianBlur stdDeviation="2.24"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter870" x="-0.060000001" y="-0.040000001" width="1.12" height="1.08">
+      <feGaussianBlur stdDeviation="0.8"/>
+    </filter>
+  </defs>
+  <circle cx="96" cy="139" r="40" style="filter:url(#filter858);opacity:0.2"/>
+  <circle cx="96" cy="136" r="40" style="fill:#fecd38"/>
+  <path d="m 96,20 c 16,0 40,40 40,112 0,32 -40,32 -40,32 0,0 -40,0 -40,-32 C 56,60 80,20 96,20 Z" style="filter:url(#filter866);opacity:0.2"/>
+  <path d="m 56,140 h 80 c 0,0 40,-8 40,-24 0,-40 -56,-56 -56,-56 H 72 c 0,0 -56,16 -56,56 0,16 40,24 40,24 z" style="filter:url(#filter862);opacity:0.2"/>
+  <path d="m 56,136 h 80 c 0,0 40,-8 40,-24 0,-40 -56,-56 -56,-56 H 72 c 0,0 -56,16 -56,56 0,16 40,24 40,24 z" style="fill:#3ad74a"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 72 56 C 72 56 16 72 16 112 C 16 112.09395 16.022016 112.18337 16.03125 112.27539 C 16.712007 72.814797 72 57 72 57 L 120 57 C 120 57 175.28799 72.814797 175.96875 112.27539 C 175.97798 112.18337 176 112.09394 176 112 C 176 72 120 56 120 56 L 72 56 z "/>
+  <path d="m 96,16 c 16,0 40,40 40,112 0,32 -40,32 -40,32 0,0 -40,0 -40,-32 C 56,56 80,16 96,16 Z" style="fill:#c2352a"/>
+  <ellipse cx="96" cy="114" rx="16" ry="24" style="filter:url(#filter870);opacity:0.2"/>
+  <ellipse cx="96" cy="112" rx="16" ry="24" style="fill:#4789d2"/>
+  <path style="opacity:0.2;fill:#ffffff" d="M 96 16 C 80 16 56 56 56 128 C 56 128.04443 56.007666 128.08246 56.009766 128.125 C 56.205602 56.682743 80.065728 17 96 17 C 111.93427 17 135.7944 56.682743 135.99023 128.125 C 135.99233 128.08246 136 128.04444 136 128 C 136 56 112 16 96 16 z "/>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg20">
+  <defs>
+    <filter style="color-interpolation-filters:sRGB" id="filter875" x="-0.054000002" width="1.108" y="-0.043200002" height="1.0864">
+      <feGaussianBlur stdDeviation="2.88"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" id="filter879" x="-0.111" width="1.222" y="-0.03062069" height="1.0612414">
+      <feGaussianBlur stdDeviation="1.48"/>
+    </filter>
+  </defs>
+  <rect style="filter:url(#filter875);opacity:0.2" width="128" height="160" x="32" y="20" rx="8" ry="8"/>
+  <rect style="fill:#3584e4" width="128" height="160" x="32" y="16" rx="8" ry="8"/>
+  <path style="filter:url(#filter879);opacity:0.2" d="m 84,42 c -2.216,0 -4,1.784 -4,4 0,2.216 1.784,4 4,4 h 24 c 2.216,0 4,-1.784 4,-4 0,-2.216 -1.784,-4 -4,-4 z m 0,52 c -2.216,0 -4,1.784 -4,4 0,2.216 1.784,4 4,4 h 24 c 2.216,0 4,-1.784 4,-4 0,-2.216 -1.784,-4 -4,-4 z m 0,56 c -2.216,0 -4,1.784 -4,4 0,2.216 1.784,4 4,4 h 24 c 2.216,0 4,-1.784 4,-4 0,-2.216 -1.784,-4 -4,-4 z"/>
+  <rect style="opacity:0.15" width="128" height="4" x="32" y="68"/>
+  <rect style="opacity:0.15" width="128" height="4" x="32" y="124"/>
+  <rect style="fill:#ffffff" width="32" height="8" x="80" y="40" rx="4" ry="4"/>
+  <rect style="fill:#ffffff" width="32" height="8" x="80" y="92" rx="4" ry="4"/>
+  <rect style="fill:#ffffff" width="32" height="8" x="80" y="148" rx="4" ry="4"/>
+  <path style="opacity:0.1;fill:#ffffff" d="M 40 16 C 35.568 16 32 19.568 32 24 L 32 25 C 32 20.568 35.568 17 40 17 L 152 17 C 156.432 17 160 20.568 160 25 L 160 24 C 160 19.568 156.432 16 152 16 L 40 16 z "/>
+</svg>
