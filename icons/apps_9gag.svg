@@ -1,16 +1,1 @@
-<?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg12">
-  <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter845" x="0.05" y="0.05" width="1.10" height="1.10">
-      <feGaussianBlur stdDeviation="3.20"/>
-    </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter849" x="0.05" y="0.04" width="1.10" height="1.09">
-      <feGaussianBlur stdDeviation="2.08"/>
-    </filter>
-  </defs>
-  <rect x="16" y="20" width="160" height="160" rx="16" ry="16" style="filter:url(#filter845);opacity:0.20"/>
-  <rect x="16" y="16" width="160" height="160" rx="16" ry="16" style="fill:#4f4f4f"/>
-  <path d="M 96,42 48,70 v 12 l 48,28 28,-16 v 20 L 96,130 68.11,114 48,125.89 96,154 144,125.89 V 70.52 Z M 96,62 116,74 96,86 76,74 Z" style="filter:url(#filter849);opacity:0.20"/>
-  <path d="M 96,40 48,68 v 12 l 48,28 28,-16 v 20 L 96,128 68.11,112 48,123.89 96,152 144,123.89 V 68.52 Z M 96,60 116,72 96,84 76,72 Z" style="fill:#ffffff"/>
-  <path style="opacity:0.10;fill:#ffffff" d="M 32 16 C 23.14 16 16 23.14 16 32 L 16 33 C 16 24.14 23.14 17 32 17 L 160 17 C 168.86 17 176 24.14 176 33 L 176 32 C 176 23.14 168.86 16 160 16 L 32 16 z "/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg12" width="192" height="192" version="1.1"><defs><filter style="color-interpolation-filters:sRGB" id="filter845" width="1.1" height="1.1" x=".05" y=".05"><feGaussianBlur stdDeviation="3.2"/></filter><filter style="color-interpolation-filters:sRGB" id="filter849" width="1.1" height="1.09" x=".05" y=".04"><feGaussianBlur stdDeviation="2.08"/></filter></defs><rect width="160" height="160" x="16" y="20" rx="16" ry="16" style="filter:url(#filter845);opacity:.2"/><rect width="160" height="160" x="16" y="16" rx="16" ry="16" style="fill:#4f4f4f"/><path d="M 96,42 48,70 v 12 l 48,28 28,-16 v 20 L 96,130 68.11,114 48,125.89 96,154 144,125.89 V 70.52 Z M 96,62 116,74 96,86 76,74 Z" style="filter:url(#filter849);opacity:.2"/><path d="M 96,40 48,68 v 12 l 48,28 28,-16 v 20 L 96,128 68.11,112 48,123.89 96,152 144,123.89 V 68.52 Z M 96,60 116,72 96,84 76,72 Z" style="fill:#fff"/><path style="opacity:.1;fill:#fff" d="M 32 16 C 23.14 16 16 23.14 16 32 L 16 33 C 16 24.14 23.14 17 32 17 L 160 17 C 168.86 17 176 24.14 176 33 L 176 32 C 176 23.14 168.86 16 160 16 L 32 16 z"/></svg>

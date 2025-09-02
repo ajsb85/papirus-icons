@@ -1,16 +1,1 @@
-<?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg12">
-  <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter860" x="0.05" width="1.10" y="0.05" height="1.10">
-      <feGaussianBlur stdDeviation="3.20"/>
-    </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter898" x="0.05" width="1.10" y="0.04" height="1.09">
-      <feGaussianBlur stdDeviation="1.54"/>
-    </filter>
-  </defs>
-  <rect style="filter:url(#filter860);opacity:0.20" width="160" height="160" x="16" y="20" rx="48" ry="48"/>
-  <rect style="fill:#2e3746" width="160" height="160" x="16" y="16" rx="48" ry="48"/>
-  <path style="opacity:0.10;fill:#ffffff" d="M 64 16 C 37.41 16 16 37.41 16 64 L 16 65 C 16 38.41 37.41 17 64 17 L 128 17 C 154.59 17 176 38.41 176 65 L 176 64 C 176 37.41 154.59 16 128 16 L 64 16 z "/>
-  <path transform="matrix(1.01,0,0,0.87,0.08,18.32)" d="m 134.86,91.29 -35.72,20.62 -35.72,20.62 0,-41.24 0,-41.24 35.72,20.62 z" style="filter:url(#filter898);opacity:0.20;fill:#000000"/>
-  <path style="fill:#ffffff" d="m 134.86,91.29 -35.72,20.62 -35.72,20.62 0,-41.24 0,-41.24 35.72,20.62 z" transform="matrix(1.01,0,0,0.87,0.08,16.32)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg12" width="192" height="192" version="1"><defs><filter style="color-interpolation-filters:sRGB" id="filter860" width="1.1" height="1.1" x=".05" y=".05"><feGaussianBlur stdDeviation="3.2"/></filter><filter style="color-interpolation-filters:sRGB" id="filter898" width="1.1" height="1.09" x=".05" y=".04"><feGaussianBlur stdDeviation="1.54"/></filter></defs><rect style="filter:url(#filter860);opacity:.2" width="160" height="160" x="16" y="20" rx="48" ry="48"/><rect style="fill:#2e3746" width="160" height="160" x="16" y="16" rx="48" ry="48"/><path style="opacity:.1;fill:#fff" d="M 64 16 C 37.41 16 16 37.41 16 64 L 16 65 C 16 38.41 37.41 17 64 17 L 128 17 C 154.59 17 176 38.41 176 65 L 176 64 C 176 37.41 154.59 16 128 16 L 64 16 z"/><path d="m 134.86,91.29 -35.72,20.62 -35.72,20.62 0,-41.24 0,-41.24 35.72,20.62 z" transform="matrix(1.01,0,0,0.87,0.08,18.32)" style="filter:url(#filter898);opacity:.2;fill:#000"/><path style="fill:#fff" d="m 134.86,91.29 -35.72,20.62 -35.72,20.62 0,-41.24 0,-41.24 35.72,20.62 z" transform="matrix(1.01,0,0,0.87,0.08,16.32)"/></svg>
