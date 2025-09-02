@@ -1,13 +1,1 @@
-<?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg14">
-  <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter2932" x="0.05" y="0.05" width="1.10" height="1.10">
-      <feGaussianBlur stdDeviation="3.20"/>
-    </filter>
-  </defs>
-  <circle style="fill:#3f3f3f" cx="96" cy="96" r="61.97"/>
-  <path style="filter:url(#filter2932);opacity:0.20;fill:#000000" d="m 96,20 a 80,80 0 0 0 -80,80 80,80 0 0 0 80,80 80,80 0 0 0 80,-80 80,80 0 0 0 -80,-80 z m 0,25 a 55,55 0 0 1 55,55 55,55 0 0 1 -55,55 55,55 0 0 1 -55,-55 55,55 0 0 1 55,-55 z"/>
-  <path style="fill:#42b947" d="M 96 16 A 80 80 0 0 0 16 96 A 80 80 0 0 0 96 176 A 80 80 0 0 0 176 96 A 80 80 0 0 0 96 16 z M 96 41 A 55 55 0 0 1 151 96 A 55 55 0 0 1 96 151 A 55 55 0 0 1 41 96 A 55 55 0 0 1 96 41 z "/>
-  <path style="fill:#38adfa" d="m 688.81,257.00 c 0.33,0.33 -1.19,0.37 -1.92,0.08 0.80,0.32 0.56,0.56 0.60,0.60 1.05,0.04 1.64,0.19 1.31,0.53 z"/>
-  <path style="opacity:0.20;fill:#ffffff" d="M 96 16 A 80 80 0 0 0 16 96 A 80 80 0 0 0 16.04 96.50 A 80 80 0 0 1 96 17 A 80 80 0 0 1 175.98 96.25 A 80 80 0 0 0 176 96 A 80 80 0 0 0 96 16 z M 150.98 96.26 A 55 55 0 0 1 96 151 A 55 55 0 0 1 41.04 96.50 A 55 55 0 0 0 41 97 A 55 55 0 0 0 96 152 A 55 55 0 0 0 151 97 A 55 55 0 0 0 150.98 96.26 z "/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg14" width="192" height="192" version="1"><defs><filter style="color-interpolation-filters:sRGB" id="filter2932" width="1.1" height="1.1" x=".05" y=".05"><feGaussianBlur stdDeviation="3.2"/></filter></defs><circle style="fill:#3f3f3f" cx="96" cy="96" r="61.97"/><path style="filter:url(#filter2932);opacity:.2;fill:#000" d="m 96,20 a 80,80 0 0 0 -80,80 80,80 0 0 0 80,80 80,80 0 0 0 80,-80 80,80 0 0 0 -80,-80 z m 0,25 a 55,55 0 0 1 55,55 55,55 0 0 1 -55,55 55,55 0 0 1 -55,-55 55,55 0 0 1 55,-55 z"/><path style="fill:#42b947" d="M 96 16 A 80 80 0 0 0 16 96 A 80 80 0 0 0 96 176 A 80 80 0 0 0 176 96 A 80 80 0 0 0 96 16 z M 96 41 A 55 55 0 0 1 151 96 A 55 55 0 0 1 96 151 A 55 55 0 0 1 41 96 A 55 55 0 0 1 96 41 z"/><path style="fill:#38adfa" d="m 688.81,257.00 c 0.33,0.33 -1.19,0.37 -1.92,0.08 0.80,0.32 0.56,0.56 0.60,0.60 1.05,0.04 1.64,0.19 1.31,0.53 z"/><path style="opacity:.2;fill:#fff" d="M 96 16 A 80 80 0 0 0 16 96 A 80 80 0 0 0 16.04 96.50 A 80 80 0 0 1 96 17 A 80 80 0 0 1 175.98 96.25 A 80 80 0 0 0 176 96 A 80 80 0 0 0 96 16 z M 150.98 96.26 A 55 55 0 0 1 96 151 A 55 55 0 0 1 41.04 96.50 A 55 55 0 0 0 41 97 A 55 55 0 0 0 96 152 A 55 55 0 0 0 151 97 A 55 55 0 0 0 150.98 96.26 z"/></svg>

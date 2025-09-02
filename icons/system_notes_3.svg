@@ -1,13 +1,1 @@
-<?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg12">
-  <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter845" x="0.05" y="0.05" width="1.10" height="1.09">
-      <feGaussianBlur stdDeviation="3.04"/>
-    </filter>
-  </defs>
-  <path style="filter:url(#filter845);opacity:0.20" d="m 36,20 h 120 c 6.65,0 12,5.35 12,12 v 84 l -64,64 H 36 c -6.65,0 -12,-5.35 -12,-12 V 32 c 0,-6.65 5.35,-12 12,-12 z"/>
-  <path style="fill:#ffc107;stop-color:#000000" d="m 36,16 h 120 c 6.65,0 12,5.35 12,12 v 84 l -64,64 H 36 c -6.65,0 -12,-5.35 -12,-12 V 28 c 0,-6.65 5.35,-12 12,-12 z"/>
-  <path style="fill:#ffdd7a" d="m 168,112 h -56 c -4.42,0 -8,3.58 -8,8 v 56 z"/>
-  <path style="opacity:0.20;fill:#ffffff" d="M 36 16 C 29.35 16 24 21.35 24 28 L 24 29 C 24 22.35 29.35 17 36 17 L 156 17 C 162.65 17 168 22.35 168 29 L 168 28 C 168 21.35 162.65 16 156 16 L 36 16 z "/>
-  <path style="opacity:0.20;fill:#ffffff" d="M 112 112 C 107.58 112 104 115.58 104 120 L 104 121 C 104 116.58 107.58 113 112 113 L 167 113 L 168 112 L 112 112 z "/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg12" width="192" height="192" version="1"><defs><filter style="color-interpolation-filters:sRGB" id="filter845" width="1.1" height="1.09" x=".05" y=".05"><feGaussianBlur stdDeviation="3.04"/></filter></defs><path style="filter:url(#filter845);opacity:.2" d="m 36,20 h 120 c 6.65,0 12,5.35 12,12 v 84 l -64,64 H 36 c -6.65,0 -12,-5.35 -12,-12 V 32 c 0,-6.65 5.35,-12 12,-12 z"/><path style="fill:#ffc107;stop-color:#000" d="m 36,16 h 120 c 6.65,0 12,5.35 12,12 v 84 l -64,64 H 36 c -6.65,0 -12,-5.35 -12,-12 V 28 c 0,-6.65 5.35,-12 12,-12 z"/><path style="fill:#ffdd7a" d="m 168,112 h -56 c -4.42,0 -8,3.58 -8,8 v 56 z"/><path style="opacity:.2;fill:#fff" d="M 36 16 C 29.35 16 24 21.35 24 28 L 24 29 C 24 22.35 29.35 17 36 17 L 156 17 C 162.65 17 168 22.35 168 29 L 168 28 C 168 21.35 162.65 16 156 16 L 36 16 z"/><path style="opacity:.2;fill:#fff" d="M 112 112 C 107.58 112 104 115.58 104 120 L 104 121 C 104 116.58 107.58 113 112 113 L 167 113 L 168 112 L 112 112 z"/></svg>

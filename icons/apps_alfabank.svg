@@ -1,16 +1,1 @@
-<?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg14">
-  <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter848" x="0.05" width="1.10" y="0.05" height="1.10">
-      <feGaussianBlur stdDeviation="3.20"/>
-    </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter846" x="0.06" width="1.12" y="0.04" height="1.08">
-      <feGaussianBlur stdDeviation="1.50"/>
-    </filter>
-  </defs>
-  <rect transform="matrix(0,-1,-1,0,0,0)" ry="8" rx="8" y="-176" x="-180" height="160" width="160" style="filter:url(#filter848);opacity:0.20"/>
-  <rect transform="matrix(0,-1,-1,0,0,0)" ry="8" rx="8" y="-176" x="-176" height="160" width="160" style="fill:#ef3124"/>
-  <path style="opacity:0.20;fill:#ffffff" d="m 24,16 c -4.43,0 -8,3.57 -8,8 v 1 c 0,-4.43 3.57,-8 8,-8 h 144 c 4.43,0 8,3.57 8,8 v -1 c 0,-4.43 -3.57,-8 -8,-8 z"/>
-  <path d="m 95.86,52.00 a 6.00,6.00 0 0 0 -5.37,3.61 l -23,53.00 11.01,4.78 L 83.45,102 h 24.32 l 4.69,11.30 11.08,-4.60 -22,-53.00 A 6.00,6.00 0 0 0 95.86,52.00 Z M 95.88,73.35 102.79,90 H 88.65 Z M 66,130 v 12 h 60 v -12 z" style="filter:url(#filter846);opacity:0.20;fill:#000000"/>
-  <path style="fill:#ffffff" d="M 95.86 50.00 A 6.00 6.00 0 0 0 90.50 53.61 L 67.50 106.61 L 78.50 111.39 L 83.45 100 L 107.77 100 L 112.46 111.30 L 123.54 106.70 L 101.54 53.70 A 6.00 6.00 0 0 0 95.86 50.00 z M 95.88 71.35 L 102.79 88 L 88.65 88 L 95.88 71.35 z M 66 128 L 66 140 L 126 140 L 126 128 L 66 128 z "/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg14" width="192" height="192" version="1"><defs><filter style="color-interpolation-filters:sRGB" id="filter848" width="1.1" height="1.1" x=".05" y=".05"><feGaussianBlur stdDeviation="3.2"/></filter><filter style="color-interpolation-filters:sRGB" id="filter846" width="1.12" height="1.08" x=".06" y=".04"><feGaussianBlur stdDeviation="1.5"/></filter></defs><rect width="160" height="160" x="-180" y="-176" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)" style="filter:url(#filter848);opacity:.2"/><rect width="160" height="160" x="-176" y="-176" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)" style="fill:#ef3124"/><path style="opacity:.2;fill:#fff" d="m 24,16 c -4.43,0 -8,3.57 -8,8 v 1 c 0,-4.43 3.57,-8 8,-8 h 144 c 4.43,0 8,3.57 8,8 v -1 c 0,-4.43 -3.57,-8 -8,-8 z"/><path d="m 95.86,52.00 a 6.00,6.00 0 0 0 -5.37,3.61 l -23,53.00 11.01,4.78 L 83.45,102 h 24.32 l 4.69,11.30 11.08,-4.60 -22,-53.00 A 6.00,6.00 0 0 0 95.86,52.00 Z M 95.88,73.35 102.79,90 H 88.65 Z M 66,130 v 12 h 60 v -12 z" style="filter:url(#filter846);opacity:.2;fill:#000"/><path style="fill:#fff" d="M 95.86 50.00 A 6.00 6.00 0 0 0 90.50 53.61 L 67.50 106.61 L 78.50 111.39 L 83.45 100 L 107.77 100 L 112.46 111.30 L 123.54 106.70 L 101.54 53.70 A 6.00 6.00 0 0 0 95.86 50.00 z M 95.88 71.35 L 102.79 88 L 88.65 88 L 95.88 71.35 z M 66 128 L 66 140 L 126 140 L 126 128 L 66 128 z"/></svg>

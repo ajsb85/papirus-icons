@@ -1,16 +1,1 @@
-<?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg28">
-  <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter6495" x="0.05" y="0.05" width="1.10" height="1.10">
-      <feGaussianBlur stdDeviation="3.20"/>
-    </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter1308" x="0.12" y="0.10" width="1.23" height="1.20">
-      <feGaussianBlur stdDeviation="3.78"/>
-    </filter>
-  </defs>
-  <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-180" height="160" width="160" style="filter:url(#filter6495);opacity:0.20;fill:#000000"/>
-  <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-176" height="160" width="160" style="fill:#ff8018"/>
-  <path style="opacity:0.20;fill:#ffffff" d="m 28,16 c -6.65,0 -12,5.35 -12,12 v 1 c 0,-6.65 5.35,-12 12,-12 h 136 c 6.65,0 12,5.35 12,12 v -1 c 0,-6.65 -5.35,-12 -12,-12 z"/>
-  <path style="filter:url(#filter1308);opacity:0.20;fill:#000000" d="m 63,53 c 0,0 -6,0 -6,6 v 54 c 0,0 0,6 6,6 h 6 V 65 h 48 v -6 c 0,-6 -6,-6 -6,-6 z m 18,18 c 0,0 -6,0 -6,6 v 60 c 0,6 6,6 6,6 h 48 c 0,0 6,0 6,-6 V 77 c 0,-6 -6,-6 -6,-6 z m 6,12 h 36 v 48 H 87 Z"/>
-  <path style="fill:#ffffff" d="m 63,51 c 0,0 -6,0 -6,6 v 54 c 0,0 0,6 6,6 h 6 V 63 h 48 v -6 c 0,-6 -6,-6 -6,-6 z m 18,18 c 0,0 -6,0 -6,6 v 60 c 0,6 6,6 6,6 h 48 c 0,0 6,0 6,-6 V 75 c 0,-6 -6,-6 -6,-6 z m 6,12 h 36 v 48 H 87 Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg28" width="192" height="192" version="1"><defs><filter style="color-interpolation-filters:sRGB" id="filter6495" width="1.1" height="1.1" x=".05" y=".05"><feGaussianBlur stdDeviation="3.2"/></filter><filter style="color-interpolation-filters:sRGB" id="filter1308" width="1.23" height="1.2" x=".12" y=".1"><feGaussianBlur stdDeviation="3.78"/></filter></defs><rect width="160" height="160" x="-180" y="-176" rx="12" ry="12" transform="matrix(0,-1,-1,0,0,0)" style="filter:url(#filter6495);opacity:.2;fill:#000"/><rect width="160" height="160" x="-176" y="-176" rx="12" ry="12" transform="matrix(0,-1,-1,0,0,0)" style="fill:#ff8018"/><path style="opacity:.2;fill:#fff" d="m 28,16 c -6.65,0 -12,5.35 -12,12 v 1 c 0,-6.65 5.35,-12 12,-12 h 136 c 6.65,0 12,5.35 12,12 v -1 c 0,-6.65 -5.35,-12 -12,-12 z"/><path style="filter:url(#filter1308);opacity:.2;fill:#000" d="m 63,53 c 0,0 -6,0 -6,6 v 54 c 0,0 0,6 6,6 h 6 V 65 h 48 v -6 c 0,-6 -6,-6 -6,-6 z m 18,18 c 0,0 -6,0 -6,6 v 60 c 0,6 6,6 6,6 h 48 c 0,0 6,0 6,-6 V 77 c 0,-6 -6,-6 -6,-6 z m 6,12 h 36 v 48 H 87 Z"/><path style="fill:#fff" d="m 63,51 c 0,0 -6,0 -6,6 v 54 c 0,0 0,6 6,6 h 6 V 63 h 48 v -6 c 0,-6 -6,-6 -6,-6 z m 18,18 c 0,0 -6,0 -6,6 v 60 c 0,6 6,6 6,6 h 48 c 0,0 6,0 6,-6 V 75 c 0,-6 -6,-6 -6,-6 z m 6,12 h 36 v 48 H 87 Z"/></svg>

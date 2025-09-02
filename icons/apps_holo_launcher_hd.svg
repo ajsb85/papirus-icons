@@ -1,16 +1,1 @@
-<?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg16">
-  <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter971" x="0.05" y="0.05" width="1.10" height="1.10">
-      <feGaussianBlur stdDeviation="3.20"/>
-    </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter1566" x="0.05" y="0.04" width="1.11" height="1.09">
-      <feGaussianBlur stdDeviation="1.60"/>
-    </filter>
-  </defs>
-  <rect style="filter:url(#filter971);opacity:0.20;fill:#000000" width="160" height="160" x="16" y="20" rx="80" ry="80"/>
-  <circle style="fill:#92c300;stop-color:#000000" cx="96" cy="96" r="80"/>
-  <path style="opacity:0.20;fill:#ffffff" d="M 96.00,16 C 51.68,16.00 16,51.68 16,96 c 0,0.17 0.01,0.34 0.01,0.52 C 16.27,52.42 51.84,17.00 96.00,17 H 96 c 44.16,0.00 79.73,35.42 79.99,79.52 0.00,0.17 0.01,0.34 0.01,0.52 0,-44.32 -35.68,-80.00 -80.00,-80 z"/>
-  <path style="filter:url(#filter1566);opacity:0.20;fill:#000000;stop-color:#000000" d="m 58,54 v 88 h 20 v -34 h 32 c 0,33.21 20,34 20,34 V 54 H 110 V 88 H 78 C 78.11,54.44 58,54 58,54 Z"/>
-  <path style="fill:#ffffff;stop-color:#000000" d="m 58,52 v 88 h 20 v -34 h 32 c 0,33.21 20,34 20,34 V 52 H 110 V 86 H 78 C 78.11,52.44 58,52 58,52 Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg16" width="192" height="192" version="1"><defs><filter style="color-interpolation-filters:sRGB" id="filter971" width="1.1" height="1.1" x=".05" y=".05"><feGaussianBlur stdDeviation="3.2"/></filter><filter style="color-interpolation-filters:sRGB" id="filter1566" width="1.11" height="1.09" x=".05" y=".04"><feGaussianBlur stdDeviation="1.6"/></filter></defs><rect style="filter:url(#filter971);opacity:.2;fill:#000" width="160" height="160" x="16" y="20" rx="80" ry="80"/><circle style="fill:#92c300;stop-color:#000" cx="96" cy="96" r="80"/><path style="opacity:.2;fill:#fff" d="M 96.00,16 C 51.68,16.00 16,51.68 16,96 c 0,0.17 0.01,0.34 0.01,0.52 C 16.27,52.42 51.84,17.00 96.00,17 H 96 c 44.16,0.00 79.73,35.42 79.99,79.52 0.00,0.17 0.01,0.34 0.01,0.52 0,-44.32 -35.68,-80.00 -80.00,-80 z"/><path style="filter:url(#filter1566);opacity:.2;fill:#000;stop-color:#000" d="m 58,54 v 88 h 20 v -34 h 32 c 0,33.21 20,34 20,34 V 54 H 110 V 88 H 78 C 78.11,54.44 58,54 58,54 Z"/><path style="fill:#fff;stop-color:#000" d="m 58,52 v 88 h 20 v -34 h 32 c 0,33.21 20,34 20,34 V 52 H 110 V 86 H 78 C 78.11,52.44 58,52 58,52 Z"/></svg>

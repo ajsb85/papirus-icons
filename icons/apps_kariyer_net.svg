@@ -1,16 +1,1 @@
-<?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg28">
-  <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter6495" x="0.05" y="0.05" width="1.10" height="1.10">
-      <feGaussianBlur stdDeviation="3.20"/>
-    </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter6087" x="0.10" y="0.06" width="1.19" height="1.12">
-      <feGaussianBlur stdDeviation="3.20"/>
-    </filter>
-  </defs>
-  <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-180" height="160" width="160" style="filter:url(#filter6495);opacity:0.20;fill:#000000"/>
-  <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-176" height="160" width="160" style="fill:#8316b5"/>
-  <path style="opacity:0.10;fill:#ffffff" d="m 28,16 c -6.65,0 -12,5.35 -12,12 v 1 c 0,-6.65 5.35,-12 12,-12 h 136 c 6.65,0 12,5.35 12,12 v -1 c 0,-6.65 -5.35,-12 -12,-12 z"/>
-  <path style="filter:url(#filter6087);opacity:0.20;fill:#000000" d="M 56,18 V 140.10 C 55.86,142.91 57.96,143 58.99,143 H 77.74 C 80.69,143 81,141.23 81,139.67 v -25.54 l 24.55,27.70 c 0.98,1.11 2.91,1.18 2.91,1.18 h 22.33 c 0,0 9.43,0.26 2.76,-7.27 L 102.60,100.81 130.56,69.27 C 137.22,61.74 127.79,62 127.79,62 h -22.33 c 0,0 -1.93,0.07 -2.91,1.18 L 81,87.49 V 18 Z"/>
-  <path style="fill:#ffffff" d="M 56 16 L 56 138.10 C 55.86 140.91 57.96 141 58.99 141 L 77.74 141 C 80.69 141 81 139.23 81 137.67 L 81 112.12 L 105.55 139.82 C 106.54 140.93 108.46 141.00 108.46 141.00 L 130.80 141.00 C 130.80 141.00 140.23 141.26 133.56 133.73 L 102.60 98.81 L 130.56 67.27 C 137.22 59.74 127.79 60 127.79 60 L 105.46 60 C 105.46 60 103.53 60.07 102.55 61.18 L 81 85.49 L 81 16 L 56 16 z "/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg28" width="192" height="192" version="1"><defs><filter style="color-interpolation-filters:sRGB" id="filter6495" width="1.1" height="1.1" x=".05" y=".05"><feGaussianBlur stdDeviation="3.2"/></filter><filter style="color-interpolation-filters:sRGB" id="filter6087" width="1.19" height="1.12" x=".1" y=".06"><feGaussianBlur stdDeviation="3.2"/></filter></defs><rect width="160" height="160" x="-180" y="-176" rx="12" ry="12" transform="matrix(0,-1,-1,0,0,0)" style="filter:url(#filter6495);opacity:.2;fill:#000"/><rect width="160" height="160" x="-176" y="-176" rx="12" ry="12" transform="matrix(0,-1,-1,0,0,0)" style="fill:#8316b5"/><path style="opacity:.1;fill:#fff" d="m 28,16 c -6.65,0 -12,5.35 -12,12 v 1 c 0,-6.65 5.35,-12 12,-12 h 136 c 6.65,0 12,5.35 12,12 v -1 c 0,-6.65 -5.35,-12 -12,-12 z"/><path style="filter:url(#filter6087);opacity:.2;fill:#000" d="M 56,18 V 140.10 C 55.86,142.91 57.96,143 58.99,143 H 77.74 C 80.69,143 81,141.23 81,139.67 v -25.54 l 24.55,27.70 c 0.98,1.11 2.91,1.18 2.91,1.18 h 22.33 c 0,0 9.43,0.26 2.76,-7.27 L 102.60,100.81 130.56,69.27 C 137.22,61.74 127.79,62 127.79,62 h -22.33 c 0,0 -1.93,0.07 -2.91,1.18 L 81,87.49 V 18 Z"/><path style="fill:#fff" d="M 56 16 L 56 138.10 C 55.86 140.91 57.96 141 58.99 141 L 77.74 141 C 80.69 141 81 139.23 81 137.67 L 81 112.12 L 105.55 139.82 C 106.54 140.93 108.46 141.00 108.46 141.00 L 130.80 141.00 C 130.80 141.00 140.23 141.26 133.56 133.73 L 102.60 98.81 L 130.56 67.27 C 137.22 59.74 127.79 60 127.79 60 L 105.46 60 C 105.46 60 103.53 60.07 102.55 61.18 L 81 85.49 L 81 16 L 56 16 z"/></svg>
