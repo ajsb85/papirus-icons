@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg12">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter955" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter955" x="0.05" width="1.10" y="0.05" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter11075" x="-0.075" y="-0.075" width="1.15" height="1.15">
-      <feGaussianBlur stdDeviation="3.875"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter11075" x="0.07" y="0.07" width="1.15" height="1.15">
+      <feGaussianBlur stdDeviation="3.88"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter11216" x="-0.075001633" y="-0.075000981" width="1.1500033" height="1.150002">
-      <feGaussianBlur stdDeviation="3.2500142"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter11216" x="0.08" y="0.08" width="1.15" height="1.15">
+      <feGaussianBlur stdDeviation="3.25"/>
     </filter>
   </defs>
-  <rect style="filter:url(#filter955);opacity:0.2;fill:#000000" width="160" height="160" x="16" y="20" rx="30" ry="30"/>
+  <rect style="filter:url(#filter955);opacity:0.20;fill:#000000" width="160" height="160" x="16" y="20" rx="30" ry="30"/>
   <rect style="fill:#3f3f3f" width="160" height="160" x="16" y="16" rx="30" ry="30"/>
-  <circle style="filter:url(#filter11075);opacity:0.2;fill:#000000" cx="96" cy="98" r="62"/>
-  <path style="opacity:0.1;fill:#ffffff" d="M 46 16 C 29.38 16 16 29.38 16 46 L 16 47 C 16 30.38 29.38 17 46 17 L 146 17 C 162.62 17 176 30.38 176 47 L 176 46 C 176 29.38 162.62 16 146 16 L 46 16 z "/>
+  <circle style="filter:url(#filter11075);opacity:0.20;fill:#000000" cx="96" cy="98" r="62"/>
+  <path style="opacity:0.10;fill:#ffffff" d="M 46 16 C 29.38 16 16 29.38 16 46 L 16 47 C 16 30.38 29.38 17 46 17 L 146 17 C 162.62 17 176 30.38 176 47 L 176 46 C 176 29.38 162.62 16 146 16 L 46 16 z "/>
   <circle style="fill:#c027d7" cx="96" cy="96" r="62"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 96 34 A 62 62 0 0 0 34 96 A 62 62 0 0 0 34.035156 96.5 A 62 62 0 0 1 96 35 A 62 62 0 0 1 157.98242 96.253906 A 62 62 0 0 0 158 96 A 62 62 0 0 0 96 34 z "/>
-  <path style="opacity:0.3;fill:#ffffff;color:#000000" d="m 96,55 c -22.631807,0 -41,18.368193 -41,41 0,22.63181 18.368193,41 41,41 22.63181,0 41,-18.36819 41,-41 0,-22.631807 -18.36819,-41 -41,-41 z m 0,2 c 21.55093,0 39,17.449072 39,39 0,21.55093 -17.44907,39 -39,39 C 74.449072,135 57,117.55093 57,96 57,74.449072 74.449072,57 96,57 Z"/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 96 34 A 62 62 0 0 0 34 96 A 62 62 0 0 0 34.04 96.50 A 62 62 0 0 1 96 35 A 62 62 0 0 1 157.98 96.25 A 62 62 0 0 0 158 96 A 62 62 0 0 0 96 34 z "/>
+  <path style="opacity:0.30;fill:#ffffff;color:#000000" d="m 96,55 c -22.63,0 -41,18.37 -41,41 0,22.63 18.37,41 41,41 22.63,0 41,-18.37 41,-41 0,-22.63 -18.37,-41 -41,-41 z m 0,2 c 21.55,0 39,17.45 39,39 0,21.55 -17.45,39 -39,39 C 74.45,135 57,117.55 57,96 57,74.45 74.45,57 96,57 Z"/>
   <circle style="fill:#cccccc" cx="96" cy="96" r="22"/>
   <circle style="fill:#006fd6" cx="96" cy="96" r="16"/>
-  <path style="filter:url(#filter11216);opacity:0.2;fill:#000000;color:#000000" d="m 50,46.000901 a 6,6 0 0 0 -4.242188,1.757812 6,6 0 0 0 0,8.484375 l 91.999998,92.000002 a 6,6 0 0 0 8.48438,0 6,6 0 0 0 0,-8.48438 L 54.242187,47.758713 A 6,6 0 0 0 50,46.000901 Z"/>
-  <path style="fill:#ffffff;color:#000000" d="m 50,44 a 6,6 0 0 0 -4.242188,1.757812 6,6 0 0 0 0,8.484375 l 91.999998,92.000003 a 6,6 0 0 0 8.48438,0 6,6 0 0 0 0,-8.48438 L 54.242187,45.757812 A 6,6 0 0 0 50,44 Z"/>
+  <path style="filter:url(#filter11216);opacity:0.20;fill:#000000;color:#000000" d="m 50,46.00 a 6,6 0 0 0 -4.24,1.76 6,6 0 0 0 0,8.48 l 92.00,92.00 a 6,6 0 0 0 8.48,0 6,6 0 0 0 0,-8.48 L 54.24,47.76 A 6,6 0 0 0 50,46.00 Z"/>
+  <path style="fill:#ffffff;color:#000000" d="m 50,44 a 6,6 0 0 0 -4.24,1.76 6,6 0 0 0 0,8.48 l 92.00,92.00 a 6,6 0 0 0 8.48,0 6,6 0 0 0 0,-8.48 L 54.24,45.76 A 6,6 0 0 0 50,44 Z"/>
 </svg>

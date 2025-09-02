@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg16">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter853" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter853" x="0.05" width="1.10" y="0.05" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter872" x="-0.049714284" width="1.0994286" y="-0.046399999" height="1.0928">
+    <filter style="color-interpolation-filters:sRGB" id="filter872" x="0.05" width="1.10" y="0.05" height="1.09">
       <feGaussianBlur stdDeviation="2.32"/>
     </filter>
   </defs>
-  <rect style="filter:url(#filter853);opacity:0.2;fill:#000000" width="160" height="160" x="-180" y="-176" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="filter:url(#filter853);opacity:0.20;fill:#000000" width="160" height="160" x="-180" y="-176" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)"/>
   <rect transform="matrix(0,-1,-1,0,0,0)" ry="8" rx="8" y="-176" x="-176" height="160" width="160" style="fill:#4f4f4f"/>
-  <path d="m 16,96 v 72 c 0,4.432 3.568,8 8,8 h 144 c 4.432,0 8,-3.568 8,-8 V 96 Z" style="opacity:0.1;fill:#ffffff"/>
-  <path style="opacity:0.1;fill:#ffffff" d="M 24 16 C 19.568 16 16 19.568 16 24 L 16 25 C 16 20.568 19.568 17 24 17 L 168 17 C 172.432 17 176 20.568 176 25 L 176 24 C 176 19.568 172.432 16 168 16 L 24 16 z "/>
-  <path d="M 128,38 V 54 H 64 52 V 90 H 64 V 66 h 64 V 82 L 140,71 152,60 140,49 Z m 0,68 v 24 H 64 v -16 l -12,11 -12,11 12,11 12,11 v -16 h 64 12 v -36 z" style="filter:url(#filter872);opacity:0.2"/>
+  <path d="m 16,96 v 72 c 0,4.43 3.57,8 8,8 h 144 c 4.43,0 8,-3.57 8,-8 V 96 Z" style="opacity:0.10;fill:#ffffff"/>
+  <path style="opacity:0.10;fill:#ffffff" d="M 24 16 C 19.57 16 16 19.57 16 24 L 16 25 C 16 20.57 19.57 17 24 17 L 168 17 C 172.43 17 176 20.57 176 25 L 176 24 C 176 19.57 172.43 16 168 16 L 24 16 z "/>
+  <path d="M 128,38 V 54 H 64 52 V 90 H 64 V 66 h 64 V 82 L 140,71 152,60 140,49 Z m 0,68 v 24 H 64 v -16 l -12,11 -12,11 12,11 12,11 v -16 h 64 12 v -36 z" style="filter:url(#filter872);opacity:0.20"/>
   <path d="M 128,36 V 52 H 64 52 V 88 H 64 V 64 h 64 V 80 L 140,69 152,58 140,47 Z m 0,68 v 24 H 64 v -16 l -12,11 -12,11 12,11 12,11 v -16 h 64 12 v -36 z" style="fill:#ffffff"/>
 </svg>

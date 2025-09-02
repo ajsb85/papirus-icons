@@ -13,17 +13,17 @@
     <clipPath id="clipPath833">
       <path d="M 2,31 H 14 V 21 L 24,31 34,21 V 31 H 46 V 2 H 2 Z"/>
     </clipPath>
-    <filter style="color-interpolation-filters:sRGB" id="filter861" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter861" x="0.05" y="0.05" width="1.10" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter865" x="-0.036571428" y="-0.06981818" width="1.0731429" height="1.1396364">
+    <filter style="color-interpolation-filters:sRGB" id="filter865" x="0.04" y="0.07" width="1.07" height="1.14">
       <feGaussianBlur stdDeviation="0.64"/>
     </filter>
   </defs>
-  <circle style="filter:url(#filter861);opacity:0.2" cx="96" cy="100" r="80"/>
+  <circle style="filter:url(#filter861);opacity:0.20" cx="96" cy="100" r="80"/>
   <circle style="fill:#ff6600" cx="24" cy="24" r="20" clip-path="url(#clipPath833)" transform="scale(4)"/>
   <path style="fill:#4d4d4d" d="M 3,31 H 14 V 21 L 24,31 34,21 V 31 H 45 V 47 H 3 Z" clip-path="url(#clipPath934)" transform="scale(4)"/>
-  <path style="filter:url(#filter865);opacity:0.2" transform="matrix(4,0,0,4,0,2)" d="m 3,30 h 8 V 13 L 24,26 37,13 v 17 h 8 v 5 H 32 V 25 l -8,8 -8,-8 V 35 H 3 Z" clip-path="url(#clipPath942)"/>
+  <path style="filter:url(#filter865);opacity:0.20" transform="matrix(4,0,0,4,0,2)" d="m 3,30 h 8 V 13 L 24,26 37,13 v 17 h 8 v 5 H 32 V 25 l -8,8 -8,-8 V 35 H 3 Z" clip-path="url(#clipPath942)"/>
   <path style="fill:#f2f2f2" d="m 3,30 h 8 V 13 L 24,26 37,13 v 17 h 8 v 5 H 32 V 25 l -8,8 -8,-8 V 35 H 3 Z" clip-path="url(#clipPath922)" transform="scale(4)"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 96 16 A 80 80 0 0 0 16 96 A 80 80 0 0 0 16.023438 96.638672 A 80 80 0 0 1 96 17 A 80 80 0 0 1 175.98438 96.302734 A 80 80 0 0 0 176 96 A 80 80 0 0 0 96 16 z "/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 96 16 A 80 80 0 0 0 16 96 A 80 80 0 0 0 16.02 96.64 A 80 80 0 0 1 96 17 A 80 80 0 0 1 175.98 96.30 A 80 80 0 0 0 176 96 A 80 80 0 0 0 96 16 z "/>
 </svg>

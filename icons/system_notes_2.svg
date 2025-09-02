@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg14">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter879" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter879" x="0.05" width="1.10" y="0.05" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter883" x="-0.024899999" width="1.0498" y="-0.66399999" height="2.328">
+    <filter style="color-interpolation-filters:sRGB" id="filter883" x="0.02" width="1.05" y="0.66" height="2.33">
       <feGaussianBlur stdDeviation="1.66"/>
     </filter>
   </defs>
-  <rect style="filter:url(#filter879);opacity:0.2" width="160" height="160" x="16" y="20" rx="8" ry="8"/>
+  <rect style="filter:url(#filter879);opacity:0.20" width="160" height="160" x="16" y="20" rx="8" ry="8"/>
   <rect style="fill:#e4e4e4" width="156" height="160" x="-176" y="-176" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)"/>
-  <path style="filter:url(#filter883);opacity:0.1" d="m 16,54 v 6 h 160 v -6 z"/>
-  <path style="fill:#086cd6" d="m 24,16 c -4.432,0 -8,3.568 -8,8 V 56 H 176 V 24 c 0,-4.432 -3.568,-8 -8,-8 z"/>
-  <path style="opacity:0.2" d="m 40,84 v 8 h 112 v -8 z m 0,20 v 8 h 88 v -8 z m 0,20 v 8 h 104 v -8 z m 0,20 v 8 h 72 v -8 z"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 24 16 C 19.568 16 16 19.568 16 24 L 16 25 C 16 20.568 19.568 17 24 17 L 168 17 C 172.432 17 176 20.568 176 25 L 176 24 C 176 19.568 172.432 16 168 16 L 24 16 z "/>
+  <path style="filter:url(#filter883);opacity:0.10" d="m 16,54 v 6 h 160 v -6 z"/>
+  <path style="fill:#086cd6" d="m 24,16 c -4.43,0 -8,3.57 -8,8 V 56 H 176 V 24 c 0,-4.43 -3.57,-8 -8,-8 z"/>
+  <path style="opacity:0.20" d="m 40,84 v 8 h 112 v -8 z m 0,20 v 8 h 88 v -8 z m 0,20 v 8 h 104 v -8 z m 0,20 v 8 h 72 v -8 z"/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 24 16 C 19.57 16 16 19.57 16 24 L 16 25 C 16 20.57 19.57 17 24 17 L 168 17 C 172.43 17 176 20.57 176 25 L 176 24 C 176 19.57 172.43 16 168 16 L 24 16 z "/>
 </svg>

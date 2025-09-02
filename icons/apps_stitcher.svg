@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg36">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter879" x="-0.058285715" width="1.1165714" y="-0.0408" height="1.0816">
+    <filter style="color-interpolation-filters:sRGB" id="filter879" x="0.06" width="1.12" y="0.04" height="1.08">
       <feGaussianBlur stdDeviation="2.72"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter1949" x="-0.033571427" y="-0.084179101" width="1.0671429" height="1.1683582">
+    <filter style="color-interpolation-filters:sRGB" id="filter1949" x="0.03" y="0.08" width="1.07" height="1.17">
       <feGaussianBlur stdDeviation="2.35"/>
     </filter>
   </defs>
-  <rect width="112" height="160" x="-156" y="-176" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)" style="filter:url(#filter879);opacity:0.2;fill:#000000"/>
+  <rect width="112" height="160" x="-156" y="-176" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)" style="filter:url(#filter879);opacity:0.20;fill:#000000"/>
   <rect style="fill:#e4e4e4" transform="matrix(0,-1,-1,0,0,0)" ry="8" rx="8" y="-176" x="-152" height="160" width="112"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 24 40 C 19.568 40 16 43.568 16 48 L 16 49 C 16 44.568 19.568 41 24 41 L 168 41 C 172.432 41 176 44.568 176 49 L 176 48 C 176 43.568 172.432 40 168 40 L 24 40 z "/>
-  <path style="filter:url(#filter1949);opacity:0.2;fill:#000000;stop-color:#000000" d="m 117,65 v 60 h 28 V 65 Z m -70,4 v 56 H 75 V 69 Z m 35,4 v 59 h 28 V 73 Z m 70,2 v 46 h 28 V 75 Z M 12,77 v 51 H 40 V 77 Z"/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 24 40 C 19.57 40 16 43.57 16 48 L 16 49 C 16 44.57 19.57 41 24 41 L 168 41 C 172.43 41 176 44.57 176 49 L 176 48 C 176 43.57 172.43 40 168 40 L 24 40 z "/>
+  <path style="filter:url(#filter1949);opacity:0.20;fill:#000000;stop-color:#000000" d="m 117,65 v 60 h 28 V 65 Z m -70,4 v 56 H 75 V 69 Z m 35,4 v 59 h 28 V 73 Z m 70,2 v 46 h 28 V 75 Z M 12,77 v 51 H 40 V 77 Z"/>
   <rect style="fill:#3590c5;stop-color:#000000" width="28" height="51" x="12" y="75"/>
   <rect style="fill:#612268;stop-color:#000000" width="28" height="56" x="47" y="67"/>
   <rect style="fill:#fbc618;stop-color:#000000" width="28" height="59" x="82" y="71"/>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg14">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter850" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter850" x="0.05" width="1.10" y="0.05" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter870" x="-0.060000001" width="1.12" y="-0.040000001" height="1.08">
-      <feGaussianBlur stdDeviation="1.6"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter870" x="0.06" width="1.12" y="0.04" height="1.08">
+      <feGaussianBlur stdDeviation="1.60"/>
     </filter>
   </defs>
-  <path d="M 176,100 A 80,80 0 0 1 96,180 80,80 0 0 1 16,100 80,80 0 0 1 96,20 80,80 0 0 1 176,100 Z" style="filter:url(#filter850);opacity:0.2;fill:#000000"/>
+  <path d="M 176,100 A 80,80 0 0 1 96,180 80,80 0 0 1 16,100 80,80 0 0 1 96,20 80,80 0 0 1 176,100 Z" style="filter:url(#filter850);opacity:0.20;fill:#000000"/>
   <path style="fill:#4f4f4f" d="M 176,96 A 80,80 0 0 1 96,176 80,80 0 0 1 16,96 80,80 0 0 1 96,16 80,80 0 0 1 176,96 Z"/>
-  <path style="opacity:0.1;fill:#ffffff" d="M 96 16 C 51.684 16 16.007812 51.68 16.007812 96 C 16.007812 96.33544 16.009812 96.667215 16.007812 97 C 16.007812 52.68 51.684 17 96 17 C 140.316 17 175.99219 52.68 175.99219 97 C 175.99019 96.667215 175.99219 96.33544 175.99219 96 C 175.99219 51.68 140.316 16 96 16 z "/>
-  <path style="filter:url(#filter870);opacity:0.2" d="m 68,52 h 24 l 40,44 -40,52 H 68 L 108,96 M 68,52"/>
+  <path style="opacity:0.10;fill:#ffffff" d="M 96 16 C 51.68 16 16.01 51.68 16.01 96 C 16.01 96.34 16.01 96.67 16.01 97 C 16.01 52.68 51.68 17 96 17 C 140.32 17 175.99 52.68 175.99 97 C 175.99 96.67 175.99 96.34 175.99 96 C 175.99 51.68 140.32 16 96 16 z "/>
+  <path style="filter:url(#filter870);opacity:0.20" d="m 68,52 h 24 l 40,44 -40,52 H 68 L 108,96 M 68,52"/>
   <path style="fill:#ff9b2a" d="m 68,48 h 24 l 40,44 -40,52 H 68 L 108,92 M 68,48"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 68 48 L 68.908203 49 L 92 49 L 131.58398 92.541016 L 132 92 L 92 48 L 68 48 z M 107.58398 92.541016 L 68 144 L 68.769531 144 L 108 93 L 107.58398 92.541016 z "/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 68 48 L 68.91 49 L 92 49 L 131.58 92.54 L 132 92 L 92 48 L 68 48 z M 107.58 92.54 L 68 144 L 68.77 144 L 108 93 L 107.58 92.54 z "/>
 </svg>

@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg12">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter884" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter884" x="0.05" width="1.10" y="0.05" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter988" x="-0.048000002" width="1.096" y="-0.048000002" height="1.096">
+    <filter style="color-interpolation-filters:sRGB" id="filter988" x="0.05" width="1.10" y="0.05" height="1.10">
       <feGaussianBlur stdDeviation="0.72"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter1052" x="-0.047999999" width="1.096" y="-0.047999999" height="1.096">
+    <filter style="color-interpolation-filters:sRGB" id="filter1052" x="0.05" width="1.10" y="0.05" height="1.10">
       <feGaussianBlur stdDeviation="0.32"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter1070" x="-0.047999999" width="1.096" y="-0.047999999" height="1.096">
+    <filter style="color-interpolation-filters:sRGB" id="filter1070" x="0.05" width="1.10" y="0.05" height="1.10">
       <feGaussianBlur stdDeviation="1.52"/>
     </filter>
   </defs>
-  <circle r="80" cy="100" cx="96" style="filter:url(#filter884);opacity:0.2;fill:#000000"/>
+  <circle r="80" cy="100" cx="96" style="filter:url(#filter884);opacity:0.20;fill:#000000"/>
   <circle style="fill:#045cc5" cx="96" cy="96" r="80"/>
-  <path style="opacity:0.6;fill:none;stroke:#ffffff;stroke-width:12;stroke-linecap:round" d="M 96.0006,95.999983 V 35"/>
-  <path d="m 96,95.9994 h 61" style="opacity:0.6;fill:none;stroke:#ffffff;stroke-width:12;stroke-linecap:round"/>
-  <circle r="18" cy="98" cx="96" style="filter:url(#filter988);opacity:0.1;fill:#000000"/>
+  <path style="opacity:0.60;fill:none;stroke:#ffffff;stroke-width:12;stroke-linecap:round" d="M 96.00,96.00 V 35"/>
+  <path d="m 96,96.00 h 61" style="opacity:0.60;fill:none;stroke:#ffffff;stroke-width:12;stroke-linecap:round"/>
+  <circle r="18" cy="98" cx="96" style="filter:url(#filter988);opacity:0.10;fill:#000000"/>
   <circle style="fill:#ffffff" cx="96" cy="96" r="18"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 95.978723,29.000004 C 55.673687,29.000004 23,55.716244 23,96.021281 23,136.32632 55.673687,169 95.978723,169 136.28376,169 163,136.32632 163,96.021281 v 0 c 0,37.014819 -30.00645,67.021279 -67.021277,67.021279 -37.014829,0 -67.021276,-30.00646 -67.021276,-67.021279 0,-37.014829 30.006447,-67.021277 67.021276,-67.021277 z"/>
-  <circle transform="rotate(-60)" style="filter:url(#filter1070);opacity:0.2;fill:#000000" cx="30.064754" cy="150.07368" r="38"/>
-  <path style="opacity:0.1;fill:#ffffff" d="M 96,16 A 80,80 0 0 0 16,96 80,80 0 0 0 16.021484,96.585938 80,80 0 0 1 96,17 80,80 0 0 1 175.97852,96.414062 80,80 0 0 0 176,96 80,80 0 0 0 96,16 Z"/>
-  <circle r="38" cy="149.07368" cx="31.796806" style="fill:#199ef6" transform="rotate(-60)"/>
-  <path d="m 145,47.000001 -25.11474,-14.5" style="opacity:0.6;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round"/>
-  <path style="opacity:0.6;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round" d="m 145,47.000001 14.5,-25.11474"/>
-  <circle transform="rotate(-60)" style="filter:url(#filter1052);opacity:0.1;fill:#000000" cx="30.064754" cy="150.07368" r="8"/>
-  <circle r="8" cy="149.07368" cx="31.796806" style="fill:#ffffff" transform="rotate(-60)"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 143.20703,9.0429688 A 38,38 0 0 0 112.0918,28 38,38 0 0 0 107.04492,48.818359 38,38 0 0 1 112.0918,29 38,38 0 0 1 164,15.091797 38,38 0 0 1 182.95508,46.181641 38,38 0 0 0 164,14.091797 38,38 0 0 0 143.20703,9.0429688 Z"/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 95.98,29.00 C 55.67,29.00 23,55.72 23,96.02 23,136.33 55.67,169 95.98,169 136.28,169 163,136.33 163,96.02 v 0 c 0,37.01 -30.01,67.02 -67.02,67.02 -37.01,0 -67.02,-30.01 -67.02,-67.02 0,-37.01 30.01,-67.02 67.02,-67.02 z"/>
+  <circle transform="rotate(-60)" style="filter:url(#filter1070);opacity:0.20;fill:#000000" cx="30.06" cy="150.07" r="38"/>
+  <path style="opacity:0.10;fill:#ffffff" d="M 96,16 A 80,80 0 0 0 16,96 80,80 0 0 0 16.02,96.59 80,80 0 0 1 96,17 80,80 0 0 1 175.98,96.41 80,80 0 0 0 176,96 80,80 0 0 0 96,16 Z"/>
+  <circle r="38" cy="149.07" cx="31.80" style="fill:#199ef6" transform="rotate(-60)"/>
+  <path d="m 145,47.00 -25.11,-14.50" style="opacity:0.60;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round"/>
+  <path style="opacity:0.60;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round" d="m 145,47.00 14.50,-25.11"/>
+  <circle transform="rotate(-60)" style="filter:url(#filter1052);opacity:0.10;fill:#000000" cx="30.06" cy="150.07" r="8"/>
+  <circle r="8" cy="149.07" cx="31.80" style="fill:#ffffff" transform="rotate(-60)"/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 143.21,9.04 A 38,38 0 0 0 112.09,28 38,38 0 0 0 107.04,48.82 38,38 0 0 1 112.09,29 38,38 0 0 1 164,15.09 38,38 0 0 1 182.96,46.18 38,38 0 0 0 164,14.09 38,38 0 0 0 143.21,9.04 Z"/>
 </svg>

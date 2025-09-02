@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg24">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter987" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter987" x="0.05" y="0.05" width="1.10" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter1009" x="-0.044009172" y="-0.051082227" width="1.0880183" height="1.1021645">
-      <feGaussianBlur stdDeviation="2.1283115"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter1009" x="0.04" y="0.05" width="1.09" height="1.10">
+      <feGaussianBlur stdDeviation="2.13"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter1013" x="-0.047999999" y="-0.047999999" width="1.096" height="1.096">
+    <filter style="color-interpolation-filters:sRGB" id="filter1013" x="0.05" y="0.05" width="1.10" height="1.10">
       <feGaussianBlur stdDeviation="0.48"/>
     </filter>
   </defs>
-  <rect style="filter:url(#filter987);opacity:0.2;fill:#000000" width="160" height="160" x="16" y="20" rx="80" ry="80"/>
-  <rect style="fill:#e4e4e4" width="160" height="160" x="16" y="16.000004" rx="80" ry="80"/>
-  <path style="filter:url(#filter1009);opacity:0.2" d="m 72.156247,42.008481 a 4.0003999,4.0003999 0 0 0 -3.78906,2.320312 L 44.367188,96.328792 a 4.0023337,4.0023337 0 0 0 7.265624,3.359376 L 57.945311,86.00848 h 28.109376 l 6.3125,13.679688 15.921873,39.804692 a 4.0003999,4.0003999 0 0 0 7.48437,-0.16408 L 126,110.11005 l 10.22656,29.21874 a 4.0003999,4.0003999 0 0 0 7.48437,0.16408 l 16,-40.000002 a 4.0003999,4.0003999 0 1 0 -7.42187,-2.968764 L 140.25,126.61786 129.77343,96.688168 a 4.0003999,4.0003999 0 0 0 -7.54687,0 L 111.75,126.61786 99.765622,96.656916 a 4.0023335,4.0023335 0 0 0 -0.1328,-0.32812 L 75.632823,44.328797 A 4.0003999,4.0003999 0 0 0 72.156247,42.008481 Z M 71.999999,55.555357 82.359375,78.00848 H 61.640623 Z"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 96 16 C 51.683942 16 16.007812 51.680001 16.007812 96 C 16.007812 96.336 16.009812 96.6675 16.007812 97 C 16.007812 52.680001 51.683942 17 96 17 C 140.31606 17 175.99219 52.680001 175.99219 97 C 175.99019 96.6675 175.99219 96.336 175.99219 96 C 175.99219 51.680001 140.31606 16 96 16 z "/>
-  <path style="fill:none;stroke:#7a7a7a;stroke-width:8;stroke-linecap:round;stroke-linejoin:round" d="M 48,96.000002 71.999999,44.000003 95.999998,96.000002"/>
+  <rect style="filter:url(#filter987);opacity:0.20;fill:#000000" width="160" height="160" x="16" y="20" rx="80" ry="80"/>
+  <rect style="fill:#e4e4e4" width="160" height="160" x="16" y="16.00" rx="80" ry="80"/>
+  <path style="filter:url(#filter1009);opacity:0.20" d="m 72.16,42.01 a 4.00,4.00 0 0 0 -3.79,2.32 L 44.37,96.33 a 4.00,4.00 0 0 0 7.27,3.36 L 57.95,86.01 h 28.11 l 6.31,13.68 15.92,39.80 a 4.00,4.00 0 0 0 7.48,0.16 L 126,110.11 l 10.23,29.22 a 4.00,4.00 0 0 0 7.48,0.16 l 16,-40.00 a 4.00,4.00 0 1 0 -7.42,-2.97 L 140.25,126.62 129.77,96.69 a 4.00,4.00 0 0 0 -7.55,0 L 111.75,126.62 99.77,96.66 a 4.00,4.00 0 0 0 0.13,0.33 L 75.63,44.33 A 4.00,4.00 0 0 0 72.16,42.01 Z M 72.00,55.56 82.36,78.01 H 61.64 Z"/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 96 16 C 51.68 16 16.01 51.68 16.01 96 C 16.01 96.34 16.01 96.67 16.01 97 C 16.01 52.68 51.68 17 96 17 C 140.32 17 175.99 52.68 175.99 97 C 175.99 96.67 175.99 96.34 175.99 96 C 175.99 51.68 140.32 16 96 16 z "/>
+  <path style="fill:none;stroke:#7a7a7a;stroke-width:8;stroke-linecap:round;stroke-linejoin:round" d="M 48,96.00 72.00,44.00 96.00,96.00"/>
   <rect style="fill:#7a7a7a" width="32" height="8" x="56" y="76"/>
-  <path style="fill:none;stroke:#7a7a7a;stroke-width:8;stroke-linecap:round;stroke-linejoin:round" d="M 95.999998,96.000002 112,136 126,96.000002 140,136 156,96.000002"/>
-  <path style="fill:none;stroke:#404040;stroke-width:4px;stroke-linecap:round" d="M 53.999999,134 95.999998,96.000002"/>
-  <path style="fill:none;stroke:#404040;stroke-width:8;stroke-linecap:round" d="M 95.999998,96.000002 120,68.000003"/>
-  <circle style="filter:url(#filter1013);opacity:0.2" cx="96" cy="97" r="12"/>
+  <path style="fill:none;stroke:#7a7a7a;stroke-width:8;stroke-linecap:round;stroke-linejoin:round" d="M 96.00,96.00 112,136 126,96.00 140,136 156,96.00"/>
+  <path style="fill:none;stroke:#404040;stroke-width:4px;stroke-linecap:round" d="M 54.00,134 96.00,96.00"/>
+  <path style="fill:none;stroke:#404040;stroke-width:8;stroke-linecap:round" d="M 96.00,96.00 120,68.00"/>
+  <circle style="filter:url(#filter1013);opacity:0.20" cx="96" cy="97" r="12"/>
   <circle style="fill:#595959" cx="96" cy="96" r="12"/>
 </svg>

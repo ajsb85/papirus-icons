@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg12">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter860" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter860" x="0.05" width="1.10" y="0.05" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter862" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+    <filter style="color-interpolation-filters:sRGB" id="filter862" x="0.05" width="1.10" y="0.05" height="1.10">
       <feGaussianBlur stdDeviation="1.48"/>
     </filter>
   </defs>
-  <rect style="filter:url(#filter860);opacity:0.2" width="160" height="160" x="16" y="20" rx="8" ry="8"/>
+  <rect style="filter:url(#filter860);opacity:0.20" width="160" height="160" x="16" y="20" rx="8" ry="8"/>
   <rect style="fill:#fcad59" width="160" height="160" x="16" y="16" rx="8" ry="8"/>
-  <path style="opacity:0.2;fill:#ffffff" d="m 24,16 c -4.432,0 -8,3.568 -8,8 v 1 c 0,-4.432 3.568,-8 8,-8 h 144 c 4.432,0 8,3.568 8,8 v -1 c 0,-4.432 -3.568,-8 -8,-8 z"/>
-  <path d="M 75,60 A 15,15 0 0 0 60,75 15,15 0 0 0 75,90 15,15 0 0 0 90,75 15,15 0 0 0 75,60 Z m 53,6 v 24 h 6 V 66 Z M 60.685547,104 A 37,37 0 0 0 97,134 37,37 0 0 0 133.30078,104 h -3.82422 A 30,30 0 0 1 102,122 30,30 0 0 1 74.544922,104 Z" style="filter:url(#filter862);opacity:0.2;fill:#000000"/>
-  <path style="fill:#ffffff" d="M 75,58 A 15,15 0 0 0 60,73 15,15 0 0 0 75,88 15,15 0 0 0 90,73 15,15 0 0 0 75,58 Z m 53,6 v 24 h 6 V 64 Z M 60.685547,102 A 37,37 0 0 0 97,132 37,37 0 0 0 133.30078,102 h -3.82422 A 30,30 0 0 1 102,120 30,30 0 0 1 74.544922,102 Z"/>
+  <path style="opacity:0.20;fill:#ffffff" d="m 24,16 c -4.43,0 -8,3.57 -8,8 v 1 c 0,-4.43 3.57,-8 8,-8 h 144 c 4.43,0 8,3.57 8,8 v -1 c 0,-4.43 -3.57,-8 -8,-8 z"/>
+  <path d="M 75,60 A 15,15 0 0 0 60,75 15,15 0 0 0 75,90 15,15 0 0 0 90,75 15,15 0 0 0 75,60 Z m 53,6 v 24 h 6 V 66 Z M 60.69,104 A 37,37 0 0 0 97,134 37,37 0 0 0 133.30,104 h -3.82 A 30,30 0 0 1 102,122 30,30 0 0 1 74.54,104 Z" style="filter:url(#filter862);opacity:0.20;fill:#000000"/>
+  <path style="fill:#ffffff" d="M 75,58 A 15,15 0 0 0 60,73 15,15 0 0 0 75,88 15,15 0 0 0 90,73 15,15 0 0 0 75,58 Z m 53,6 v 24 h 6 V 64 Z M 60.69,102 A 37,37 0 0 0 97,132 37,37 0 0 0 133.30,102 h -3.82 A 30,30 0 0 1 102,120 30,30 0 0 1 74.54,102 Z"/>
 </svg>

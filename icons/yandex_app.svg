@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg12">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter860" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter860" x="0.05" width="1.10" y="0.05" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter856" x="-0.072888888" width="1.1457778" y="-0.035781818" height="1.0715636">
+    <filter style="color-interpolation-filters:sRGB" id="filter856" x="0.07" width="1.15" y="0.04" height="1.07">
       <feGaussianBlur stdDeviation="1.64"/>
     </filter>
   </defs>
-  <rect style="filter:url(#filter860);opacity:0.2" width="160" height="160" x="16" y="20" rx="8" ry="8"/>
+  <rect style="filter:url(#filter860);opacity:0.20" width="160" height="160" x="16" y="20" rx="8" ry="8"/>
   <rect style="fill:#e4e4e4" width="160" height="160" x="16" y="16" rx="8" ry="8"/>
-  <path style="opacity:0.2;fill:#ffffff" d="m 24,16 c -4.432,0 -8,3.568 -8,8 v 1 c 0,-4.432 3.568,-8 8,-8 h 144 c 4.432,0 8,3.568 8,8 v -1 c 0,-4.432 -3.568,-8 -8,-8 z"/>
-  <path style="filter:url(#filter856);opacity:0.1;fill:#000000" d="M 105.35742,49 C 88.022095,49 73,60.538368 73,83.615234 73,100.0767 79.891922,108.99889 89.556641,113.92188 L 69,159 H 82.654297 L 101.36914,117 H 111 v 42 h 12 V 49 Z m -0.5039,10 H 111 v 48 h -6.14648 C 94.500046,107 86,101.30721 86,83.615234 86,65.307483 95.27266,59 104.85352,59 Z"/>
-  <path style="fill:#ef3635" d="M 105.35742,45 C 88.022095,45 73,56.538368 73,79.615234 73,96.076702 79.891922,104.99889 89.556641,109.92188 L 69,155 H 82.654297 L 101.36914,113 H 111 v 42 h 12 V 45 Z m -0.5039,10 H 111 v 48 h -6.14648 C 94.500046,103 86,97.307214 86,79.615234 86,61.307483 95.27266,55 104.85352,55 Z"/>
+  <path style="opacity:0.20;fill:#ffffff" d="m 24,16 c -4.43,0 -8,3.57 -8,8 v 1 c 0,-4.43 3.57,-8 8,-8 h 144 c 4.43,0 8,3.57 8,8 v -1 c 0,-4.43 -3.57,-8 -8,-8 z"/>
+  <path style="filter:url(#filter856);opacity:0.10;fill:#000000" d="M 105.36,49 C 88.02,49 73,60.54 73,83.62 73,100.08 79.89,109.00 89.56,113.92 L 69,159 H 82.65 L 101.37,117 H 111 v 42 h 12 V 49 Z m 0.50,10 H 111 v 48 h -6.15 C 94.50,107 86,101.31 86,83.62 86,65.31 95.27,59 104.85,59 Z"/>
+  <path style="fill:#ef3635" d="M 105.36,45 C 88.02,45 73,56.54 73,79.62 73,96.08 79.89,105.00 89.56,109.92 L 69,155 H 82.65 L 101.37,113 H 111 v 42 h 12 V 45 Z m 0.50,10 H 111 v 48 h -6.15 C 94.50,103 86,97.31 86,79.62 86,61.31 95.27,55 104.85,55 Z"/>
 </svg>

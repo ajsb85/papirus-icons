@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg48">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter903" x="-0.045599999" width="1.0912" y="-0.050666666" height="1.1013333">
+    <filter style="color-interpolation-filters:sRGB" id="filter903" x="0.05" width="1.09" y="0.05" height="1.10">
       <feGaussianBlur stdDeviation="3.04"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter919" x="-0.047999999" width="1.096" y="-0.047999999" height="1.096">
+    <filter style="color-interpolation-filters:sRGB" id="filter919" x="0.05" width="1.10" y="0.05" height="1.10">
       <feGaussianBlur stdDeviation="0.48"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter936" x="-0.027428571" width="1.0548571" y="-0.192" height="1.384">
+    <filter style="color-interpolation-filters:sRGB" id="filter936" x="0.03" width="1.05" y="0.19" height="1.38">
       <feGaussianBlur stdDeviation="1.28"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter944" x="-0.015" width="1.03" y="-0.06" height="1.12">
+    <filter style="color-interpolation-filters:sRGB" id="filter944" x="0.01" width="1.03" y="0.06" height="1.12">
       <feGaussianBlur stdDeviation="1"/>
     </filter>
   </defs>
-  <path style="filter:url(#filter903);opacity:0.2;fill:#000000" d="m 24,28 c -4.432,0 -8,3.568 -8,8 V 67.599609 68 164 c 0,4.432 3.568,8 8,8 h 144 c 4.432,0 8,-3.568 8,-8 V 68 67.599609 36 c 0,-4.432 -3.568,-8 -8,-8 z"/>
-  <path d="M 16,63.6 V 160 c 0,4.432 3.568,8 8,8 h 144 c 4.432,0 8,-3.568 8,-8 V 63.6 Z" style="fill:#e4e4e4"/>
-  <path d="M 176,66 V 34 c 0,-4.432 -3.568,-8 -8,-8 H 24 c -4.432,0 -8,3.568 -8,8 v 32 z" style="filter:url(#filter944);opacity:0.2"/>
-  <path d="M 176,64 V 32 c 0,-4.432 -3.568,-8 -8,-8 H 24 c -4.432,0 -8,3.568 -8,8 v 32 z" style="fill:#f54b3e"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 24 24 C 19.568 24 16 27.568 16 32 L 16 33 C 16 28.568 19.568 25 24 25 L 168 25 C 172.432 25 176 28.568 176 33 L 176 32 C 176 27.568 172.432 24 168 24 L 24 24 z "/>
-  <rect y="104" x="132" height="24" width="24" style="opacity:0.2"/>
-  <rect y="104" x="68" height="24" width="24" style="opacity:0.2"/>
-  <rect y="104" x="36" height="24" width="24" style="opacity:0.2"/>
-  <rect y="136" x="100" height="24" width="24" style="opacity:0.2"/>
-  <rect y="136" x="132" height="24" width="24" style="opacity:0.2"/>
-  <rect y="136" x="68" height="24" width="24" style="opacity:0.2"/>
-  <rect y="136" x="36" height="24" width="24" style="opacity:0.2"/>
-  <rect y="72" x="100" height="24" width="24" style="opacity:0.2"/>
-  <rect y="72" x="132" height="24" width="24" style="opacity:0.2"/>
-  <rect y="72" x="68" height="24" width="24" style="opacity:0.2"/>
-  <rect y="72" x="36" height="24" width="24" style="opacity:0.2"/>
-  <circle r="12" cy="118" cx="112" style="filter:url(#filter919);opacity:0.1"/>
+  <path style="filter:url(#filter903);opacity:0.20;fill:#000000" d="m 24,28 c -4.43,0 -8,3.57 -8,8 V 67.60 68 164 c 0,4.43 3.57,8 8,8 h 144 c 4.43,0 8,-3.57 8,-8 V 68 67.60 36 c 0,-4.43 -3.57,-8 -8,-8 z"/>
+  <path d="M 16,63.60 V 160 c 0,4.43 3.57,8 8,8 h 144 c 4.43,0 8,-3.57 8,-8 V 63.60 Z" style="fill:#e4e4e4"/>
+  <path d="M 176,66 V 34 c 0,-4.43 -3.57,-8 -8,-8 H 24 c -4.43,0 -8,3.57 -8,8 v 32 z" style="filter:url(#filter944);opacity:0.20"/>
+  <path d="M 176,64 V 32 c 0,-4.43 -3.57,-8 -8,-8 H 24 c -4.43,0 -8,3.57 -8,8 v 32 z" style="fill:#f54b3e"/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 24 24 C 19.57 24 16 27.57 16 32 L 16 33 C 16 28.57 19.57 25 24 25 L 168 25 C 172.43 25 176 28.57 176 33 L 176 32 C 176 27.57 172.43 24 168 24 L 24 24 z "/>
+  <rect y="104" x="132" height="24" width="24" style="opacity:0.20"/>
+  <rect y="104" x="68" height="24" width="24" style="opacity:0.20"/>
+  <rect y="104" x="36" height="24" width="24" style="opacity:0.20"/>
+  <rect y="136" x="100" height="24" width="24" style="opacity:0.20"/>
+  <rect y="136" x="132" height="24" width="24" style="opacity:0.20"/>
+  <rect y="136" x="68" height="24" width="24" style="opacity:0.20"/>
+  <rect y="136" x="36" height="24" width="24" style="opacity:0.20"/>
+  <rect y="72" x="100" height="24" width="24" style="opacity:0.20"/>
+  <rect y="72" x="132" height="24" width="24" style="opacity:0.20"/>
+  <rect y="72" x="68" height="24" width="24" style="opacity:0.20"/>
+  <rect y="72" x="36" height="24" width="24" style="opacity:0.20"/>
+  <circle r="12" cy="118" cx="112" style="filter:url(#filter919);opacity:0.10"/>
   <circle r="12" cy="116" cx="112" style="fill:#f54b3e"/>
-  <path style="filter:url(#filter936);opacity:0.2" d="M 48 38 A 8 8 0 0 0 40 46 A 8 8 0 0 0 48 54 A 8 8 0 0 0 56 46 A 8 8 0 0 0 48 38 z M 144 38 A 8 8 0 0 0 136 46 A 8 8 0 0 0 144 54 A 8 8 0 0 0 152 46 A 8 8 0 0 0 144 38 z "/>
+  <path style="filter:url(#filter936);opacity:0.20" d="M 48 38 A 8 8 0 0 0 40 46 A 8 8 0 0 0 48 54 A 8 8 0 0 0 56 46 A 8 8 0 0 0 48 38 z M 144 38 A 8 8 0 0 0 136 46 A 8 8 0 0 0 144 54 A 8 8 0 0 0 152 46 A 8 8 0 0 0 144 38 z "/>
   <circle r="8" cy="44" cx="48" style="fill:#ffffff"/>
   <circle r="8" cy="44" cx="144" style="fill:#ffffff"/>
 </svg>

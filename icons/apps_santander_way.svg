@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg28">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter28712" x="-0.040307691" y="-0.059320752" width="1.0806154" height="1.1186415">
+    <filter style="color-interpolation-filters:sRGB" id="filter28712" x="0.04" y="0.06" width="1.08" height="1.12">
       <feGaussianBlur stdDeviation="2.62"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter29510" x="-0.098181816" y="-0.12" width="1.1963636" height="1.24">
-      <feGaussianBlur stdDeviation="1.8"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter29510" x="0.10" y="0.12" width="1.20" height="1.24">
+      <feGaussianBlur stdDeviation="1.80"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter29593" x="-0.108" y="-0.108" width="1.216" height="1.216">
+    <filter style="color-interpolation-filters:sRGB" id="filter29593" x="0.11" y="0.11" width="1.22" height="1.22">
       <feGaussianBlur stdDeviation="0.81"/>
     </filter>
   </defs>
   <rect style="fill:#f02b42" width="138" height="88" x="24" y="24" ry="6"/>
-  <path d="m 128.17039,46.101061 c -0.08,-1.19859 -0.39954,-2.397181 -1.03879,-3.435958 l -5.43359,-9.508812 c -0.39954,-0.719154 -0.71915,-1.518214 -0.87897,-2.317274 l -0.23971,0.39953 c -0.62692,1.069439 -1.08106,2.275029 -1.12933,3.491102 -0.0563,1.418931 0.39783,2.852133 1.12933,4.099969 l 4.39482,7.591067 c 1.3584,2.317274 1.3584,5.273796 0,7.591068 l -0.23972,0.399528 c -0.15982,-0.79906 -0.47944,-1.598118 -0.87898,-2.317271 l -3.99528,-6.951821 -2.55699,-4.474736 c -0.39953,-0.719152 -0.71915,-1.518211 -0.87897,-2.317272 l -0.23972,0.39953 c -0.69129,1.179271 -0.9468,2.503403 -0.93449,3.835488 0.0118,1.285466 0.26739,2.578336 0.93449,3.755579 v 0 l 4.39484,7.591073 c 1.35839,2.317271 1.35839,5.273789 0,7.591069 l -0.23972,0.39952 c -0.15982,-0.79905 -0.47944,-1.59811 -0.87897,-2.31727 l -5.51351,-9.50881 c -0.71915,-1.278495 -1.03878,-2.716803 -1.03878,-4.155111 C 107.07521,47.459463 103,50.735607 103,54.491193 103,59.76498 110.83079,64 120.49942,64 c 9.66862,0 17.4994,-4.23502 17.4994,-9.508807 0.0799,-3.595773 -3.91539,-6.871919 -9.82843,-8.390132 z" style="fill:#ffffff"/>
+  <path d="m 128.17,46.10 c 0.08,-1.20 0.40,-2.40 -1.04,-3.44 l -5.43,-9.51 c 0.40,0.72 0.72,-1.52 0.88,-2.32 l 0.24,0.40 c 0.63,1.07 -1.08,2.28 -1.13,3.49 0.06,1.42 0.40,2.85 1.13,4.10 l 4.39,7.59 c 1.36,2.32 1.36,5.27 0,7.59 l 0.24,0.40 c 0.16,0.80 0.48,-1.60 0.88,-2.32 l -4.00,-6.95 -2.56,-4.47 c 0.40,0.72 0.72,-1.52 0.88,-2.32 l 0.24,0.40 c 0.69,1.18 0.95,2.50 0.93,3.84 0.01,1.29 0.27,2.58 0.93,3.76 v 0 l 4.39,7.59 c 1.36,2.32 1.36,5.27 0,7.59 l 0.24,0.40 c 0.16,0.80 0.48,-1.60 0.88,-2.32 l -5.51,-9.51 c 0.72,-1.28 -1.04,-2.72 -1.04,-4.16 C 107.08,47.46 103,50.74 103,54.49 103,59.76 110.83,64 120.50,64 c 9.67,0 17.50,-4.24 17.50,-9.51 0.08,-3.60 -3.92,-6.87 -9.83,-8.39 z" style="fill:#ffffff"/>
   <rect style="fill:#ffdd11" width="18" height="14" x="40" y="46" ry="4"/>
-  <path style="fill:#ff9608" d="m 45,46.000002 v 4 h -5 v 1 h 5 v 3 h -5 v 1 h 5 V 60 h 1 V 46.000002 Z m 7,4 V 60 h 1 v -4.999998 h 5 v -1 h -5 v -3 h 5 v -1 h -5 z"/>
+  <path style="fill:#ff9608" d="m 45,46.00 v 4 h -5 v 1 h 5 v 3 h -5 v 1 h 5 V 60 h 1 V 46.00 Z m 7,4 V 60 h 1 v -5.00 h 5 v -1 h -5 v -3 h 5 v -1 h -5 z"/>
   <rect style="fill:#fbc0c7" width="23" height="8" x="39" y="73"/>
   <rect style="fill:#fbc0c7" width="23" height="8" x="69" y="73"/>
   <rect style="fill:#fbc0c7" width="23" height="8" x="97" y="73"/>
   <rect style="fill:#fbc0c7" width="23" height="8" x="126" y="73"/>
-  <ellipse style="fill:#fdde01" cx="142" cy="95.164642" rx="9" ry="8.8353586"/>
+  <ellipse style="fill:#fdde01" cx="142" cy="95.16" rx="9" ry="8.84"/>
   <rect style="fill:#f895a1" width="18" height="6" x="48" y="88"/>
   <rect style="fill:#f895a1" width="18" height="6" x="84" y="88"/>
   <rect style="fill:#f6808e" width="30" height="4" x="39" y="102"/>
   <rect style="fill:#f6808e" width="20" height="4" x="75" y="102"/>
-  <ellipse style="fill:#ca0101" cx="130" cy="95.164642" rx="9" ry="8.8353586"/>
-  <path style="opacity:0.2;fill:#ffffff" d="m 30,24 c -3.324,0 -6,2.676 -6,6 v 1 c 0,-3.324 2.676,-6 6,-6 h 126 c 3.324,0 6,2.676 6,6 v -1 c 0,-3.324 -2.676,-6 -6,-6 z"/>
-  <rect style="filter:url(#filter28712);opacity:0.2;fill:#000000" width="156" height="106" x="15" y="65" ry="9.9336758"/>
-  <rect style="fill:#795548" width="156" height="106" x="15" y="61" ry="9.9336758"/>
-  <rect style="fill:none;stroke:#684a3d;stroke-width:2;stroke-dasharray:6, 2;stroke-dashoffset:0" width="144" height="94" x="21" y="67" ry="8.8091078"/>
-  <path style="filter:url(#filter29510);opacity:0.2;fill:#000000" d="m 151,98 c -9.94113,0 -18,8.05887 -18,18 0,9.94113 8.05887,18 18,18 H 153.32031 171 c 3.324,0 6,-2.676 6,-6 v -24 c 0,-3.324 -2.676,-6 -6,-6 h -17.67969 z"/>
-  <path style="fill:#8d6e63" d="m 151,96 c -9.94113,0 -18,8.05887 -18,18 0,9.94113 8.05887,18 18,18 H 153.32031 171 c 3.324,0 6,-2.676 6,-6 v -24 c 0,-3.324 -2.676,-6 -6,-6 h -17.67969 z"/>
-  <circle style="filter:url(#filter29593);opacity:0.2;fill:#000000" cx="151" cy="115" r="9"/>
+  <ellipse style="fill:#ca0101" cx="130" cy="95.16" rx="9" ry="8.84"/>
+  <path style="opacity:0.20;fill:#ffffff" d="m 30,24 c -3.32,0 -6,2.68 -6,6 v 1 c 0,-3.32 2.68,-6 6,-6 h 126 c 3.32,0 6,2.68 6,6 v -1 c 0,-3.32 -2.68,-6 -6,-6 z"/>
+  <rect style="filter:url(#filter28712);opacity:0.20;fill:#000000" width="156" height="106" x="15" y="65" ry="9.93"/>
+  <rect style="fill:#795548" width="156" height="106" x="15" y="61" ry="9.93"/>
+  <rect style="fill:none;stroke:#684a3d;stroke-width:2;stroke-dasharray:6, 2;stroke-dashoffset:0" width="144" height="94" x="21" y="67" ry="8.81"/>
+  <path style="filter:url(#filter29510);opacity:0.20;fill:#000000" d="m 151,98 c -9.94,0 -18,8.06 -18,18 0,9.94 8.06,18 18,18 H 153.32 171 c 3.32,0 6,-2.68 6,-6 v -24 c 0,-3.32 -2.68,-6 -6,-6 h -17.68 z"/>
+  <path style="fill:#8d6e63" d="m 151,96 c -9.94,0 -18,8.06 -18,18 0,9.94 8.06,18 18,18 H 153.32 171 c 3.32,0 6,-2.68 6,-6 v -24 c 0,-3.32 -2.68,-6 -6,-6 h -17.68 z"/>
+  <circle style="filter:url(#filter29593);opacity:0.20;fill:#000000" cx="151" cy="115" r="9"/>
   <circle style="fill:#bdbdbd" cx="151" cy="114" r="9"/>
-  <path style="opacity:0.1;fill:#ffffff" d="M 151 96 C 141.05887 96 133 104.05887 133 114 C 133 114.16777 133.00716 114.33333 133.01172 114.5 C 133.27741 104.79084 141.22664 97 151 97 L 153.32031 97 L 171 97 C 174.324 97 177 99.676 177 103 L 177 102 C 177 98.676 174.324 96 171 96 L 153.32031 96 L 151 96 z "/>
+  <path style="opacity:0.10;fill:#ffffff" d="M 151 96 C 141.06 96 133 104.06 133 114 C 133 114.17 133.01 114.33 133.01 114.50 C 133.28 104.79 141.23 97 151 97 L 153.32 97 L 171 97 C 174.32 97 177 99.68 177 103 L 177 102 C 177 98.68 174.32 96 171 96 L 153.32 96 L 151 96 z "/>
 </svg>

@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg28">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter19412" x="-0.081818182" y="-0.069230769" width="1.1636364" height="1.1384615">
+    <filter style="color-interpolation-filters:sRGB" id="filter19412" x="0.08" y="0.07" width="1.16" height="1.14">
       <feGaussianBlur stdDeviation="3"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter19454" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter19454" x="0.05" y="0.05" width="1.10" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter19537" x="-0.060085227" y="-0.099764158" width="1.1201705" height="1.1995283">
-      <feGaussianBlur stdDeviation="2.2031249"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter19537" x="0.06" y="0.10" width="1.12" height="1.20">
+      <feGaussianBlur stdDeviation="2.20"/>
     </filter>
   </defs>
-  <rect transform="matrix(0,-1,-1,0,0,0)" ry="30" rx="30" y="-176" x="-180" height="160" width="160" style="filter:url(#filter19454);opacity:0.2;fill:#000000"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="30" rx="30" y="-176" x="-180" height="160" width="160" style="filter:url(#filter19454);opacity:0.20;fill:#000000"/>
   <rect transform="matrix(0,-1,-1,0,0,0)" ry="30" rx="30" y="-176" x="-176" height="160" width="160" style="fill:#3f3f3f"/>
-  <path style="filter:url(#filter19412);opacity:0.2;fill:#000000" d="m 68,46 v 7 h -8 v 9 4 h -8 v 9 8 9 8 9 8 9 8 h 8 v -8 -5 h 8 v -7 h 24 v 8 8 h 8 v 6 8 h 8 v 6 h 24 v -8 -7 h 8 v -8 -9 -8 -9 -8 -9 -8 -9 h -8 v 9 6 h -24 v -6 h -8 v -5 -9 h -8 v -7 -9 z"/>
-  <path style="fill:#993f76" d="m 68,78 v 7 h -8 v 9 4 h -8 v 8.99999 8 9 8 h 8 v -8 -5 h 8 v -7 h 24 v 8 8 h 8 v 6 8 h 8 v 6 h 24 v -8 -7 h 8 v -8 -9 -8 V 99 h -8 v 8.99999 6 h -24 v -6 h -8 v -5 V 94 h -8 v -7 -9 z"/>
-  <path style="fill:#ff005e" d="m 68,80.000004 v 7 H 60 V 100.00001 H 52 V 117 h 8 v -13 h 8 V 97.000008 H 92 V 113 h 8 v 14 h 8 v 6 h 24 v -15 h 8 v -17 h -8 v 15 h -24 v -6 h -8 V 96.000008 H 92 V 80.000004 Z"/>
-  <path style="fill:#1ca3a7" d="m 68,44.000006 v 7 h -8 v 9 4 H 52 V 73 v 8 9 8 h 8 v -8 -5 h 8 v -7 h 24 v 8 8 h 8 v 6 8 h 8 v 6 h 24 v -8 -7 h 8 v -8 -9 -8 -8.999994 h -8 V 74 80 h -24 v -6 h -8 v -5 -8.999994 h -8 v -7 -9 z"/>
-  <path style="fill:#00ffff" d="m 68,61.000003 v 7 h -8 v 13 h -8 v 17 h 8 v -13 h 8 v -7 h 24 v 16 h 8 V 108 h 8 v 6 h 24 V 99.000003 h 8 v -17 h -8 v 15 h -24 v -6 h -8 v -14 h -8 v -16 z"/>
-  <path style="filter:url(#filter19537);opacity:0.2;fill:#000000" d="m 68,72.000004 v 7 h -8 v 13 H 52 V 109 h 8 V 96.000004 h 8 v -7 H 92 V 105 h 8 v 14 h 8 v 6 h 24 v -15 h 8 V 93.000004 h -8 V 108 h -24 v -6 h -8 V 88.000004 h -8 v -16 z"/>
-  <path style="fill:#ffffff" d="m 68,70.000004 v 7 h -8 v 13 H 52 V 107 h 8 V 94.000004 h 8 v -7 H 92 V 103 h 8 v 14 h 8 v 6 h 24 v -15 h 8 V 91.000004 h -8 V 106 h -24 v -6 h -8 V 86.000004 h -8 v -16 z"/>
-  <path style="opacity:0.1;fill:#ffffff" d="M 46 16 C 29.38 16 16 29.38 16 46 L 16 47 C 16 30.38 29.38 17 46 17 L 146 17 C 162.62 17 176 30.38 176 47 L 176 46 C 176 29.38 162.62 16 146 16 L 46 16 z "/>
+  <path style="filter:url(#filter19412);opacity:0.20;fill:#000000" d="m 68,46 v 7 h -8 v 9 4 h -8 v 9 8 9 8 9 8 9 8 h 8 v -8 -5 h 8 v -7 h 24 v 8 8 h 8 v 6 8 h 8 v 6 h 24 v -8 -7 h 8 v -8 -9 -8 -9 -8 -9 -8 -9 h -8 v 9 6 h -24 v -6 h -8 v -5 -9 h -8 v -7 -9 z"/>
+  <path style="fill:#993f76" d="m 68,78 v 7 h -8 v 9 4 h -8 v 9.00 8 9 8 h 8 v -8 -5 h 8 v -7 h 24 v 8 8 h 8 v 6 8 h 8 v 6 h 24 v -8 -7 h 8 v -8 -9 -8 V 99 h -8 v 9.00 6 h -24 v -6 h -8 v -5 V 94 h -8 v -7 -9 z"/>
+  <path style="fill:#ff005e" d="m 68,80.00 v 7 H 60 V 100.00 H 52 V 117 h 8 v -13 h 8 V 97.00 H 92 V 113 h 8 v 14 h 8 v 6 h 24 v -15 h 8 v -17 h -8 v 15 h -24 v -6 h -8 V 96.00 H 92 V 80.00 Z"/>
+  <path style="fill:#1ca3a7" d="m 68,44.00 v 7 h -8 v 9 4 H 52 V 73 v 8 9 8 h 8 v -8 -5 h 8 v -7 h 24 v 8 8 h 8 v 6 8 h 8 v 6 h 24 v -8 -7 h 8 v -8 -9 -8 -9.00 h -8 V 74 80 h -24 v -6 h -8 v -5 -9.00 h -8 v -7 -9 z"/>
+  <path style="fill:#00ffff" d="m 68,61.00 v 7 h -8 v 13 h -8 v 17 h 8 v -13 h 8 v -7 h 24 v 16 h 8 V 108 h 8 v 6 h 24 V 99.00 h 8 v -17 h -8 v 15 h -24 v -6 h -8 v -14 h -8 v -16 z"/>
+  <path style="filter:url(#filter19537);opacity:0.20;fill:#000000" d="m 68,72.00 v 7 h -8 v 13 H 52 V 109 h 8 V 96.00 h 8 v -7 H 92 V 105 h 8 v 14 h 8 v 6 h 24 v -15 h 8 V 93.00 h -8 V 108 h -24 v -6 h -8 V 88.00 h -8 v -16 z"/>
+  <path style="fill:#ffffff" d="m 68,70.00 v 7 h -8 v 13 H 52 V 107 h 8 V 94.00 h 8 v -7 H 92 V 103 h 8 v 14 h 8 v 6 h 24 v -15 h 8 V 91.00 h -8 V 106 h -24 v -6 h -8 V 86.00 h -8 v -16 z"/>
+  <path style="opacity:0.10;fill:#ffffff" d="M 46 16 C 29.38 16 16 29.38 16 46 L 16 47 C 16 30.38 29.38 17 46 17 L 146 17 C 162.62 17 176 30.38 176 47 L 176 46 C 176 29.38 162.62 16 146 16 L 46 16 z "/>
 </svg>

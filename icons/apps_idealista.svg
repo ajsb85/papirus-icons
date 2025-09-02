@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg28">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter6495" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter6495" x="0.05" y="0.05" width="1.10" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter7771" x="-0.074519231" y="-0.075487013" width="1.1490385" height="1.150974">
-      <feGaussianBlur stdDeviation="2.421875"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter7771" x="0.07" y="0.08" width="1.15" height="1.15">
+      <feGaussianBlur stdDeviation="2.42"/>
     </filter>
   </defs>
-  <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-180" height="160" width="160" style="filter:url(#filter6495);opacity:0.2;fill:#000000"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-180" height="160" width="160" style="filter:url(#filter6495);opacity:0.20;fill:#000000"/>
   <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-176" height="160" width="160" style="fill:#dcf644"/>
-  <path style="opacity:0.2;fill:#ffffff" d="m 28,16 c -6.648,0 -12,5.352 -12,12 v 1 c 0,-6.648 5.352,-12 12,-12 h 136 c 6.648,0 12,5.352 12,12 v -1 c 0,-6.648 -5.352,-12 -12,-12 z"/>
-  <path style="filter:url(#filter7771);opacity:0.2;fill:#000000" d="M 68,58 V 69 H 79 V 58 Z m 56,0 v 22 h -23 v 11 h 23 v 33 h -23 v 11 h 34 V 124 58 Z m -23,66 V 91 H 90 v 33 z M 57,80 v 11 h 11 v 44 H 79 V 80 Z"/>
+  <path style="opacity:0.20;fill:#ffffff" d="m 28,16 c -6.65,0 -12,5.35 -12,12 v 1 c 0,-6.65 5.35,-12 12,-12 h 136 c 6.65,0 12,5.35 12,12 v -1 c 0,-6.65 -5.35,-12 -12,-12 z"/>
+  <path style="filter:url(#filter7771);opacity:0.20;fill:#000000" d="M 68,58 V 69 H 79 V 58 Z m 56,0 v 22 h -23 v 11 h 23 v 33 h -23 v 11 h 34 V 124 58 Z m -23,66 V 91 H 90 v 33 z M 57,80 v 11 h 11 v 44 H 79 V 80 Z"/>
   <path style="fill:#3f3f3f" d="M 68 56 L 68 67 L 79 67 L 79 56 L 68 56 z M 124 56 L 124 78 L 101 78 L 101 89 L 124 89 L 124 122 L 101 122 L 101 133 L 135 133 L 135 122 L 135 56 L 124 56 z M 101 122 L 101 89 L 90 89 L 90 122 L 101 122 z M 57 78 L 57 89 L 68 89 L 68 133 L 79 133 L 79 78 L 57 78 z "/>
 </svg>

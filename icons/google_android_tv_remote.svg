@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg28">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter879" x="-0.054000002" width="1.108" y="-0.043200002" height="1.0864">
+    <filter style="color-interpolation-filters:sRGB" id="filter879" x="0.05" width="1.11" y="0.04" height="1.09">
       <feGaussianBlur stdDeviation="2.88"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter895" x="-0.048" width="1.096" y="-0.048" height="1.096">
+    <filter style="color-interpolation-filters:sRGB" id="filter895" x="0.05" width="1.10" y="0.05" height="1.10">
       <feGaussianBlur stdDeviation="2.24"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter911" x="-0.047999999" width="1.096" y="-0.047999999" height="1.096">
+    <filter style="color-interpolation-filters:sRGB" id="filter911" x="0.05" width="1.10" y="0.05" height="1.10">
       <feGaussianBlur stdDeviation="0.96"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter931" x="-0.02225" width="1.0445" y="-0.02604878" height="1.0520976">
+    <filter style="color-interpolation-filters:sRGB" id="filter931" x="0.02" width="1.04" y="0.03" height="1.05">
       <feGaussianBlur stdDeviation="0.89"/>
     </filter>
   </defs>
-  <rect style="filter:url(#filter879);opacity:0.2;fill:#000000" width="128" height="160" x="-148" y="-176" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="filter:url(#filter879);opacity:0.20;fill:#000000" width="128" height="160" x="-148" y="-176" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)"/>
   <rect transform="matrix(0,-1,-1,0,0,0)" ry="8" rx="8" y="-176" x="-144" height="160" width="128" style="fill:#0fa0e6"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 24 16 C 19.568 16 16 19.568 16 24 L 16 25 C 16 20.568 19.568 17 24 17 L 168 17 C 172.432 17 176 20.568 176 25 L 176 24 C 176 19.568 172.432 16 168 16 L 24 16 z "/>
-  <path d="M 96,68 A 56,56 0 0 0 40,124 56,56 0 0 0 96,180 56,56 0 0 0 152,124 56,56 0 0 0 96,68 Z" style="filter:url(#filter895);opacity:0.2;fill-rule:evenodd"/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 24 16 C 19.57 16 16 19.57 16 24 L 16 25 C 16 20.57 19.57 17 24 17 L 168 17 C 172.43 17 176 20.57 176 25 L 176 24 C 176 19.57 172.43 16 168 16 L 24 16 z "/>
+  <path d="M 96,68 A 56,56 0 0 0 40,124 56,56 0 0 0 96,180 56,56 0 0 0 152,124 56,56 0 0 0 96,68 Z" style="filter:url(#filter895);opacity:0.20;fill-rule:evenodd"/>
   <path d="M 96,64 A 56,56 0 0 0 40,120 56,56 0 0 0 96,176 56,56 0 0 0 152,120 56,56 0 0 0 96,64 Z" style="fill:#e4e4e4;fill-rule:evenodd"/>
-  <path d="M 96,98 A 24,24 0 0 1 120,122 24,24 0 0 1 96,146 24,24 0 0 1 72,122 24,24 0 0 1 96,98 Z" style="filter:url(#filter911);opacity:0.1;fill-rule:evenodd"/>
+  <path d="M 96,98 A 24,24 0 0 1 120,122 24,24 0 0 1 96,146 24,24 0 0 1 72,122 24,24 0 0 1 96,98 Z" style="filter:url(#filter911);opacity:0.10;fill-rule:evenodd"/>
   <path d="M 96,96 A 24,24 0 0 1 120,120 24,24 0 0 1 96,144 24,24 0 0 1 72,120 24,24 0 0 1 96,96 Z" style="fill:#4f4f4f;fill-rule:evenodd"/>
-  <path style="opacity:0.3;fill-rule:evenodd" d="M 96 72 L 90 80 L 84 88 L 96 88 L 108 88 L 102 80 L 96 72 z M 64 108 L 56 114 L 48 120 L 56 126 L 64 132 L 64 120 L 64 108 z M 128 108 L 128 120 L 128 132 L 136 126 L 144 120 L 136 114 L 128 108 z M 84 152 L 90 160 L 96 168 L 102 160 L 108 152 L 96 152 L 84 152 z "/>
-  <path style="opacity:0.2;fill:#ffffff;fill-rule:evenodd" d="M 96 64 A 56 56 0 0 0 40 120 A 56 56 0 0 0 40.019531 120.42383 A 56 56 0 0 1 96 65 A 56 56 0 0 1 151.98047 120.5957 A 56 56 0 0 0 152 120 A 56 56 0 0 0 96 64 z "/>
-  <path style="filter:url(#filter931);opacity:0.2;fill:#000000;fill-rule:evenodd" d="M 96 72 L 90 80 L 84 88 L 85.5 88 L 90 82 L 96 74 L 102 82 L 106.5 88 L 108 88 L 102 80 L 96 72 z M 64 108 L 56 114 L 48 120 L 49.333984 121 L 56 116 L 64 110 L 64 108 z M 128 108 L 128 110 L 136 116 L 142.66602 121 L 144 120 L 136 114 L 128 108 z M 84 152 L 85.5 154 L 96 154 L 106.5 154 L 108 152 L 96 152 L 84 152 z "/>
+  <path style="opacity:0.30;fill-rule:evenodd" d="M 96 72 L 90 80 L 84 88 L 96 88 L 108 88 L 102 80 L 96 72 z M 64 108 L 56 114 L 48 120 L 56 126 L 64 132 L 64 120 L 64 108 z M 128 108 L 128 120 L 128 132 L 136 126 L 144 120 L 136 114 L 128 108 z M 84 152 L 90 160 L 96 168 L 102 160 L 108 152 L 96 152 L 84 152 z "/>
+  <path style="opacity:0.20;fill:#ffffff;fill-rule:evenodd" d="M 96 64 A 56 56 0 0 0 40 120 A 56 56 0 0 0 40.02 120.42 A 56 56 0 0 1 96 65 A 56 56 0 0 1 151.98 120.60 A 56 56 0 0 0 152 120 A 56 56 0 0 0 96 64 z "/>
+  <path style="filter:url(#filter931);opacity:0.20;fill:#000000;fill-rule:evenodd" d="M 96 72 L 90 80 L 84 88 L 85.50 88 L 90 82 L 96 74 L 102 82 L 106.50 88 L 108 88 L 102 80 L 96 72 z M 64 108 L 56 114 L 48 120 L 49.33 121 L 56 116 L 64 110 L 64 108 z M 128 108 L 128 110 L 136 116 L 142.67 121 L 144 120 L 136 114 L 128 108 z M 84 152 L 85.50 154 L 96 154 L 106.50 154 L 108 152 L 96 152 L 84 152 z "/>
 </svg>

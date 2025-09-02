@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg16">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter867" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter867" x="0.05" width="1.10" y="0.05" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter34020" x="-0.062971698" y="-0.092708333" width="1.1259434" height="1.1854167">
-      <feGaussianBlur stdDeviation="2.78125"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter34020" x="0.06" y="0.09" width="1.13" height="1.19">
+      <feGaussianBlur stdDeviation="2.78"/>
     </filter>
   </defs>
-  <rect ry="80" rx="80" height="160" width="160" y="-176" x="-180" transform="matrix(0,-1,-1,0,0,0)" style="filter:url(#filter867);opacity:0.2;fill:#000000"/>
+  <rect ry="80" rx="80" height="160" width="160" y="-176" x="-180" transform="matrix(0,-1,-1,0,0,0)" style="filter:url(#filter867);opacity:0.20;fill:#000000"/>
   <rect style="fill:#52e7fb" transform="matrix(0,-1,-1,0,0,0)" x="-176" y="-176" width="160" height="160" rx="80" ry="80"/>
-  <path style="filter:url(#filter34020);opacity:0.2;fill:#000000" d="m 43,62 16,16 v 32 l 24,24 h 48 L 116,119 149,86 H 83 L 91,78 75,62 Z"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 96 16 C 51.68 16 16 51.68 16 96 C 16 96.336 16.002 96.6675 16 97 C 16 52.68 51.68 17 96 17 C 140.32 17 176 52.68 176 97 C 175.998 96.6675 176 96.336 176 96 C 176 51.68 140.32 16 96 16 z "/>
-  <rect style="fill:#ff6c3f" width="22.627417" height="22.627417" x="95.459419" y="-10.606597" transform="rotate(45)"/>
-  <path style="fill:#fea82f" d="m 42.999998,60.000006 h 32 l -16,16 z"/>
-  <path style="fill:#eb7dff" d="M 59,108 V 76.000007 l 16,16 z"/>
-  <path style="fill:#fee300" d="M 83,131.99999 V 83.999996 L 59,108 Z"/>
+  <path style="filter:url(#filter34020);opacity:0.20;fill:#000000" d="m 43,62 16,16 v 32 l 24,24 h 48 L 116,119 149,86 H 83 L 91,78 75,62 Z"/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 96 16 C 51.68 16 16 51.68 16 96 C 16 96.34 16.00 96.67 16 97 C 16 52.68 51.68 17 96 17 C 140.32 17 176 52.68 176 97 C 176.00 96.67 176 96.34 176 96 C 176 51.68 140.32 16 96 16 z "/>
+  <rect style="fill:#ff6c3f" width="22.63" height="22.63" x="95.46" y="-10.61" transform="rotate(45)"/>
+  <path style="fill:#fea82f" d="m 43.00,60.00 h 32 l -16,16 z"/>
+  <path style="fill:#eb7dff" d="M 59,108 V 76.00 l 16,16 z"/>
+  <path style="fill:#fee300" d="M 83,132.00 V 84.00 L 59,108 Z"/>
   <path style="fill:#86c53e" d="M 149,84 H 83 l 33,33 z"/>
-  <path style="fill:#16baff" d="m 83,83.999996 48,47.999994 -48.000014,-1e-5 z"/>
+  <path style="fill:#16baff" d="m 83,84.00 48,48.00 -48.00,0.00 z"/>
 </svg>

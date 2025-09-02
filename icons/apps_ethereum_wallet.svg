@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg16">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter863" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter863" x="0.05" width="1.10" y="0.05" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter880" x="-0.062399998" width="1.1248" y="-0.038999999" height="1.078">
+    <filter style="color-interpolation-filters:sRGB" id="filter880" x="0.06" width="1.12" y="0.04" height="1.08">
       <feGaussianBlur stdDeviation="2.08"/>
     </filter>
   </defs>
-  <path d="M 96,20 A 80,80 0 0 0 16,100 80,80 0 0 0 96,180 80,80 0 0 0 176,100 80,80 0 0 0 96,20 Z" style="filter:url(#filter863);opacity:0.2;fill:#000000"/>
+  <path d="M 96,20 A 80,80 0 0 0 16,100 80,80 0 0 0 96,180 80,80 0 0 0 176,100 80,80 0 0 0 96,20 Z" style="filter:url(#filter863);opacity:0.20;fill:#000000"/>
   <path style="fill:#1764c4" d="M 96,16 A 80,80 0 0 0 16,96 80,80 0 0 0 96,176 80,80 0 0 0 176,96 80,80 0 0 0 96,16 Z"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 95.998047 16 A 80 80 0 0 0 16 96 A 80 80 0 0 0 16.021484 96.408203 A 80 80 0 0 1 95.998047 17 L 96 17 A 80 80 0 0 1 175.97656 96.582031 A 80 80 0 0 0 175.99805 96 A 80 80 0 0 0 96 16 L 95.998047 16 z "/>
-  <path style="filter:url(#filter880);opacity:0.2" d="M 96,34 76,66 56,98 96,122 136,98 116,66 Z m -40,72 20,28 20,28 20,-28 20,-28 -40,24 z"/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 96.00 16 A 80 80 0 0 0 16 96 A 80 80 0 0 0 16.02 96.41 A 80 80 0 0 1 96.00 17 L 96 17 A 80 80 0 0 1 175.98 96.58 A 80 80 0 0 0 176.00 96 A 80 80 0 0 0 96 16 L 96.00 16 z "/>
+  <path style="filter:url(#filter880);opacity:0.20" d="M 96,34 76,66 56,98 96,122 136,98 116,66 Z m -40,72 20,28 20,28 20,-28 20,-28 -40,24 z"/>
   <path style="fill:#ffffff" d="M 96,32 116,64 136,96 96,120 56,96 76,64 Z"/>
   <path style="fill:#ffffff" d="m 96,160 20,-28 20,-28 -40,24 -40,-24 20,28 z"/>
 </svg>

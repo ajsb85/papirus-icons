@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg16">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter7476" x="-0.049745454" y="-0.046372881" width="1.0994909" height="1.0927458">
+    <filter style="color-interpolation-filters:sRGB" id="filter7476" x="0.05" y="0.05" width="1.10" height="1.09">
       <feGaussianBlur stdDeviation="2.28"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter7483" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter7483" x="0.05" y="0.05" width="1.10" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
   </defs>
-  <rect style="filter:url(#filter7483);opacity:0.2" width="160" height="160" x="16" y="20" ry="23"/>
+  <rect style="filter:url(#filter7483);opacity:0.20" width="160" height="160" x="16" y="20" ry="23"/>
   <rect style="fill:#3f3f3f" width="160" height="160" x="16" y="16" ry="23"/>
-  <path style="opacity:0.1;fill:#ffffff" d="M 39 16 C 26.258 16 16 26.258 16 39 L 16 40 C 16 27.258 26.258 17 39 17 L 153 17 C 165.742 17 176 27.258 176 40 L 176 39 C 176 26.258 165.742 16 153 16 L 39 16 z "/>
+  <path style="opacity:0.10;fill:#ffffff" d="M 39 16 C 26.26 16 16 26.26 16 39 L 16 40 C 16 27.26 26.26 17 39 17 L 153 17 C 165.74 17 176 27.26 176 40 L 176 39 C 176 26.26 165.74 16 153 16 L 39 16 z "/>
   <path style="fill:#c8fa00" d="M 69 79 L 69 86 L 76 86 L 76 79 L 69 79 z M 76 86 L 76 93 L 83 93 L 83 86 L 76 86 z M 83 86 L 90 86 L 90 79 L 83 79 L 83 86 z M 90 86 L 90 93 L 97 93 L 97 86 L 90 86 z M 97 86 L 104 86 L 104 79 L 97 79 L 97 86 z M 104 86 L 104 93 L 97 93 L 97 100 L 97 107 L 104 107 L 104 100 L 111 100 L 111 93 L 111 86 L 104 86 z M 69 86 L 62 86 L 62 93 L 69 93 L 69 86 z "/>
   <path style="fill:#2e7d6d" d="M 76 51 L 76 65 L 69 65 L 69 79 L 76 79 L 76 86 L 83 86 L 83 79 L 90 79 L 90 86 L 97 86 L 97 79 L 104 79 L 104 72 L 111 72 L 111 65 L 118 65 L 118 58 L 125 58 L 125 51 L 118 51 L 111 51 L 104 51 L 97 51 L 90 51 L 83 51 L 76 51 z M 97 86 L 97 93 L 104 93 L 104 86 L 97 86 z M 90 86 L 83 86 L 83 93 L 90 93 L 90 86 z M 76 86 L 69 86 L 69 93 L 76 93 L 76 86 z M 69 86 L 69 79 L 62 79 L 62 86 L 69 86 z M 111 86 L 111 93 L 118 93 L 118 86 L 111 86 z "/>
-  <path style="filter:url(#filter7476);opacity:0.2;fill:#000000" d="M 151,39 H 68 v 14 h -6 v 14 h -7 v 14 h -7 v 14 h -7 v 14 h 41 v 7 6 h -7 v 7 7 h -7 v 7 7 h 7 v -7 h 7 v -7 h 7 v -7 h 7 v -7 h 7 v -6 h 7 v -7 h 7 v -7 h 6 v -7 h 7 v -7 h 7 v -7 h 7 v -7 h -21 v -7 h 7 v -7 h 7 v -7 h 7 v -6 h 7 z M 68,150 h -7 v 7 h 7 z m 8,-97 h 7 7 7 7 7 7 7 v 7 h -7 v 7 h -7 v 7 h -7 v 7 7 h 7 7 v 7 h -7 v 7 h -7 v 7 h -7 v -7 -7 h -7 -7 -7 -7 -7 v -7 -7 h 7 V 67 h 7 z"/>
+  <path style="filter:url(#filter7476);opacity:0.20;fill:#000000" d="M 151,39 H 68 v 14 h -6 v 14 h -7 v 14 h -7 v 14 h -7 v 14 h 41 v 7 6 h -7 v 7 7 h -7 v 7 7 h 7 v -7 h 7 v -7 h 7 v -7 h 7 v -7 h 7 v -6 h 7 v -7 h 7 v -7 h 6 v -7 h 7 v -7 h 7 v -7 h 7 v -7 h -21 v -7 h 7 v -7 h 7 v -7 h 7 v -6 h 7 z M 68,150 h -7 v 7 h 7 z m 8,-97 h 7 7 7 7 7 7 7 v 7 h -7 v 7 h -7 v 7 h -7 v 7 7 h 7 7 v 7 h -7 v 7 h -7 v 7 h -7 v -7 -7 h -7 -7 -7 -7 -7 v -7 -7 h 7 V 67 h 7 z"/>
   <path style="fill:#ffffff" d="M 151,37 H 68 v 14 h -6 v 14 h -7 v 14 h -7 v 14 h -7 v 14 h 41 v 7 6 h -7 v 7 7 h -7 v 7 7 h 7 v -7 h 7 v -7 h 7 v -7 h 7 v -7 h 7 v -6 h 7 v -7 h 7 v -7 h 6 v -7 h 7 v -7 h 7 v -7 h 7 v -7 h -21 v -7 h 7 v -7 h 7 v -7 h 7 v -6 h 7 z M 68,148 h -7 v 7 h 7 z m 8,-97 h 7 7 7 7 7 7 7 v 7 h -7 v 7 h -7 v 7 h -7 v 7 7 h 7 7 v 7 h -7 v 7 h -7 v 7 h -7 v -7 -7 h -7 -7 -7 -7 -7 v -7 -7 h 7 V 65 h 7 z"/>
 </svg>

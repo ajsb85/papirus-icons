@@ -1,36 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg40">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter889" x="-0.054000002" width="1.108" y="-0.043200002" height="1.0864">
+    <filter style="color-interpolation-filters:sRGB" id="filter889" x="0.05" width="1.11" y="0.04" height="1.09">
       <feGaussianBlur stdDeviation="2.88"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter909" x="-0.03" width="1.06" y="-0.12" height="1.24">
-      <feGaussianBlur stdDeviation="0.4"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter909" x="0.03" width="1.06" y="0.12" height="1.24">
+      <feGaussianBlur stdDeviation="0.40"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter925" x="-0.056571431" width="1.1131429" y="-0.041684212" height="1.0833684">
+    <filter style="color-interpolation-filters:sRGB" id="filter925" x="0.06" width="1.11" y="0.04" height="1.08">
       <feGaussianBlur stdDeviation="0.33"/>
     </filter>
   </defs>
-  <rect style="filter:url(#filter889);opacity:0.2;fill:#000000" width="128" height="160" x="-164" y="-176" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="filter:url(#filter889);opacity:0.20;fill:#000000" width="128" height="160" x="-164" y="-176" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)"/>
   <rect transform="matrix(0,-1,-1,0,0,0)" ry="8" rx="8" y="-176" x="-160" height="160" width="128" style="fill:#f4b504"/>
   <rect transform="matrix(0,-1,-1,0,0,0)" ry="0" rx="0" y="-164" x="-148" height="136" width="104" style="fill:#18a15f"/>
-  <g transform="matrix(4,0,0,4,20,60)" style="opacity:0.5">
-    <path d="m 12,5 c -1.6572,0 -3,1.3434 -3,3 0,1.6566 1.3428,3 3,3 1.6572,0 3,-1.3434 3,-3 0,-1.6566 -1.3428,-3 -3,-3 z" style="fill:#ffffff"/>
-    <path d="m 12,12.000001 c -4.9995,0.0032 -5,3.446153 -5,3.446153 v 1.4 C 7,16.846154 7.923071,19 12,19 c 4.076929,0 5,-2.153846 5,-2.153846 v -1.4 c 0,0 0,-3.448307 -4.999,-3.446153 z" style="fill:#ffffff"/>
+  <g transform="matrix(4,0,0,4,20,60)" style="opacity:0.50">
+    <path d="m 12,5 c -1.66,0 -3,1.34 -3,3 0,1.66 1.34,3 3,3 1.66,0 3,-1.34 3,-3 0,-1.66 -1.34,-3 -3,-3 z" style="fill:#ffffff"/>
+    <path d="m 12,12.00 c -5.00,0.00 -5,3.45 -5,3.45 v 1.40 C 7,16.85 7.92,19 12,19 c 4.08,0 5,-2.15 5,-2.15 v -1.40 c 0,0 0,-3.45 -5.00,-3.45 z" style="fill:#ffffff"/>
   </g>
-  <g transform="matrix(4,0,0,4,76,60)" style="opacity:0.5">
-    <path d="m 12,5 c -1.6572,0 -3,1.3434 -3,3 0,1.6566 1.3428,3 3,3 1.6572,0 3,-1.3434 3,-3 0,-1.6566 -1.3428,-3 -3,-3 z" style="fill:#ffffff"/>
-    <path d="m 12,12.000001 c -4.9995,0.0032 -5,3.446153 -5,3.446153 v 1.4 C 7,16.846154 7.923071,19 12,19 c 4.076929,0 5,-2.153846 5,-2.153846 v -1.4 c 0,0 0,-3.448307 -4.999,-3.446153 z" style="fill:#ffffff"/>
+  <g transform="matrix(4,0,0,4,76,60)" style="opacity:0.50">
+    <path d="m 12,5 c -1.66,0 -3,1.34 -3,3 0,1.66 1.34,3 3,3 1.66,0 3,-1.34 3,-3 0,-1.66 -1.34,-3 -3,-3 z" style="fill:#ffffff"/>
+    <path d="m 12,12.00 c -5.00,0.00 -5,3.45 -5,3.45 v 1.40 C 7,16.85 7.92,19 12,19 c 4.08,0 5,-2.15 5,-2.15 v -1.40 c 0,0 0,-3.45 -5.00,-3.45 z" style="fill:#ffffff"/>
   </g>
-  <path style="opacity:0.2;fill:#ffffff" d="M 24 32 C 19.568 32 16 35.568 16 40 L 16 41 C 16 36.568 19.568 33 24 33 L 168 33 C 172.432 33 176 36.568 176 41 L 176 40 C 176 35.568 172.432 32 168 32 L 24 32 z "/>
-  <g transform="matrix(4,0,0,4,32,38)" style="filter:url(#filter925);opacity:0.2">
-    <path d="m 16,6 c -2.2096,0 -4,1.7912 -4,4 0,2.2088 1.7904,4 4,4 2.2096,0 4,-1.7912 4,-4 0,-2.2088 -1.7904,-4 -4,-4 z"/>
-    <path d="m 16,16.000001 c -6.9993,0.0042 -7,4.430769 -7,4.430769 v 1.8 c 0,0 1.292299,2.76923 7,2.76923 5.707701,0 7,-2.76923 7,-2.76923 v -1.8 c 0,0 0,-4.433538 -6.9986,-4.430769 z"/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 24 32 C 19.57 32 16 35.57 16 40 L 16 41 C 16 36.57 19.57 33 24 33 L 168 33 C 172.43 33 176 36.57 176 41 L 176 40 C 176 35.57 172.43 32 168 32 L 24 32 z "/>
+  <g transform="matrix(4,0,0,4,32,38)" style="filter:url(#filter925);opacity:0.20">
+    <path d="m 16,6 c -2.21,0 -4,1.79 -4,4 0,2.21 1.79,4 4,4 2.21,0 4,-1.79 4,-4 0,-2.21 -1.79,-4 -4,-4 z"/>
+    <path d="m 16,16.00 c -7.00,0.00 -7,4.43 -7,4.43 v 1.80 c 0,0 1.29,2.77 7,2.77 5.71,0 7,-2.77 7,-2.77 v -1.80 c 0,0 0,-4.43 -7.00,-4.43 z"/>
   </g>
   <g transform="matrix(4,0,0,4,32,36)">
-    <path d="m 16,6 c -2.2096,0 -4,1.7912 -4,4 0,2.2088 1.7904,4 4,4 2.2096,0 4,-1.7912 4,-4 0,-2.2088 -1.7904,-4 -4,-4 z" style="fill:#ffffff"/>
-    <path d="m 16,16.000001 c -6.9993,0.0042 -7,4.430769 -7,4.430769 v 1.8 c 0,0 1.292299,2.76923 7,2.76923 5.707701,0 7,-2.76923 7,-2.76923 v -1.8 c 0,0 0,-4.433538 -6.9986,-4.430769 z" style="fill:#ffffff"/>
+    <path d="m 16,6 c -2.21,0 -4,1.79 -4,4 0,2.21 1.79,4 4,4 2.21,0 4,-1.79 4,-4 0,-2.21 -1.79,-4 -4,-4 z" style="fill:#ffffff"/>
+    <path d="m 16,16.00 c -7.00,0.00 -7,4.43 -7,4.43 v 1.80 c 0,0 1.29,2.77 7,2.77 5.71,0 7,-2.77 7,-2.77 v -1.80 c 0,0 0,-4.43 -7.00,-4.43 z" style="fill:#ffffff"/>
   </g>
-  <rect ry="4" rx="4" y="142" x="120" height="8" width="32" style="filter:url(#filter909);opacity:0.1"/>
+  <rect ry="4" rx="4" y="142" x="120" height="8" width="32" style="filter:url(#filter909);opacity:0.10"/>
   <rect ry="4" rx="4" y="140" x="120" height="8" width="32" style="fill:#ffffff"/>
 </svg>

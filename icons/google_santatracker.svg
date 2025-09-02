@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg36">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter884" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter884" x="0.05" width="1.10" y="0.05" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter903" x="-0.030315789" width="1.0606316" y="-0.1152" height="1.2304">
+    <filter style="color-interpolation-filters:sRGB" id="filter903" x="0.03" width="1.06" y="0.12" height="1.23">
       <feGaussianBlur stdDeviation="0.96"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter923" x="-0.039272729" width="1.0785455" y="-0.061714288" height="1.1234286">
+    <filter style="color-interpolation-filters:sRGB" id="filter923" x="0.04" width="1.08" y="0.06" height="1.12">
       <feGaussianBlur stdDeviation="1.44"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter943" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
-      <feGaussianBlur stdDeviation="0.4"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter943" x="0.05" width="1.10" y="0.05" height="1.10">
+      <feGaussianBlur stdDeviation="0.40"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter961" x="-0.042" width="1.084" y="-0.056" height="1.112">
+    <filter style="color-interpolation-filters:sRGB" id="filter961" x="0.04" width="1.08" y="0.06" height="1.11">
       <feGaussianBlur stdDeviation="0.28"/>
     </filter>
   </defs>
-  <rect style="filter:url(#filter884);opacity:0.2;fill:#000000" width="160" height="160" x="-180" y="-176" rx="80" ry="80" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="filter:url(#filter884);opacity:0.20;fill:#000000" width="160" height="160" x="-180" y="-176" rx="80" ry="80" transform="matrix(0,-1,-1,0,0,0)"/>
   <rect transform="matrix(0,-1,-1,0,0,0)" ry="80" rx="80" y="-176" x="-176" height="160" width="160" style="fill:#189848"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 96 16 C 51.68 16 16 51.68 16 96 C 16 96.336 16.002 96.6675 16 97 C 16 52.68 51.68 17 96 17 C 140.32 17 176 52.68 176 97 C 175.998 96.6675 176 96.336 176 96 C 176 51.68 140.32 16 96 16 z "/>
-  <path d="M 76,64 V 48 c 21.809248,0 45.07061,9.545204 56.62524,24.121632 C 132.62524,72.121632 76,80 76,64 Z" style="fill:#ff5046"/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 96 16 C 51.68 16 16 51.68 16 96 C 16 96.34 16.00 96.67 16 97 C 16 52.68 51.68 17 96 17 C 140.32 17 176 52.68 176 97 C 176.00 96.67 176 96.34 176 96 C 176 51.68 140.32 16 96 16 z "/>
+  <path d="M 76,64 V 48 c 21.81,0 45.07,9.55 56.63,24.12 C 132.63,72.12 76,80 76,64 Z" style="fill:#ff5046"/>
   <circle r="8" cy="92" cx="136" style="fill:#fd8176"/>
   <circle r="8" cy="92" cx="72" style="fill:#fd8176"/>
   <ellipse ry="34" rx="32" cy="98" cx="104" style="fill:#e9bd7f"/>
-  <path d="m 84,98 h 32 c 15.512,0 28,12.488 28,28 0,15.512 -12,28 -28,28 H 104 C 80,154 56,122.69374 56,98 Z" style="filter:url(#filter923);opacity:0.2"/>
-  <path d="m 84,96 h 32 c 15.512,0 28,12.488 28,28 0,15.512 -12,28 -28,28 H 104 C 80,152 56,120.69374 56,96 Z" style="fill:#ffffff"/>
-  <circle r="10" cy="52" cx="62" style="filter:url(#filter943);opacity:0.1"/>
+  <path d="m 84,98 h 32 c 15.51,0 28,12.49 28,28 0,15.51 -12,28 -28,28 H 104 C 80,154 56,122.69 56,98 Z" style="filter:url(#filter923);opacity:0.20"/>
+  <path d="m 84,96 h 32 c 15.51,0 28,12.49 28,28 0,15.51 -12,28 -28,28 H 104 C 80,152 56,120.69 56,96 Z" style="fill:#ffffff"/>
+  <circle r="10" cy="52" cx="62" style="filter:url(#filter943);opacity:0.10"/>
   <circle r="10" cy="50" cx="62" style="fill:#ffffff"/>
-  <rect ry="6" rx="6" y="66" x="68" height="20" width="76" style="filter:url(#filter903);opacity:0.2"/>
+  <rect ry="6" rx="6" y="66" x="68" height="20" width="76" style="filter:url(#filter903);opacity:0.20"/>
   <rect ry="6" rx="6" y="64" x="68" height="20" width="76" style="fill:#ffffff"/>
-  <ellipse style="filter:url(#filter961);opacity:0.1;fill:#000000" cx="104" cy="100" rx="8" ry="6"/>
+  <ellipse style="filter:url(#filter961);opacity:0.10;fill:#000000" cx="104" cy="100" rx="8" ry="6"/>
   <ellipse ry="6" rx="8" cy="98" cx="104" style="fill:#fd8176"/>
   <circle r="2" cy="90" cx="86" style="fill:#4f4f4f"/>
   <circle r="2" cy="90" cx="122" style="fill:#4f4f4f"/>
-  <path d="m 112,108 c 0,3.31371 -3.58172,8 -8,8 -4.418276,0 -8,-4.68629 -8,-8 z" style="opacity:0.5"/>
+  <path d="m 112,108 c 0,3.31 -3.58,8 -8,8 -4.42,0 -8,-4.69 -8,-8 z" style="opacity:0.50"/>
 </svg>

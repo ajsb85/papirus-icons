@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg18">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter859" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter859" x="0.05" width="1.10" y="0.05" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter875" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
+    <filter style="color-interpolation-filters:sRGB" id="filter875" x="0.05" width="1.10" y="0.05" height="1.10">
       <feGaussianBlur stdDeviation="2.72"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter891" x="-0.051999999" width="1.104" y="-0.044571428" height="1.0891429">
+    <filter style="color-interpolation-filters:sRGB" id="filter891" x="0.05" width="1.10" y="0.04" height="1.09">
       <feGaussianBlur stdDeviation="1.04"/>
     </filter>
   </defs>
-  <rect style="filter:url(#filter859);opacity:0.2;fill:#000000" width="160" height="160" x="-180" y="-176" rx="80" ry="80" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="filter:url(#filter859);opacity:0.20;fill:#000000" width="160" height="160" x="-180" y="-176" rx="80" ry="80" transform="matrix(0,-1,-1,0,0,0)"/>
   <rect transform="matrix(0,-1,-1,0,0,0)" ry="80" rx="80" y="-176" x="-176" height="160" width="160" style="fill:#4f4f4f"/>
-  <path style="opacity:0.1;fill:#ffffff" d="M 96 16 C 51.684 16 16.007812 51.68 16.007812 96 C 16.007812 96.33544 16.009812 96.667215 16.007812 97 C 16.007812 52.68 51.684 17 96 17 C 140.316 17 175.99219 52.68 175.99219 97 C 175.99019 96.667215 175.99219 96.33544 175.99219 96 C 175.99219 51.68 140.316 16 96 16 z "/>
-  <path d="m 96,32 c -37.672,0 -68,30.328 -68,68 0,37.672 30.328,68 68,68 37.672,0 68,-30.328 68,-68 0,-37.672 -30.328,-68 -68,-68 z m 0,12 c 31.024,0 56,24.976 56,56 0,31.024 -24.976,56 -56,56 C 64.976,156 40,131.024 40,100 40,68.976 64.976,44 96,44 Z" style="filter:url(#filter875);opacity:0.2"/>
-  <path d="m 96,28 c -37.672,0 -68,30.328 -68,68 0,37.672 30.328,68 68,68 37.672,0 68,-30.328 68,-68 0,-37.672 -30.328,-68 -68,-68 z m 0,12 c 31.024,0 56,24.976 56,56 0,31.024 -24.976,56 -56,56 C 64.976,152 40,127.024 40,96 40,64.976 64.976,40 96,40 Z" style="fill:#45de44"/>
-  <path d="m 128,100 -24,14 -23.999999,14 V 99.999997 72.000001 l 23.999999,14 z" style="filter:url(#filter891);opacity:0.1"/>
-  <path d="M 128,96.000002 104,110 80.000001,124 V 95.999997 68.000002 l 23.999999,14 z" style="fill:#ffffff"/>
+  <path style="opacity:0.10;fill:#ffffff" d="M 96 16 C 51.68 16 16.01 51.68 16.01 96 C 16.01 96.34 16.01 96.67 16.01 97 C 16.01 52.68 51.68 17 96 17 C 140.32 17 175.99 52.68 175.99 97 C 175.99 96.67 175.99 96.34 175.99 96 C 175.99 51.68 140.32 16 96 16 z "/>
+  <path d="m 96,32 c -37.67,0 -68,30.33 -68,68 0,37.67 30.33,68 68,68 37.67,0 68,-30.33 68,-68 0,-37.67 -30.33,-68 -68,-68 z m 0,12 c 31.02,0 56,24.98 56,56 0,31.02 -24.98,56 -56,56 C 64.98,156 40,131.02 40,100 40,68.98 64.98,44 96,44 Z" style="filter:url(#filter875);opacity:0.20"/>
+  <path d="m 96,28 c -37.67,0 -68,30.33 -68,68 0,37.67 30.33,68 68,68 37.67,0 68,-30.33 68,-68 0,-37.67 -30.33,-68 -68,-68 z m 0,12 c 31.02,0 56,24.98 56,56 0,31.02 -24.98,56 -56,56 C 64.98,152 40,127.02 40,96 40,64.98 64.98,40 96,40 Z" style="fill:#45de44"/>
+  <path d="m 128,100 -24,14 -24.00,14 V 100.00 72.00 l 24.00,14 z" style="filter:url(#filter891);opacity:0.10"/>
+  <path d="M 128,96.00 104,110 80.00,124 V 96.00 68.00 l 24.00,14 z" style="fill:#ffffff"/>
 </svg>

@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg22">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter862" x="-0.054000002" width="1.108" y="-0.043200002" height="1.0864">
+    <filter style="color-interpolation-filters:sRGB" id="filter862" x="0.05" width="1.11" y="0.04" height="1.09">
       <feGaussianBlur stdDeviation="2.88"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter878" x="-0.047999998" width="1.096" y="-0.047999998" height="1.096">
+    <filter style="color-interpolation-filters:sRGB" id="filter878" x="0.05" width="1.10" y="0.05" height="1.10">
       <feGaussianBlur stdDeviation="2.08"/>
     </filter>
   </defs>
   <rect ry="4" rx="0" y="28" x="28" height="16" width="28" style="fill:#925105"/>
-  <rect style="filter:url(#filter862);opacity:0.2;fill:#000000" width="128" height="160" x="-168" y="-176" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="filter:url(#filter862);opacity:0.20;fill:#000000" width="128" height="160" x="-168" y="-176" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)"/>
   <rect transform="matrix(0,-1,-1,0,0,0)" ry="8" rx="8" y="-176" x="-164" height="160" width="128" style="fill:#de9440"/>
-  <circle r="52" cy="104" cx="96" style="filter:url(#filter878);opacity:0.2"/>
+  <circle r="52" cy="104" cx="96" style="filter:url(#filter878);opacity:0.20"/>
   <circle r="52" cy="100" cx="96" style="fill:#f8dcb1"/>
   <circle transform="scale(1,-1)" r="40" cy="-100" cx="96" style="fill:#925105"/>
-  <circle r="8" cy="56.543999" cx="156" style="fill:#925105"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 24 36 C 19.568 36 16 39.568 16 44 L 16 45 C 16 40.568 19.568 37 24 37 L 168 37 C 172.432 37 176 40.568 176 45 L 176 44 C 176 39.568 172.432 36 168 36 L 24 36 z "/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 96 48 A 52 52 0 0 0 44 100 A 52 52 0 0 0 44.019531 100.47266 A 52 52 0 0 1 96 49 A 52 52 0 0 1 147.97656 100.51172 A 52 52 0 0 0 148 100 A 52 52 0 0 0 96 48 z "/>
+  <circle r="8" cy="56.54" cx="156" style="fill:#925105"/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 24 36 C 19.57 36 16 39.57 16 44 L 16 45 C 16 40.57 19.57 37 24 37 L 168 37 C 172.43 37 176 40.57 176 45 L 176 44 C 176 39.57 172.43 36 168 36 L 24 36 z "/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 96 48 A 52 52 0 0 0 44 100 A 52 52 0 0 0 44.02 100.47 A 52 52 0 0 1 96 49 A 52 52 0 0 1 147.98 100.51 A 52 52 0 0 0 148 100 A 52 52 0 0 0 96 48 z "/>
 </svg>

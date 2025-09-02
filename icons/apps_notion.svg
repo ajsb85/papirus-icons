@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg12">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter845" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter845" x="0.05" y="0.05" width="1.10" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter867" x="-0.048009958" y="-0.04799004" width="1.0960199" height="1.0959801">
-      <feGaussianBlur stdDeviation="2.2404648"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter867" x="0.05" y="0.05" width="1.10" height="1.10">
+      <feGaussianBlur stdDeviation="2.24"/>
     </filter>
   </defs>
-  <rect style="filter:url(#filter845);opacity:0.2" width="160" height="160" x="16" y="20" rx="8" ry="8"/>
+  <rect style="filter:url(#filter845);opacity:0.20" width="160" height="160" x="16" y="20" rx="8" ry="8"/>
   <rect style="fill:#e4e4e4" width="160" height="160" x="16" y="16" rx="8" ry="8"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 24 16 C 19.568 16 16 19.568 16 24 L 16 25 C 16 20.568 19.568 17 24 17 L 168 17 C 172.432 17 176 20.568 176 25 L 176 24 C 176 19.568 172.432 16 168 16 L 24 16 z "/>
-  <path style="filter:url(#filter867);opacity:0.2" d="m 40,53.999894 h 12 v 87.999996 c -12,0 -12,12 -12,12 h 12 16 12 c 0,0 0,-12 -12,-12 V 78.929582 l 39.47442,67.349018 c 3.51714,7.84231 5.10462,7.72129 13.12682,7.72129 H 124 h 8 c 0,0 8,0 8,-12 V 53.999894 h 12 c 0,0 0,-12 -12,-12 h -16 c -12,0 -12,12 -12,12 h 12 V 117.0702 L 84.916928,50.388878 C 80.814604,40.817834 77.718276,41.999894 68,41.999894 H 52 c -12,0 -12,12 -12,12 z"/>
-  <path style="fill:#3f3f3f" d="m 40,52 h 12 v 88 c -12,0 -12,12 -12,12 h 12 16 12 c 0,0 0,-12 -12,-12 V 76.929688 l 39.47442,67.349012 c 3.51714,7.84232 5.10462,7.7213 13.12682,7.7213 H 124 h 8 c 0,0 8,0 8,-12 V 52 h 12 c 0,0 0,-12 -12,-12 h -16 c -12,0 -12,12 -12,12 h 12 v 63.07031 L 84.916928,48.388984 C 80.814604,38.817939 77.718276,40 68,40 H 52 C 40,40 40,52 40,52 Z"/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 24 16 C 19.57 16 16 19.57 16 24 L 16 25 C 16 20.57 19.57 17 24 17 L 168 17 C 172.43 17 176 20.57 176 25 L 176 24 C 176 19.57 172.43 16 168 16 L 24 16 z "/>
+  <path style="filter:url(#filter867);opacity:0.20" d="m 40,54.00 h 12 v 88.00 c -12,0 -12,12 -12,12 h 12 16 12 c 0,0 0,-12 -12,-12 V 78.93 l 39.47,67.35 c 3.52,7.84 5.10,7.72 13.13,7.72 H 124 h 8 c 0,0 8,0 8,-12 V 54.00 h 12 c 0,0 0,-12 -12,-12 h -16 c -12,0 -12,12 -12,12 h 12 V 117.07 L 84.92,50.39 C 80.81,40.82 77.72,42.00 68,42.00 H 52 c -12,0 -12,12 -12,12 z"/>
+  <path style="fill:#3f3f3f" d="m 40,52 h 12 v 88 c -12,0 -12,12 -12,12 h 12 16 12 c 0,0 0,-12 -12,-12 V 76.93 l 39.47,67.35 c 3.52,7.84 5.10,7.72 13.13,7.72 H 124 h 8 c 0,0 8,0 8,-12 V 52 h 12 c 0,0 0,-12 -12,-12 h -16 c -12,0 -12,12 -12,12 h 12 v 63.07 L 84.92,48.39 C 80.81,38.82 77.72,40 68,40 H 52 C 40,40 40,52 40,52 Z"/>
 </svg>

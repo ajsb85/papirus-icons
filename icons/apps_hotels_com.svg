@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg28">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter13131" x="-0.054719998" y="-0.042749999" width="1.10944" height="1.0855">
+    <filter style="color-interpolation-filters:sRGB" id="filter13131" x="0.05" y="0.04" width="1.11" height="1.09">
       <feGaussianBlur stdDeviation="2.85"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter13173" x="-0.0807" y="-0.070052083" width="1.1614" height="1.1401042">
-      <feGaussianBlur stdDeviation="4.203125"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter13173" x="0.08" y="0.07" width="1.16" height="1.14">
+      <feGaussianBlur stdDeviation="4.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter13215" x="-0.076209677" y="-0.073828125" width="1.1524194" height="1.1476562">
-      <feGaussianBlur stdDeviation="3.9375"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter13215" x="0.08" y="0.07" width="1.15" height="1.15">
+      <feGaussianBlur stdDeviation="3.94"/>
     </filter>
   </defs>
-  <path style="filter:url(#filter13215);opacity:0.2;fill:#000000;color:#000000" d="m 127,36 a 18,18 0 0 0 -18,18 v 92 a 18,18 0 0 0 18,18 18,18 0 0 0 18,-18 V 54 A 18,18 0 0 0 127,36 Z M 39,37 A 18,18 0 0 0 21,55 v 90 a 18,18 0 0 0 18,18 18,18 0 0 0 18,-18 V 55 A 18,18 0 0 0 39,37 Z"/>
+  <path style="filter:url(#filter13215);opacity:0.20;fill:#000000;color:#000000" d="m 127,36 a 18,18 0 0 0 -18,18 v 92 a 18,18 0 0 0 18,18 18,18 0 0 0 18,-18 V 54 A 18,18 0 0 0 127,36 Z M 39,37 A 18,18 0 0 0 21,55 v 90 a 18,18 0 0 0 18,18 18,18 0 0 0 18,-18 V 55 A 18,18 0 0 0 39,37 Z"/>
   <path style="fill:#b02a2a;color:#000000" d="M 127 34 A 18 18 0 0 0 109 52 L 109 144 A 18 18 0 0 0 127 162 A 18 18 0 0 0 145 144 L 145 52 A 18 18 0 0 0 127 34 z M 39 35 A 18 18 0 0 0 21 53 L 21 143 A 18 18 0 0 0 39 161 A 18 18 0 0 0 57 143 L 57 53 A 18 18 0 0 0 39 35 z "/>
-  <path style="filter:url(#filter13173);opacity:0.2;fill:#000000;color:#000000" d="M 52,28 A 18,18 0 0 0 34,46 v 108 a 18,18 0 0 0 18,18 18,18 0 0 0 18,-18 V 46 A 18,18 0 0 0 52,28 Z m 89,3 a 18,18 0 0 0 -18,18 v 102 a 18,18 0 0 0 18,18 18,18 0 0 0 18,-18 V 49 A 18,18 0 0 0 141,31 Z"/>
+  <path style="filter:url(#filter13173);opacity:0.20;fill:#000000;color:#000000" d="M 52,28 A 18,18 0 0 0 34,46 v 108 a 18,18 0 0 0 18,18 18,18 0 0 0 18,-18 V 46 A 18,18 0 0 0 52,28 Z m 89,3 a 18,18 0 0 0 -18,18 v 102 a 18,18 0 0 0 18,18 18,18 0 0 0 18,-18 V 49 A 18,18 0 0 0 141,31 Z"/>
   <path style="fill:#c32d2d;color:#000000" d="M 52 26 A 18 18 0 0 0 34 44 L 34 152 A 18 18 0 0 0 52 170 A 18 18 0 0 0 70 152 L 70 44 A 18 18 0 0 0 52 26 z M 141 29 A 18 18 0 0 0 123 47 L 123 149 A 18 18 0 0 0 141 167 A 18 18 0 0 0 159 149 L 159 47 A 18 18 0 0 0 141 29 z "/>
-  <path style="filter:url(#filter13131);opacity:0.2;fill:#000000;color:#000000" d="M 69,20 A 22,22 0 0 0 47,42 v 116 a 22,22 0 0 0 22,22 22,22 0 0 0 22,-22 v -36 h 45 v 36 a 18,18 0 0 0 18,18 18,18 0 0 0 18,-18 V 46 A 18,18 0 0 0 154,28 18,18 0 0 0 136,46 V 75.634766 L 91,73.865234 V 42 A 22,22 0 0 0 69,20 Z"/>
-  <path style="fill:#d63c3c;color:#000000" d="M 69 16 A 22 22 0 0 0 47 38 L 47 154 A 22 22 0 0 0 69 176 A 22 22 0 0 0 91 154 L 91 118 L 136 118 L 136 154 A 18 18 0 0 0 154 172 A 18 18 0 0 0 172 154 L 172 42 A 18 18 0 0 0 154 24 A 18 18 0 0 0 136 42 L 136 71.634766 L 91 69.865234 L 91 38 A 22 22 0 0 0 69 16 z "/>
-  <path style="opacity:0.2;fill:#ffffff;color:#000000" d="M 69 16 A 22 22 0 0 0 47 38 L 47 39 A 22 22 0 0 1 69 17 A 22 22 0 0 1 91 39 L 91 38 A 22 22 0 0 0 69 16 z M 154 24 A 18 18 0 0 0 136 42 L 136 43 A 18 18 0 0 1 154 25 A 18 18 0 0 1 172 43 L 172 42 A 18 18 0 0 0 154 24 z M 91 69.865234 L 91 70.865234 L 136 72.634766 L 136 71.634766 L 91 69.865234 z "/>
+  <path style="filter:url(#filter13131);opacity:0.20;fill:#000000;color:#000000" d="M 69,20 A 22,22 0 0 0 47,42 v 116 a 22,22 0 0 0 22,22 22,22 0 0 0 22,-22 v -36 h 45 v 36 a 18,18 0 0 0 18,18 18,18 0 0 0 18,-18 V 46 A 18,18 0 0 0 154,28 18,18 0 0 0 136,46 V 75.63 L 91,73.87 V 42 A 22,22 0 0 0 69,20 Z"/>
+  <path style="fill:#d63c3c;color:#000000" d="M 69 16 A 22 22 0 0 0 47 38 L 47 154 A 22 22 0 0 0 69 176 A 22 22 0 0 0 91 154 L 91 118 L 136 118 L 136 154 A 18 18 0 0 0 154 172 A 18 18 0 0 0 172 154 L 172 42 A 18 18 0 0 0 154 24 A 18 18 0 0 0 136 42 L 136 71.63 L 91 69.87 L 91 38 A 22 22 0 0 0 69 16 z "/>
+  <path style="opacity:0.20;fill:#ffffff;color:#000000" d="M 69 16 A 22 22 0 0 0 47 38 L 47 39 A 22 22 0 0 1 69 17 A 22 22 0 0 1 91 39 L 91 38 A 22 22 0 0 0 69 16 z M 154 24 A 18 18 0 0 0 136 42 L 136 43 A 18 18 0 0 1 154 25 A 18 18 0 0 1 172 43 L 172 42 A 18 18 0 0 0 154 24 z M 91 69.87 L 91 70.87 L 136 72.63 L 136 71.63 L 91 69.87 z "/>
 </svg>

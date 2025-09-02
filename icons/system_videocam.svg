@@ -1,43 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg50">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter905" x="-0.054000002" width="1.108" y="-0.043200002" height="1.0864">
+    <filter style="color-interpolation-filters:sRGB" id="filter905" x="0.05" width="1.11" y="0.04" height="1.09">
       <feGaussianBlur stdDeviation="2.88"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter933" x="-0.18000001" width="1.36" y="-0.027692309" height="1.0553846">
-      <feGaussianBlur stdDeviation="1.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter933" x="0.18" width="1.36" y="0.03" height="1.06">
+      <feGaussianBlur stdDeviation="1.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter964" x="-0.047999999" width="1.096" y="-0.047999999" height="1.096">
+    <filter style="color-interpolation-filters:sRGB" id="filter964" x="0.05" width="1.10" y="0.05" height="1.10">
       <feGaussianBlur stdDeviation="0.96"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter980" x="-0.047999999" width="1.096" y="-0.047999999" height="1.096">
+    <filter style="color-interpolation-filters:sRGB" id="filter980" x="0.05" width="1.10" y="0.05" height="1.10">
       <feGaussianBlur stdDeviation="0.48"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter996" x="-0.047999999" width="1.096" y="-0.047999999" height="1.096">
+    <filter style="color-interpolation-filters:sRGB" id="filter996" x="0.05" width="1.10" y="0.05" height="1.10">
       <feGaussianBlur stdDeviation="0.32"/>
     </filter>
   </defs>
-  <rect ry="24" rx="24" y="24" x="32" height="160" width="128" style="filter:url(#filter905);opacity:0.2"/>
+  <rect ry="24" rx="24" y="24" x="32" height="160" width="128" style="filter:url(#filter905);opacity:0.20"/>
   <rect ry="24" rx="24" y="20" x="32" height="160" width="128" style="fill:#4f4f4f"/>
-  <circle transform="matrix(0,-1,-1,0,0,0)" r="8" cy="-140" cx="-42" style="filter:url(#filter996);opacity:0.1"/>
+  <circle transform="matrix(0,-1,-1,0,0,0)" r="8" cy="-140" cx="-42" style="filter:url(#filter996);opacity:0.10"/>
   <circle transform="matrix(0,-1,-1,0,0,0)" r="8" cy="-140" cx="-40" style="fill:#ff4d4d"/>
-  <circle transform="matrix(0,-1,-1,0,0,0)" r="32" cy="-96" cx="-96" style="opacity:0.4"/>
-  <circle transform="rotate(-90)" r="24" cy="96" cx="-98" style="filter:url(#filter964);opacity:0.2"/>
+  <circle transform="matrix(0,-1,-1,0,0,0)" r="32" cy="-96" cx="-96" style="opacity:0.40"/>
+  <circle transform="rotate(-90)" r="24" cy="96" cx="-98" style="filter:url(#filter964);opacity:0.20"/>
   <circle transform="rotate(-90)" r="24" cy="96" cx="-96" style="fill:#00b1c4"/>
-  <circle transform="matrix(0,-1,-1,0,0,0)" r="12" cy="-96" cx="-98" style="filter:url(#filter980);opacity:0.1"/>
+  <circle transform="matrix(0,-1,-1,0,0,0)" r="12" cy="-96" cx="-98" style="filter:url(#filter980);opacity:0.10"/>
   <circle transform="matrix(0,-1,-1,0,0,0)" r="12" cy="-96" cx="-96" style="fill:#70f4ff"/>
-  <path style="opacity:0.1;fill:#ffffff" d="M 96 72 A 24 24 0 0 0 72 96 A 24 24 0 0 0 72.019531 96.433594 A 24 24 0 0 1 96 73 A 24 24 0 0 1 119.97656 96.511719 A 24 24 0 0 0 120 96 A 24 24 0 0 0 96 72 z "/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 96 84 A 12 12 0 0 0 84 96 A 12 12 0 0 0 84.021484 96.373047 A 12 12 0 0 1 96 85 A 12 12 0 0 1 107.97656 96.525391 A 12 12 0 0 0 108 96 A 12 12 0 0 0 96 84 z "/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 140 32 A 8 8 0 0 0 132 40 A 8 8 0 0 0 132.02148 40.412109 A 8 8 0 0 1 140 33 A 8 8 0 0 1 147.97266 40.453125 A 8 8 0 0 0 148 40 A 8 8 0 0 0 140 32 z "/>
-  <circle r="4" cy="152" cx="48" style="opacity:0.5"/>
-  <circle r="4" cy="152" cx="64" style="opacity:0.5"/>
-  <circle r="4" cy="152" cx="80" style="opacity:0.5"/>
-  <circle r="4" cy="152" cx="96" style="opacity:0.5"/>
-  <circle r="4" cy="164" cx="56" style="opacity:0.5"/>
-  <circle r="4" cy="164" cx="72" style="opacity:0.5"/>
-  <circle r="4" cy="164" cx="88" style="opacity:0.5"/>
-  <path style="opacity:0.1;fill:#ffffff" d="M 56 20 C 42.704 20 32 30.704 32 44 L 32 45 C 32 31.704 42.704 21 56 21 L 136 21 C 149.296 21 160 31.704 160 45 L 160 44 C 160 30.704 149.296 20 136 20 L 56 20 z "/>
-  <rect ry="4" rx="4" y="50" x="16" height="104" width="16" style="filter:url(#filter933);opacity:0.2"/>
+  <path style="opacity:0.10;fill:#ffffff" d="M 96 72 A 24 24 0 0 0 72 96 A 24 24 0 0 0 72.02 96.43 A 24 24 0 0 1 96 73 A 24 24 0 0 1 119.98 96.51 A 24 24 0 0 0 120 96 A 24 24 0 0 0 96 72 z "/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 96 84 A 12 12 0 0 0 84 96 A 12 12 0 0 0 84.02 96.37 A 12 12 0 0 1 96 85 A 12 12 0 0 1 107.98 96.53 A 12 12 0 0 0 108 96 A 12 12 0 0 0 96 84 z "/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 140 32 A 8 8 0 0 0 132 40 A 8 8 0 0 0 132.02 40.41 A 8 8 0 0 1 140 33 A 8 8 0 0 1 147.97 40.45 A 8 8 0 0 0 148 40 A 8 8 0 0 0 140 32 z "/>
+  <circle r="4" cy="152" cx="48" style="opacity:0.50"/>
+  <circle r="4" cy="152" cx="64" style="opacity:0.50"/>
+  <circle r="4" cy="152" cx="80" style="opacity:0.50"/>
+  <circle r="4" cy="152" cx="96" style="opacity:0.50"/>
+  <circle r="4" cy="164" cx="56" style="opacity:0.50"/>
+  <circle r="4" cy="164" cx="72" style="opacity:0.50"/>
+  <circle r="4" cy="164" cx="88" style="opacity:0.50"/>
+  <path style="opacity:0.10;fill:#ffffff" d="M 56 20 C 42.70 20 32 30.70 32 44 L 32 45 C 32 31.70 42.70 21 56 21 L 136 21 C 149.30 21 160 31.70 160 45 L 160 44 C 160 30.70 149.30 20 136 20 L 56 20 z "/>
+  <rect ry="4" rx="4" y="50" x="16" height="104" width="16" style="filter:url(#filter933);opacity:0.20"/>
   <rect ry="4" rx="4" y="48" x="16" height="104" width="16" style="fill:#3f3f3f"/>
-  <path style="opacity:0.1;fill:#ffffff" d="M 20 48 C 17.784 48 16 49.784 16 52 L 16 53 C 16 50.784 17.784 49 20 49 L 28 49 C 30.216 49 32 50.784 32 53 L 32 52 C 32 49.784 30.216 48 28 48 L 20 48 z "/>
+  <path style="opacity:0.10;fill:#ffffff" d="M 20 48 C 17.78 48 16 49.78 16 52 L 16 53 C 16 50.78 17.78 49 20 49 L 28 49 C 30.22 49 32 50.78 32 53 L 32 52 C 32 49.78 30.22 48 28 48 L 20 48 z "/>
 </svg>

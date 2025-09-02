@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg20">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter857" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter857" x="0.05" width="1.10" y="0.05" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter4911" x="-0.048230228" y="-0.047771962" width="1.0964605" height="1.0955439">
-      <feGaussianBlur stdDeviation="1.4729688"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter4911" x="0.05" y="0.05" width="1.10" height="1.10">
+      <feGaussianBlur stdDeviation="1.47"/>
     </filter>
   </defs>
-  <circle r="80" cy="100" cx="96" style="filter:url(#filter857);opacity:0.2"/>
+  <circle r="80" cy="100" cx="96" style="filter:url(#filter857);opacity:0.20"/>
   <circle r="80" cy="96" cx="96" style="fill:#e4e4e4"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 96,16 A 80,80 0 0 0 16,96 80,80 0 0 0 16.019531,96.472656 80,80 0 0 1 96,17 80,80 0 0 1 175.97461,96.513672 80,80 0 0 0 176,96 80,80 0 0 0 96,16 Z"/>
-  <path style="filter:url(#filter4911);opacity:0.2;fill:#000000" d="m 59.351562,61 26.66211,74 H 96 105.98633 L 132.64844,61 H 110.42578 L 96,109.95117 81.574219,61 Z"/>
-  <path style="fill:#333333" d="M 59.351562 59 L 86.013672 133 L 96 133 L 105.98633 133 L 132.64844 59 L 110.42578 59 L 96 107.95117 L 81.574219 59 L 59.351562 59 z "/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 96,16 A 80,80 0 0 0 16,96 80,80 0 0 0 16.02,96.47 80,80 0 0 1 96,17 80,80 0 0 1 175.97,96.51 80,80 0 0 0 176,96 80,80 0 0 0 96,16 Z"/>
+  <path style="filter:url(#filter4911);opacity:0.20;fill:#000000" d="m 59.35,61 26.66,74 H 96 105.99 L 132.65,61 H 110.43 L 96,109.95 81.57,61 Z"/>
+  <path style="fill:#333333" d="M 59.35 59 L 86.01 133 L 96 133 L 105.99 133 L 132.65 59 L 110.43 59 L 96 107.95 L 81.57 59 L 59.35 59 z "/>
 </svg>

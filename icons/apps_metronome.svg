@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg22">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter1086" x="-0.048000112" y="-0.047999889" width="1.0960002" height="1.0959998">
-      <feGaussianBlur stdDeviation="3.2000074"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter1086" x="0.05" y="0.05" width="1.10" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter1090" x="-0.048000002" y="-0.048000002" width="1.096" height="1.096">
-      <feGaussianBlur stdDeviation="0.80000374"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter1090" x="0.05" y="0.05" width="1.10" height="1.10">
+      <feGaussianBlur stdDeviation="0.80"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter1094" x="-0.26020262" y="-0.034693683" width="1.5204052" height="1.0693874">
-      <feGaussianBlur stdDeviation="1.7346922"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter1094" x="0.26" y="0.03" width="1.52" height="1.07">
+      <feGaussianBlur stdDeviation="1.73"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter1098" x="-0.043200003" y="-0.053999998" width="1.0864" height="1.108">
-      <feGaussianBlur stdDeviation="0.72000329"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter1098" x="0.04" y="0.05" width="1.09" height="1.11">
+      <feGaussianBlur stdDeviation="0.72"/>
     </filter>
   </defs>
-  <path fill="#62ad21" d="M 175.81595,171.99996 135.90777,27.999295 c -1.18349,-4.27042 -3.55982,-8.000037 -7.98164,-8.000037 H 64.073833 c -4.42202,0 -6.798031,3.729617 -7.981637,8.000037 L 16.184011,171.99996 C 15.000525,176.27038 19.743827,180 24.165648,180 H 167.83432 c 4.42202,0 9.16524,-3.72962 7.98163,-8.00004 z" style="filter:url(#filter1086);opacity:0.2;fill:#000000"/>
-  <path fill="#62ad21" d="M 175.81595,168.00033 135.90777,23.999665 c -1.18349,-4.27042 -3.55982,-8.000037 -7.98164,-8.000037 H 64.073833 c -4.42202,0 -6.798031,3.729617 -7.981637,8.000037 L 16.184011,168.00033 c -1.183486,4.27042 3.559816,8.00004 7.981637,8.00004 H 167.83432 c 4.42202,0 9.16524,-3.72962 7.98163,-8.00004 z"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 64.074219 16 C 59.652199 16 57.275403 19.72958 56.091797 24 L 16.183594 168 C 16.015356 168.60706 15.977902 169.2013 16.03125 169.77734 C 16.060698 169.52043 16.111064 169.26171 16.183594 169 L 56.091797 25 C 57.275403 20.72958 59.652199 17 64.074219 17 L 127.92578 17 C 132.3476 17 134.72471 20.72958 135.9082 25 L 175.81641 169 C 175.88894 169.26171 175.93929 169.52043 175.96875 169.77734 C 176.02208 169.2013 175.98466 168.60706 175.81641 168 L 135.9082 24 C 134.72471 19.72958 132.3476 16 127.92578 16 L 64.074219 16 z "/>
-  <circle opacity="0.2" cx="95.99958" cy="141.99991" r="20.000093" style="filter:url(#filter1090)"/>
-  <circle fill="#ffffff" cx="95.99958" cy="140.00029" r="20.000093"/>
-  <rect opacity="0.2" width="16.000074" height="120.00056" x="145.87944" y="-36.996082" rx="7.6960359" ry="9.3200426" transform="rotate(30)" style="filter:url(#filter1094)"/>
-  <rect fill="#4f4f4f" width="16.000074" height="120.00056" x="144.87964" y="-38.703873" rx="7.6960359" ry="9.3200426" transform="rotate(30)"/>
-  <path opacity="0.2" d="M 115.99967,17.999233 95.999582,49.999381 75.999489,17.999233 Z" style="filter:url(#filter1098)"/>
-  <path fill="#ffffff" d="M 115.99967,15.999628 95.999582,47.999777 75.999489,15.999628 Z"/>
+  <path fill="#62ad21" d="M 175.82,172.00 135.91,28.00 c -1.18,-4.27 -3.56,-8.00 -7.98,-8.00 H 64.07 c -4.42,0 -6.80,3.73 -7.98,8.00 L 16.18,172.00 C 15.00,176.27 19.74,180 24.17,180 H 167.83 c 4.42,0 9.17,-3.73 7.98,-8.00 z" style="filter:url(#filter1086);opacity:0.20;fill:#000000"/>
+  <path fill="#62ad21" d="M 175.82,168.00 135.91,24.00 c -1.18,-4.27 -3.56,-8.00 -7.98,-8.00 H 64.07 c -4.42,0 -6.80,3.73 -7.98,8.00 L 16.18,168.00 c -1.18,4.27 3.56,8.00 7.98,8.00 H 167.83 c 4.42,0 9.17,-3.73 7.98,-8.00 z"/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 64.07 16 C 59.65 16 57.28 19.73 56.09 24 L 16.18 168 C 16.02 168.61 15.98 169.20 16.03 169.78 C 16.06 169.52 16.11 169.26 16.18 169 L 56.09 25 C 57.28 20.73 59.65 17 64.07 17 L 127.93 17 C 132.35 17 134.72 20.73 135.91 25 L 175.82 169 C 175.89 169.26 175.94 169.52 175.97 169.78 C 176.02 169.20 175.98 168.61 175.82 168 L 135.91 24 C 134.72 19.73 132.35 16 127.93 16 L 64.07 16 z "/>
+  <circle opacity="0.20" cx="96.00" cy="142.00" r="20.00" style="filter:url(#filter1090)"/>
+  <circle fill="#ffffff" cx="96.00" cy="140.00" r="20.00"/>
+  <rect opacity="0.20" width="16.00" height="120.00" x="145.88" y="-37.00" rx="7.70" ry="9.32" transform="rotate(30)" style="filter:url(#filter1094)"/>
+  <rect fill="#4f4f4f" width="16.00" height="120.00" x="144.88" y="-38.70" rx="7.70" ry="9.32" transform="rotate(30)"/>
+  <path opacity="0.20" d="M 116.00,18.00 96.00,50.00 76.00,18.00 Z" style="filter:url(#filter1098)"/>
+  <path fill="#ffffff" d="M 116.00,16.00 96.00,48.00 76.00,16.00 Z"/>
 </svg>

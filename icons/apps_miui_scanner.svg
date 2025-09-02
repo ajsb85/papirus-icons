@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg18">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter892" x="-0.043200002" width="1.0864" y="-0.054000002" height="1.108">
+    <filter style="color-interpolation-filters:sRGB" id="filter892" x="0.04" width="1.09" y="0.05" height="1.11">
       <feGaussianBlur stdDeviation="2.88"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter908" x="-0.0264" width="1.0528" y="-0.264" height="1.528">
+    <filter style="color-interpolation-filters:sRGB" id="filter908" x="0.03" width="1.05" y="0.26" height="1.53">
       <feGaussianBlur stdDeviation="1.76"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter926" x="-0.041599998" width="1.0832" y="-0.056727271" height="1.1134545">
+    <filter style="color-interpolation-filters:sRGB" id="filter926" x="0.04" width="1.08" y="0.06" height="1.11">
       <feGaussianBlur stdDeviation="2.08"/>
     </filter>
   </defs>
-  <rect style="filter:url(#filter892);opacity:0.2" width="160" height="128" x="-180" y="-160" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="filter:url(#filter892);opacity:0.20" width="160" height="128" x="-180" y="-160" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)"/>
   <rect style="fill:#4f4f4f" width="160" height="128" x="-176" y="-160" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)"/>
-  <rect transform="matrix(0,-1,-1,0,0,0)" ry="0" rx="0" y="-140" x="-160" height="88" width="120" style="filter:url(#filter926);opacity:0.2;fill:#000000"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="0" rx="0" y="-140" x="-160" height="88" width="120" style="filter:url(#filter926);opacity:0.20;fill:#000000"/>
   <rect style="fill:#e4e4e4" width="120" height="88" x="-156" y="-140" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
-  <path style="opacity:0.1;fill:#ffffff" d="M 40 16 C 35.568 16 32 19.568 32 24 L 32 25 C 32 20.568 35.568 17 40 17 L 152 17 C 156.432 17 160 20.568 160 25 L 160 24 C 160 19.568 156.432 16 152 16 L 40 16 z "/>
-  <rect style="filter:url(#filter908);opacity:0.2" width="160" height="16" x="16" y="66" rx="4" ry="4"/>
+  <path style="opacity:0.10;fill:#ffffff" d="M 40 16 C 35.57 16 32 19.57 32 24 L 32 25 C 32 20.57 35.57 17 40 17 L 152 17 C 156.43 17 160 20.57 160 25 L 160 24 C 160 19.57 156.43 16 152 16 L 40 16 z "/>
+  <rect style="filter:url(#filter908);opacity:0.20" width="160" height="16" x="16" y="66" rx="4" ry="4"/>
   <rect style="fill:#f34235" width="160" height="16" x="16" y="64" rx="4" ry="4"/>
-  <rect style="opacity:0.2;fill:#ffffff" width="1" height="88" x="-37.000008" y="-140" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="opacity:0.20;fill:#ffffff" width="1" height="88" x="-37.00" y="-140" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
 </svg>

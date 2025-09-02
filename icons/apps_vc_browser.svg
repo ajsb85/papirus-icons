@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg14">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter850" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter850" x="0.05" width="1.10" y="0.05" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter894" x="-0.037445216" width="1.0748904" y="-0.066840534" height="1.1336811">
-      <feGaussianBlur stdDeviation="1.5611373"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter894" x="0.04" width="1.07" y="0.07" height="1.13">
+      <feGaussianBlur stdDeviation="1.56"/>
     </filter>
   </defs>
-  <rect width="160" height="160" x="-180" y="-176" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)" style="filter:url(#filter850);opacity:0.2;fill:#000000"/>
+  <rect width="160" height="160" x="-180" y="-176" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)" style="filter:url(#filter850);opacity:0.20;fill:#000000"/>
   <rect style="fill:#ff9700" transform="matrix(0,-1,-1,0,0,0)" ry="8" rx="8" y="-176" x="-176" height="160" width="160"/>
-  <path style="opacity:0.2;fill:#ffffff" d="m 24,16 c -4.432,0 -8,3.568 -8,8 v 1 c 0,-4.432 3.568,-8 8,-8 h 144 c 4.432,0 8,3.568 8,8 v -1 c 0,-4.432 -3.568,-8 -8,-8 z"/>
-  <path style="filter:url(#filter894);opacity:0.2;fill:#000000;color:#000000;font-stretch:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill-rule:nonzero;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" d="m 47.960834,69.945715 a 4.0004,4.0004 0 0 0 -3.63086,5.591797 l 20,47.999998 a 4.0004,4.0004 0 0 0 7.384766,0 l 20,-47.999998 A 4.0004,4.0004 0 1 0 84.329974,72.459387 L 68.023334,111.59806 51.71474,72.459387 a 4.0004,4.0004 0 0 0 -3.753906,-2.513672 z m 78.060546,0.05273 c -5,0 -11.47836,-0.205188 -17.05664,3.732422 -5.57828,3.937609 -8.94336,11.600911 -8.94336,24.267578 0,12.666655 3.36508,20.329965 8.94336,24.267565 5.57828,3.93762 12.05664,3.73243 17.05664,3.73243 12.13334,0 17.57813,-10.21094 17.57813,-10.21094 a 4.0004,4.0004 0 1 0 -7.1543,-3.57813 c 0,0 -2.55716,5.78907 -10.42383,5.78907 -5,0 -9.52163,-0.20519 -12.44336,-2.26758 -2.92171,-2.06239 -5.55664,-6.39909 -5.55664,-17.732415 0,-11.333333 2.63494,-15.670032 5.55664,-17.732422 2.92172,-2.06239 7.44336,-2.267578 12.44336,-2.267578 7.86667,0 10.42383,5.789062 10.42383,5.789062 a 4.0004,4.0004 0 1 0 7.1543,-3.578125 c 0,0 -5.44479,-10.210937 -17.57813,-10.210937 z"/>
-  <g transform="matrix(4,0,0,4,0.0220537,-8.0018234)">
+  <path style="opacity:0.20;fill:#ffffff" d="m 24,16 c -4.43,0 -8,3.57 -8,8 v 1 c 0,-4.43 3.57,-8 8,-8 h 144 c 4.43,0 8,3.57 8,8 v -1 c 0,-4.43 -3.57,-8 -8,-8 z"/>
+  <path style="filter:url(#filter894);opacity:0.20;fill:#000000;color:#000000;font-stretch:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill-rule:nonzero;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" d="m 47.96,69.95 a 4.00,4.00 0 0 0 -3.63,5.59 l 20,48.00 a 4.00,4.00 0 0 0 7.38,0 l 20,-48.00 A 4.00,4.00 0 1 0 84.33,72.46 L 68.02,111.60 51.71,72.46 a 4.00,4.00 0 0 0 -3.75,-2.51 z m 78.06,0.05 c -5,0 -11.48,0.21 -17.06,3.73 -5.58,3.94 -8.94,11.60 -8.94,24.27 0,12.67 3.37,20.33 8.94,24.27 5.58,3.94 12.06,3.73 17.06,3.73 12.13,0 17.58,-10.21 17.58,-10.21 a 4.00,4.00 0 1 0 -7.15,-3.58 c 0,0 -2.56,5.79 -10.42,5.79 -5,0 -9.52,0.21 -12.44,-2.27 -2.92,-2.06 -5.56,-6.40 -5.56,-17.73 0,-11.33 2.63,-15.67 5.56,-17.73 2.92,-2.06 7.44,-2.27 12.44,-2.27 7.87,0 10.42,5.79 10.42,5.79 a 4.00,4.00 0 1 0 7.15,-3.58 c 0,0 -5.44,-10.21 -17.58,-10.21 z"/>
+  <g transform="matrix(4,0,0,4,0.02,-8.00)">
     <path d="m 12,20 5,12 5,-12" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"/>
-    <path d="m 35,30 c 0,0 -1,2 -3.5,2 -2.5,0 -5.5,0 -5.5,-6 0,-6 3,-6 5.5,-6 2.5,0 3.5,2 3.5,2" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"/>
+    <path d="m 35,30 c 0,0 -1,2 -3.50,2 -2.50,0 -5.50,0 -5.50,-6 0,-6 3,-6 5.50,-6 2.50,0 3.50,2 3.50,2" style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"/>
   </g>
 </svg>

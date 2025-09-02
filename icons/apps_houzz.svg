@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg28">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter6495" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter6495" x="0.05" y="0.05" width="1.10" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter1925" x="-0.079213483" y="-0.071212123" width="1.158427" height="1.1424242">
-      <feGaussianBlur stdDeviation="2.9375"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter1925" x="0.08" y="0.07" width="1.16" height="1.14">
+      <feGaussianBlur stdDeviation="2.94"/>
     </filter>
   </defs>
-  <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-180" height="160" width="160" style="filter:url(#filter6495);opacity:0.2;fill:#000000"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-180" height="160" width="160" style="filter:url(#filter6495);opacity:0.20;fill:#000000"/>
   <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-176" height="160" width="160" style="fill:#e4e4e4"/>
-  <path style="filter:url(#filter1925);opacity:0.2;fill:#000000;mix-blend-mode:normal" d="M 53,48.000002 V 147 H 68.056641 75 87 v -31 h 22 v 31 h 33 V 91.000002 L 75,71.896486 V 48.000002 Z"/>
-  <path style="fill:#4dbc15" d="M 53,46.000002 V 145 H 68.056641 75 87 v -31 h 22 v 31 h 33 V 89.000002 L 75,69.896486 V 46.000002 Z"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 28 16 C 21.352 16 16 21.352 16 28 L 16 29 C 16 22.352 21.352 17 28 17 L 164 17 C 170.648 17 176 22.352 176 29 L 176 28 C 176 21.352 170.648 16 164 16 L 28 16 z "/>
+  <path style="filter:url(#filter1925);opacity:0.20;fill:#000000;mix-blend-mode:normal" d="M 53,48.00 V 147 H 68.06 75 87 v -31 h 22 v 31 h 33 V 91.00 L 75,71.90 V 48.00 Z"/>
+  <path style="fill:#4dbc15" d="M 53,46.00 V 145 H 68.06 75 87 v -31 h 22 v 31 h 33 V 89.00 L 75,69.90 V 46.00 Z"/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 28 16 C 21.35 16 16 21.35 16 28 L 16 29 C 16 22.35 21.35 17 28 17 L 164 17 C 170.65 17 176 22.35 176 29 L 176 28 C 176 21.35 170.65 16 164 16 L 28 16 z "/>
 </svg>

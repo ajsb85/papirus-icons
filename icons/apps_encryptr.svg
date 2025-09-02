@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg20">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter871" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter871" x="0.05" width="1.10" y="0.05" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter906" x="-0.060005999" width="1.120012" y="-0.039997333" height="1.0799947">
-      <feGaussianBlur stdDeviation="2.40024"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter906" x="0.06" width="1.12" y="0.04" height="1.08">
+      <feGaussianBlur stdDeviation="2.40"/>
     </filter>
   </defs>
-  <rect ry="8" rx="8" y="20" x="16" height="160" width="160" style="filter:url(#filter871);opacity:0.2;fill:#000000"/>
+  <rect ry="8" rx="8" y="20" x="16" height="160" width="160" style="filter:url(#filter871);opacity:0.20;fill:#000000"/>
   <rect style="fill:#c41f5b" width="160" height="160" x="16" y="16" rx="8" ry="8"/>
-  <path style="filter:url(#filter906);opacity:0.2" d="m 48,29.976 v 96 H 96 V 126 L 144,78 H 96 L 144,30 H 96 V 29.97656 H 48 Z M 96,126 H 48 l 48,48 48,-48 z"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 24 16 C 19.568 16 16 19.568 16 24 L 16 25 C 16 20.568 19.568 17 24 17 L 168 17 C 172.432 17 176 20.568 176 25 L 176 24 C 176 19.568 172.432 16 168 16 L 24 16 z "/>
+  <path style="filter:url(#filter906);opacity:0.20" d="m 48,29.98 v 96 H 96 V 126 L 144,78 H 96 L 144,30 H 96 V 29.98 H 48 Z M 96,126 H 48 l 48,48 48,-48 z"/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 24 16 C 19.57 16 16 19.57 16 24 L 16 25 C 16 20.57 19.57 17 24 17 L 168 17 C 172.43 17 176 20.57 176 25 L 176 24 C 176 19.57 172.43 16 168 16 L 24 16 z "/>
   <path style="fill:#ffffff" d="M 144,124 H 96 v 48 z"/>
   <path style="fill:#ffffff" d="M 144,76 H 96 v 48 z"/>
   <path style="fill:#ea7aa2" d="M 144,28 H 96 v 48 z"/>

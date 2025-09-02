@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg24">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter869" x="-0.044" y="-0.0528" width="1.088" height="1.1056">
+    <filter style="color-interpolation-filters:sRGB" id="filter869" x="0.04" y="0.05" width="1.09" height="1.11">
       <feGaussianBlur stdDeviation="1.76"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter873" x="-0.044" y="-0.0528" width="1.088" height="1.1056">
+    <filter style="color-interpolation-filters:sRGB" id="filter873" x="0.04" y="0.05" width="1.09" height="1.11">
       <feGaussianBlur stdDeviation="1.76"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter877" x="-0.045000002" y="-0.051428573" width="1.09" height="1.1028571">
-      <feGaussianBlur stdDeviation="2.4"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter877" x="0.05" y="0.05" width="1.09" height="1.10">
+      <feGaussianBlur stdDeviation="2.40"/>
     </filter>
   </defs>
-  <path style="filter:url(#filter873);opacity:0.2" d="m 80,90 c -10.872432,0 -20,9.127568 -20,20 v 40 c 0,10.87243 9.127568,20 20,20 h 56 c 10.87243,0 20,-9.12757 20,-20 v -40 c 0,-10.872432 -9.12757,-20 -20,-20 z"/>
+  <path style="filter:url(#filter873);opacity:0.20" d="m 80,90 c -10.87,0 -20,9.13 -20,20 v 40 c 0,10.87 9.13,20 20,20 h 56 c 10.87,0 20,-9.13 20,-20 v -40 c 0,-10.87 -9.13,-20 -20,-20 z"/>
   <rect style="fill:none;stroke:#e4e4e4;stroke-width:24;stroke-linejoin:round" width="72" height="56" x="72" y="98" rx="8" ry="8"/>
   <rect style="fill:#1fa8f3" width="72" height="56" x="72" y="98" rx="8" ry="8"/>
-  <path style="filter:url(#filter869);opacity:0.2" d="m 32,98 c -10.872433,0 -20,9.12757 -20,20 v 40 c 0,10.87243 9.127567,20 20,20 h 56 c 10.872432,0 20,-9.12757 20,-20 V 118 C 108,107.12757 98.872432,98 88,98 Z"/>
+  <path style="filter:url(#filter869);opacity:0.20" d="m 32,98 c -10.87,0 -20,9.13 -20,20 v 40 c 0,10.87 9.13,20 20,20 h 56 c 10.87,0 20,-9.13 20,-20 V 118 C 108,107.13 98.87,98 88,98 Z"/>
   <rect style="fill:none;stroke:#e4e4e4;stroke-width:24;stroke-linejoin:round" width="72" height="56" x="24" y="106" rx="8" ry="8"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 32 94 C 21.127567 94 12 103.12757 12 114 L 12 115 C 12 104.12757 21.127567 95 32 95 L 88 95 C 98.872432 95 108 104.12757 108 115 L 108 114 C 108 103.12757 98.872432 94 88 94 L 32 94 z "/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 32 94 C 21.13 94 12 103.13 12 114 L 12 115 C 12 104.13 21.13 95 32 95 L 88 95 C 98.87 95 108 104.13 108 115 L 108 114 C 108 103.13 98.87 94 88 94 L 32 94 z "/>
   <rect style="fill:#2475c2" width="72" height="56" x="24" y="106" rx="8" ry="8"/>
-  <path style="filter:url(#filter877);opacity:0.2" d="M 76,22 C 62.911568,22 52,32.911567 52,46 v 64 c 0,13.08843 10.911568,24 24,24 h 80 c 13.08843,0 24,-10.91157 24,-24 V 46 C 180,32.911567 169.08843,22 156,22 Z"/>
+  <path style="filter:url(#filter877);opacity:0.20" d="M 76,22 C 62.91,22 52,32.91 52,46 v 64 c 0,13.09 10.91,24 24,24 h 80 c 13.09,0 24,-10.91 24,-24 V 46 C 180,32.91 169.09,22 156,22 Z"/>
   <rect style="fill:none;stroke:#e4e4e4;stroke-width:24;stroke-linejoin:round" width="104" height="88" x="64" y="30" rx="12" ry="12"/>
   <rect style="fill:#15477d" width="104" height="88" x="64" y="30" rx="12" ry="12"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 76 18 C 62.911568 18 52 28.911567 52 42 L 52 43 C 52 29.911567 62.911568 19 76 19 L 156 19 C 169.08843 19 180 29.911567 180 43 L 180 42 C 180 28.911567 169.08843 18 156 18 L 76 18 z "/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 76 18 C 62.91 18 52 28.91 52 42 L 52 43 C 52 29.91 62.91 19 76 19 L 156 19 C 169.09 19 180 29.91 180 43 L 180 42 C 180 28.91 169.09 18 156 18 L 76 18 z "/>
 </svg>

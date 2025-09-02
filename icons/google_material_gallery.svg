@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg28">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter901" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter901" x="0.05" width="1.10" y="0.05" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter2198" x="-0.047649576" y="-0.048355617" width="1.0952992" height="1.0967112">
-      <feGaussianBlur stdDeviation="0.7656306"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter2198" x="0.05" y="0.05" width="1.10" height="1.10">
+      <feGaussianBlur stdDeviation="0.77"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter2202" x="-0.039999999" y="-0.059999999" width="1.08" height="1.12">
-      <feGaussianBlur stdDeviation="1.9"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter2202" x="0.04" y="0.06" width="1.08" height="1.12">
+      <feGaussianBlur stdDeviation="1.90"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter2206" x="-0.048179135" y="-0.047822191" width="1.0963583" height="1.0956444">
-      <feGaussianBlur stdDeviation="1.5143694"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter2206" x="0.05" y="0.05" width="1.10" height="1.10">
+      <feGaussianBlur stdDeviation="1.51"/>
     </filter>
   </defs>
-  <rect style="filter:url(#filter901);opacity:0.2;fill:#000000" width="160" height="160" x="-180" y="-176" rx="12" ry="12" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="filter:url(#filter901);opacity:0.20;fill:#000000" width="160" height="160" x="-180" y="-176" rx="12" ry="12" transform="matrix(0,-1,-1,0,0,0)"/>
   <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-176" height="160" width="160" style="fill:#fec400"/>
-  <path style="filter:url(#filter2206);opacity:0.2;fill:#000000;stop-color:#000000" d="m 153,41 v 76 H 77.56306 Z"/>
-  <path style="filter:url(#filter2198);opacity:0.2;fill:#000000;stop-color:#000000" d="m 39,117 v 38 l 38.56306,-38 z"/>
-  <path style="fill:#414141;stop-color:#000000" d="m 39,115 v 38 l 38.56306,-38 z"/>
-  <path style="fill:#ffffff;stop-color:#000000" d="m 153,39 v 76 H 77.56306 Z"/>
-  <path style="opacity:0.2;fill:#ffffff" d="m 28,16 c -6.648,0 -12,5.352 -12,12 v 1 c 0,-6.648 5.352,-12 12,-12 h 136 c 6.648,0 12,5.352 12,12 v -1 c 0,-6.648 -5.352,-12 -12,-12 z"/>
-  <path style="filter:url(#filter2202);opacity:0.2;fill:#000000;stop-color:#000000" d="M 39,41 H 153 L 77.56306,117 H 39 Z"/>
-  <path style="fill:#ffeb3c;stop-color:#000000" d="M 39,39 H 153 L 77.56306,115 H 39 Z"/>
+  <path style="filter:url(#filter2206);opacity:0.20;fill:#000000;stop-color:#000000" d="m 153,41 v 76 H 77.56 Z"/>
+  <path style="filter:url(#filter2198);opacity:0.20;fill:#000000;stop-color:#000000" d="m 39,117 v 38 l 38.56,-38 z"/>
+  <path style="fill:#414141;stop-color:#000000" d="m 39,115 v 38 l 38.56,-38 z"/>
+  <path style="fill:#ffffff;stop-color:#000000" d="m 153,39 v 76 H 77.56 Z"/>
+  <path style="opacity:0.20;fill:#ffffff" d="m 28,16 c -6.65,0 -12,5.35 -12,12 v 1 c 0,-6.65 5.35,-12 12,-12 h 136 c 6.65,0 12,5.35 12,12 v -1 c 0,-6.65 -5.35,-12 -12,-12 z"/>
+  <path style="filter:url(#filter2202);opacity:0.20;fill:#000000;stop-color:#000000" d="M 39,41 H 153 L 77.56,117 H 39 Z"/>
+  <path style="fill:#ffeb3c;stop-color:#000000" d="M 39,39 H 153 L 77.56,115 H 39 Z"/>
 </svg>

@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg28">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter6495" x="-0.048000001" y="-0.048000001" width="1.096" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter6495" x="0.05" y="0.05" width="1.10" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter3827" x="-0.20625" y="-0.045833333" width="1.4125" height="1.0916667">
-      <feGaussianBlur stdDeviation="1.03125"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter3827" x="0.21" y="0.05" width="1.41" height="1.09">
+      <feGaussianBlur stdDeviation="1.03"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter3831" x="-0.35416667" y="-0.041940789" width="1.7083333" height="1.0838816">
-      <feGaussianBlur stdDeviation="1.328125"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter3831" x="0.35" y="0.04" width="1.71" height="1.08">
+      <feGaussianBlur stdDeviation="1.33"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter3835" x="-0.089911445" y="-0.064330972" width="1.1798229" height="1.1286619">
-      <feGaussianBlur stdDeviation="0.67433584"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter3835" x="0.09" y="0.06" width="1.18" height="1.13">
+      <feGaussianBlur stdDeviation="0.67"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter3839" x="-0.070439189" y="-0.080192308" width="1.1408784" height="1.1603846">
-      <feGaussianBlur stdDeviation="2.171875"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter3839" x="0.07" y="0.08" width="1.14" height="1.16">
+      <feGaussianBlur stdDeviation="2.17"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter3847" x="-0.050717213" y="-0.14389535" width="1.1014344" height="1.2877907">
-      <feGaussianBlur stdDeviation="2.578125"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter3847" x="0.05" y="0.14" width="1.10" height="1.29">
+      <feGaussianBlur stdDeviation="2.58"/>
     </filter>
   </defs>
-  <rect style="filter:url(#filter3835);opacity:0.2;fill:#000000" width="18" height="25.157494" x="87" y="112.39714"/>
-  <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-180" height="160" width="160" style="filter:url(#filter6495);opacity:0.2;fill:#000000"/>
+  <rect style="filter:url(#filter3835);opacity:0.20;fill:#000000" width="18" height="25.16" x="87" y="112.40"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-180" height="160" width="160" style="filter:url(#filter6495);opacity:0.20;fill:#000000"/>
   <rect transform="matrix(0,-1,-1,0,0,0)" ry="12" rx="12" y="-176" x="-176" height="160" width="160" style="fill:#7139d2"/>
-  <rect style="fill:#f2f2f2" width="18" height="25.157494" x="87" y="110.39714"/>
-  <path style="opacity:0.1;fill:#ffffff" d="m 28,16 c -6.648,0 -12,5.352 -12,12 v 1 c 0,-6.648 5.352,-12 12,-12 h 136 c 6.648,0 12,5.352 12,12 v -1 c 0,-6.648 -5.352,-12 -12,-12 z"/>
-  <path style="filter:url(#filter3827);opacity:0.2" transform="rotate(90)" d="m 131,-123 h 6 c 1.662,0 3,1.338 3,3 v 48 c 0,1.662 -1.338,3 -3,3 h -6 c -1.662,0 -3,-1.338 -3,-3 v -48 c 0,-1.662 1.338,-3 3,-3 z"/>
+  <rect style="fill:#f2f2f2" width="18" height="25.16" x="87" y="110.40"/>
+  <path style="opacity:0.10;fill:#ffffff" d="m 28,16 c -6.65,0 -12,5.35 -12,12 v 1 c 0,-6.65 5.35,-12 12,-12 h 136 c 6.65,0 12,5.35 12,12 v -1 c 0,-6.65 -5.35,-12 -12,-12 z"/>
+  <path style="filter:url(#filter3827);opacity:0.20" transform="rotate(90)" d="m 131,-123 h 6 c 1.66,0 3,1.34 3,3 v 48 c 0,1.66 -1.34,3 -3,3 h -6 c -1.66,0 -3,-1.34 -3,-3 v -48 c 0,-1.66 1.34,-3 3,-3 z"/>
   <rect style="fill:#f7f7f7" width="18" height="54" x="126" y="-123" transform="rotate(90)" rx="3" ry="3"/>
-  <path style="filter:url(#filter3847);opacity:0.2;fill:#000000;color:#000000" d="m 39,63 a 4.0004,4.0004 0 0 0 -4,4 c 0,21.491709 17.508296,39 39,39 8.153641,0 15.731593,-2.52466 22,-6.826172 C 102.26841,103.47534 109.84636,106 118,106 c 21.4917,0 39,-17.508291 39,-39 a 4.0004,4.0004 0 0 0 -4,-4 H 109 83 Z m 4.400391,8 h 35.802734 c 0.897598,8.75716 4.71883,16.659515 10.455078,22.736328 C 85.080849,96.442436 79.738551,98 74,98 58.202692,98 45.371369,86.245456 43.400391,71 Z m 44,0 H 104.59961 C 103.70906,77.888329 100.59662,84.059007 96,88.759766 91.403381,84.059007 88.290935,77.888329 87.400391,71 Z m 25.396489,0 h 35.80273 C 146.62863,86.245456 133.79731,98 118,98 112.26145,98 106.91915,96.442436 102.3418,93.736328 108.07804,87.659515 111.89928,79.75716 112.79688,71 Z"/>
-  <path style="fill:#f2f2f2;color:#000000" d="M 39 61 A 4.0004 4.0004 0 0 0 35 65 C 35 86.491709 52.508296 104 74 104 C 82.153641 104 89.731593 101.47534 96 97.173828 C 102.26841 101.47534 109.84636 104 118 104 C 139.4917 104 157 86.491709 157 65 A 4.0004 4.0004 0 0 0 153 61 L 109 61 L 83 61 L 39 61 z M 43.400391 69 L 79.203125 69 C 80.100723 77.75716 83.921955 85.659515 89.658203 91.736328 C 85.080849 94.442436 79.738551 96 74 96 C 58.202692 96 45.371369 84.245456 43.400391 69 z M 87.400391 69 L 104.59961 69 C 103.70906 75.888329 100.59662 82.059007 96 86.759766 C 91.403381 82.059007 88.290935 75.888329 87.400391 69 z M 112.79688 69 L 148.59961 69 C 146.62863 84.245456 133.79731 96 118 96 C 112.26145 96 106.91915 94.442436 102.3418 91.736328 C 108.07804 85.659515 111.89928 77.75716 112.79688 69 z "/>
-  <path style="filter:url(#filter3839);opacity:0.2;fill:#000000" d="m 62,55 c -1.662,0 -3,1.338 -3,3 v 5 9 3 c 0,20.434536 16.565464,45 37,45 20.43454,0 37,-24.565464 37,-45 v -3 -9 -5 c 0,-1.662 -1.338,-3 -3,-3 z"/>
-  <path style="fill:#ffffff" d="M 62 53 C 60.338 53 59 54.338 59 56 L 59 61 L 59 70 L 59 73 C 59 93.434536 75.565464 118 96 118 C 116.43454 118 133 93.434536 133 73 L 133 70 L 133 61 L 133 56 C 133 54.338 131.662 53 130 53 L 62 53 z "/>
+  <path style="filter:url(#filter3847);opacity:0.20;fill:#000000;color:#000000" d="m 39,63 a 4.00,4.00 0 0 0 -4,4 c 0,21.49 17.51,39 39,39 8.15,0 15.73,-2.52 22,-6.83 C 102.27,103.48 109.85,106 118,106 c 21.49,0 39,-17.51 39,-39 a 4.00,4.00 0 0 0 -4,-4 H 109 83 Z m 4.40,8 h 35.80 c 0.90,8.76 4.72,16.66 10.46,22.74 C 85.08,96.44 79.74,98 74,98 58.20,98 45.37,86.25 43.40,71 Z m 44,0 H 104.60 C 103.71,77.89 100.60,84.06 96,88.76 91.40,84.06 88.29,77.89 87.40,71 Z m 25.40,0 h 35.80 C 146.63,86.25 133.80,98 118,98 112.26,98 106.92,96.44 102.34,93.74 108.08,87.66 111.90,79.76 112.80,71 Z"/>
+  <path style="fill:#f2f2f2;color:#000000" d="M 39 61 A 4.00 4.00 0 0 0 35 65 C 35 86.49 52.51 104 74 104 C 82.15 104 89.73 101.48 96 97.17 C 102.27 101.48 109.85 104 118 104 C 139.49 104 157 86.49 157 65 A 4.00 4.00 0 0 0 153 61 L 109 61 L 83 61 L 39 61 z M 43.40 69 L 79.20 69 C 80.10 77.76 83.92 85.66 89.66 91.74 C 85.08 94.44 79.74 96 74 96 C 58.20 96 45.37 84.25 43.40 69 z M 87.40 69 L 104.60 69 C 103.71 75.89 100.60 82.06 96 86.76 C 91.40 82.06 88.29 75.89 87.40 69 z M 112.80 69 L 148.60 69 C 146.63 84.25 133.80 96 118 96 C 112.26 96 106.92 94.44 102.34 91.74 C 108.08 85.66 111.90 77.76 112.80 69 z "/>
+  <path style="filter:url(#filter3839);opacity:0.20;fill:#000000" d="m 62,55 c -1.66,0 -3,1.34 -3,3 v 5 9 3 c 0,20.43 16.57,45 37,45 20.43,0 37,-24.57 37,-45 v -3 -9 -5 c 0,-1.66 -1.34,-3 -3,-3 z"/>
+  <path style="fill:#ffffff" d="M 62 53 C 60.34 53 59 54.34 59 56 L 59 61 L 59 70 L 59 73 C 59 93.43 75.57 118 96 118 C 116.43 118 133 93.43 133 73 L 133 70 L 133 61 L 133 56 C 133 54.34 131.66 53 130 53 L 62 53 z "/>
   <path style="fill:#188fff" d="m 84,53 h 24 V 92 L 96,82 84,92 Z"/>
-  <rect style="filter:url(#filter3831);opacity:0.2;fill:#000000" width="9" height="76" x="137" y="-134" transform="rotate(90)" rx="2" ry="2"/>
+  <rect style="filter:url(#filter3831);opacity:0.20;fill:#000000" width="9" height="76" x="137" y="-134" transform="rotate(90)" rx="2" ry="2"/>
   <rect style="fill:#fefefe" width="9" height="76" x="135" y="-134" transform="rotate(90)" rx="2" ry="2"/>
 </svg>

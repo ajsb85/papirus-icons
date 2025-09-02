@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1" id="svg32">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter871" x="-0.045599999" width="1.0912" y="-0.050666666" height="1.1013333">
+    <filter style="color-interpolation-filters:sRGB" id="filter871" x="0.05" width="1.09" y="0.05" height="1.10">
       <feGaussianBlur stdDeviation="3.04"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter887" x="-0.0375" width="1.075" y="-0.066666667" height="1.1333333">
-      <feGaussianBlur stdDeviation="0.5"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter887" x="0.04" width="1.07" y="0.07" height="1.13">
+      <feGaussianBlur stdDeviation="0.50"/>
     </filter>
   </defs>
-  <path d="M 176,164 V 36 c 0,-4.432 -3.568,-8 -8,-8 H 24 c -4.432,0 -8,3.568 -8,8 v 128 c 0,4.432 3.568,8 8,8 h 144 c 4.432,0 8,-3.568 8,-8 z" style="filter:url(#filter871);opacity:0.2"/>
-  <path d="M 176,160 V 32 c 0,-4.432 -3.568,-8 -8,-8 H 24 c -4.432,0 -8,3.568 -8,8 v 128 c 0,4.432 3.568,8 8,8 h 144 c 4.432,0 8,-3.568 8,-8 z" style="fill:#6992a8"/>
-  <path style="opacity:0.1;fill:#ffffff" d="M 24 24 C 19.568 24 16 27.568 16 32 L 16 33 C 16 28.568 19.568 25 24 25 L 168 25 C 172.432 25 176 28.568 176 33 L 176 32 C 176 27.568 172.432 24 168 24 L 24 24 z "/>
+  <path d="M 176,164 V 36 c 0,-4.43 -3.57,-8 -8,-8 H 24 c -4.43,0 -8,3.57 -8,8 v 128 c 0,4.43 3.57,8 8,8 h 144 c 4.43,0 8,-3.57 8,-8 z" style="filter:url(#filter871);opacity:0.20"/>
+  <path d="M 176,160 V 32 c 0,-4.43 -3.57,-8 -8,-8 H 24 c -4.43,0 -8,3.57 -8,8 v 128 c 0,4.43 3.57,8 8,8 h 144 c 4.43,0 8,-3.57 8,-8 z" style="fill:#6992a8"/>
+  <path style="opacity:0.10;fill:#ffffff" d="M 24 24 C 19.57 24 16 27.57 16 32 L 16 33 C 16 28.57 19.57 25 24 25 L 168 25 C 172.43 25 176 28.57 176 33 L 176 32 C 176 27.57 172.43 24 168 24 L 24 24 z "/>
   <path d="m 44,120 32,-40 32,24 40,-32" style="fill:none;stroke:#ffffff;stroke-width:8"/>
-  <g transform="matrix(4,0,0,4,0,2)" style="filter:url(#filter887);opacity:0.2">
+  <g transform="matrix(4,0,0,4,0,2)" style="filter:url(#filter887);opacity:0.20">
     <circle r="3" cy="30" cx="11"/>
     <circle r="3" cy="20" cx="19"/>
     <circle r="3" cy="26" cx="27"/>

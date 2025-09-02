@@ -1,28 +1,17 @@
 #!/usr/bin/env python3
 """
-clean_svg.py -- conservative SVG cleaner that preserves appearance.
+clean_svg.py -- SVG cleaner that preserves appearance and rounds numbers.
 
-Features
-- Works on a single file or a whole folder.
-- Preserves visual output while removing:
-  * <metadata>, comments
-  * Unused <defs> children (filters, clips, etc.)
-  * Editor/vendor props (inkscape:, sodipodi:, -inkscape-*)
-  * Redundant style defaults (with optional --aggressive)
-  * Unused element ids
+- Works on a single file or an entire folder (with --recursive).
+- Removes <metadata>, comments, unused <defs>, editor/vendor attrs.
+- Cleans styles, drops redundant defaults (optional --aggressive).
+- Rounds floats to a fixed number of decimals (default 2). Integers unchanged.
+  * Examples: -5.79687 -> -5.80, 3.2 -> 3.20, 96 -> 96
 
-Usage
-  # Directory -> Directory (non-recursive)
-  python clean_svg.py x --out-dir y
-
-  # Directory -> Directory (recursive; preserves subfolders)
+Usage:
   python clean_svg.py x --out-dir y --recursive
-
-  # Single file -> single file
   python clean_svg.py in.svg -o out.svg
-
-  # Single file -> into an output directory
-  python clean_svg.py in.svg --out-dir y
+  python clean_svg.py x --out-dir y --recursive --precision 3 --aggressive
 
 Requires: lxml  (pip install lxml)
 """
@@ -61,7 +50,6 @@ CSS_DEFAULTS = {
     "stroke-linecap": "butt",
     "stroke-linejoin": "miter",
     "stroke-miterlimit": "4",
-    # NOTE: default 'stroke' is 'none' -- we do NOT remove fill/stroke values by default.
 }
 
 FONT_KEYS = (
@@ -78,19 +66,22 @@ FONT_KEYS = (
     "text-decoration",
 )
 
-URL_RELEVANT_ATTRS = {
-    "filter",
-    "clip-path",
-    "mask",
-    "fill",
-    "stroke",
-    "marker-start",
-    "marker-mid",
-    "marker-end",
-    "href",
-    "{http://www.w3.org/1999/xlink}href",
-    "xlink:href",
+# Attributes we treat as numeric / contain numeric lists
+NUMERIC_ATTRS = {
+    "x","y","x1","y1","x2","y2","dx","dy","rotate",
+    "width","height","r","rx","ry","cx","cy",
+    "opacity","fill-opacity","stroke-opacity","stroke-width","stroke-miterlimit",
+    "pathLength","offset","startOffset",
+    "stdDeviation","points","viewBox","transform",
 }
+
+# Style keys we round (numbers only). 'stroke-dasharray' handled specially.
+NUMERIC_STYLE_KEYS = {
+    "opacity","fill-opacity","stroke-opacity","stroke-width","stroke-miterlimit","stroke-dashoffset",
+}
+
+# General numeric token (int or float, optional exponent)
+NUM_TOKEN_RE = re.compile(r"[-+]?(?:\d*\.\d+|\d+\.|\d+)(?:[eE][-+]?\d+)?")
 
 # --- helpers -----------------------------------------------------------------
 
@@ -118,7 +109,7 @@ def serialize_style(d: dict) -> str:
         "fill", "fill-opacity",
         "stroke", "stroke-opacity", "stroke-width",
         "stroke-linecap", "stroke-linejoin", "stroke-miterlimit",
-        "stroke-dasharray",
+        "stroke-dasharray", "stroke-dashoffset",
     ]
     keys = [k for k in order if k in d] + [k for k in d.keys() if k not in order]
     return ";".join(f"{k}:{d[k]}" for k in keys)
@@ -144,6 +135,48 @@ def collect_used_ids(root) -> set:
                 collect_url_refs_from_value(v, used)
     return used
 
+# --- numeric rounding ---------------------------------------------------------
+
+def _round_token(tok: str, precision: int, force_fixed: bool) -> str:
+    # Only round floats (contain '.' or exponent). Integers pass through.
+    is_floatlike = ("." in tok) or ("e" in tok) or ("E" in tok)
+    if not is_floatlike:
+        return tok
+    try:
+        v = float(tok)
+    except ValueError:
+        return tok
+    fmt = f"{{:.{precision}f}}" if force_fixed else f"{{:.{precision}g}}"
+    out = fmt.format(v)
+    # Normalize negative zero like "-0.00" -> "0.00" (keep decimals for floats)
+    if out.startswith("-0."):
+        out = out.replace("-0.", "0.", 1)
+    return out
+
+def round_numbers_in_string(s: str, precision: int, force_fixed: bool) -> str:
+    return NUM_TOKEN_RE.sub(lambda m: _round_token(m.group(0), precision, force_fixed), s)
+
+def round_points(value: str, precision: int, force_fixed: bool) -> str:
+    # 'points' is list of numbers separated by space/comma
+    return round_numbers_in_string(value, precision, force_fixed)
+
+def round_transform(value: str, precision: int, force_fixed: bool) -> str:
+    # matrix(...), translate(...), etc. Just round numeric tokens.
+    return round_numbers_in_string(value, precision, force_fixed)
+
+def round_viewbox(value: str, precision: int, force_fixed: bool) -> str:
+    return round_numbers_in_string(value, precision, force_fixed)
+
+def round_style_value(prop: str, val: str, precision: int, force_fixed: bool) -> str:
+    if prop == "stroke-dasharray":
+        if val.strip().lower() == "none":
+            return val
+        return round_numbers_in_string(val, precision, force_fixed)
+    if prop in NUMERIC_STYLE_KEYS:
+        return round_numbers_in_string(val, precision, force_fixed)
+    # Never touch url(#...) or color values here.
+    return val
+
 # --- cleaning passes ----------------------------------------------------------
 
 def remove_metadata_and_comments(root):
@@ -160,13 +193,11 @@ def remove_metadata_and_comments(root):
 def prune_unused_defs(root, used_ids: set):
     # Keep only <defs> children whose id is referenced
     for defs in root.findall(f".//{{{SVG_NS}}}defs"):
-        changed = False
         for child in list(defs):
             cid = child.get("id")
             if not cid or cid not in used_ids:
                 defs.remove(child)
-                changed = True
-        if changed and len(defs) == 0:
+        if len(defs) == 0:
             parent = defs.getparent()
             if parent is not None:
                 parent.remove(defs)
@@ -185,7 +216,7 @@ def strip_editor_attrs(elem):
     for a in to_delete:
         elem.attrib.pop(a, None)
 
-def clean_style(elem, aggressive: bool):
+def clean_style(elem, aggressive: bool, precision: int):
     style = elem.get("style")
     if not style:
         return
@@ -215,9 +246,11 @@ def clean_style(elem, aggressive: bool):
         if d.get(k) == default:
             d.pop(k, None)
 
-    # Redundant fill-opacity:1
-    if d.get("fill-opacity") == "1":
-        d.pop("fill-opacity", None)
+    # Round numeric style values (skip 'filter' which may be url(#...))
+    for k, v in list(d.items()):
+        if k == "filter":
+            continue
+        d[k] = round_style_value(k, v, precision=precision, force_fixed=True)
 
     if d:
         elem.set("style", serialize_style(d))
@@ -246,26 +279,51 @@ def normalize_root(root):
     # Let lxml calculate the correct namespace declarations.
     ET.cleanup_namespaces(root)
 
-def clean_svg_tree(tree, aggressive: bool):
+def round_numeric_attributes(elem, precision: int):
+    for attr, val in list(elem.attrib.items()):
+        lname = localname(attr)
+        if lname == "d":
+            # Path data: round all float tokens (keep integers)
+            elem.set(attr, round_numbers_in_string(val, precision, force_fixed=True))
+            continue
+        if lname not in NUMERIC_ATTRS:
+            continue
+
+        if lname == "points":
+            elem.set(attr, round_points(val, precision, force_fixed=True))
+        elif lname == "transform":
+            elem.set(attr, round_transform(val, precision, force_fixed=True))
+        elif lname == "viewBox":
+            elem.set(attr, round_viewbox(val, precision, force_fixed=True))
+        elif lname == "filter":
+            # Never touch url(#...) refs
+            continue
+        else:
+            # Generic numeric attr: round numeric tokens (keeps integers as-is)
+            elem.set(attr, round_numbers_in_string(val, precision, force_fixed=True))
+
+def clean_svg_tree(tree, aggressive: bool, precision: int):
     root = tree.getroot()
     normalize_root(root)
     remove_metadata_and_comments(root)
     used_ids = collect_used_ids(root)
     prune_unused_defs(root, used_ids)
+
     for elem in root.iter():
         strip_editor_attrs(elem)
-        clean_style(elem, aggressive=aggressive)
+        clean_style(elem, aggressive=aggressive, precision=precision)
+        round_numeric_attributes(elem, precision=precision)
+
     strip_unused_ids(root, used_ids)
-    # Final namespace cleanup (idempotent)
     ET.cleanup_namespaces(root)
     return tree
 
 # --- I/O ----------------------------------------------------------------------
 
-def process_file(in_path: Path, out_path: Path, aggressive: bool):
+def process_file(in_path: Path, out_path: Path, aggressive: bool, precision: int):
     parser = ET.XMLParser(remove_blank_text=True, recover=True)
     tree = ET.parse(str(in_path), parser)
-    tree = clean_svg_tree(tree, aggressive=aggressive)
+    tree = clean_svg_tree(tree, aggressive=aggressive, precision=precision)
     xml_bytes = ET.tostring(
         tree,
         xml_declaration=True,
@@ -282,6 +340,7 @@ def main():
     ap.add_argument("--out-dir", help="Output directory (for directory input, or to place a single cleaned file)")
     ap.add_argument("--recursive", action="store_true", help="Recurse into subdirectories when input is a directory")
     ap.add_argument("--aggressive", action="store_true", help="Remove more defaults (still preserves appearance)")
+    ap.add_argument("--precision", type=int, default=2, help="Decimal places for floats (default: 2)")
     args = ap.parse_args()
 
     inp = Path(args.input)
@@ -297,7 +356,7 @@ def main():
         for src in svg_iter:
             rel = src.relative_to(inp) if args.recursive else Path(src.name)
             dst = out_base / rel
-            process_file(src, dst, aggressive=args.aggressive)
+            process_file(src, dst, aggressive=args.aggressive, precision=args.precision)
             count += 1
         sys.stderr.write(f"Processed {count} file(s) into {out_base}\n")
         return
@@ -310,7 +369,7 @@ def main():
     else:
         out_path = inp.with_suffix(".clean.svg")
 
-    process_file(inp, out_path, aggressive=args.aggressive)
+    process_file(inp, out_path, aggressive=args.aggressive, precision=args.precision)
     sys.stderr.write(f"Wrote {out_path}\n")
 
 if __name__ == "__main__":

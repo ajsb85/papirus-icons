@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1" id="svg14">
   <defs>
-    <filter style="color-interpolation-filters:sRGB" id="filter848" x="-0.048000001" width="1.096" y="-0.048000001" height="1.096">
-      <feGaussianBlur stdDeviation="3.2"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter848" x="0.05" width="1.10" y="0.05" height="1.10">
+      <feGaussianBlur stdDeviation="3.20"/>
     </filter>
-    <filter style="color-interpolation-filters:sRGB" id="filter859" x="-0.0283125" width="1.056625" y="-0.020827586" height="1.0416552">
-      <feGaussianBlur stdDeviation="0.755"/>
+    <filter style="color-interpolation-filters:sRGB" id="filter859" x="0.03" width="1.06" y="0.02" height="1.04">
+      <feGaussianBlur stdDeviation="0.76"/>
     </filter>
   </defs>
-  <circle r="80" cy="100" cx="96" style="filter:url(#filter848);opacity:0.2"/>
+  <circle r="80" cy="100" cx="96" style="filter:url(#filter848);opacity:0.20"/>
   <circle r="80" cy="96" cx="96" style="fill:#e4e4e4"/>
-  <path style="opacity:0.2;fill:#ffffff" d="M 96 16 A 80 80 0 0 0 16 96 A 80 80 0 0 0 16.019531 96.472656 A 80 80 0 0 1 96 17 A 80 80 0 0 1 175.97461 96.513672 A 80 80 0 0 0 176 96 A 80 80 0 0 0 96 16 z "/>
-  <path d="M 128,105.92941 C 128,123.64151 113.67312,138 96.000016,138 78.326876,138 64,123.64151 64,105.92941 64,88.217316 93.23588,51 96.000016,51 99.02374,51 128,88.217316 128,105.92941 Z" style="filter:url(#filter859);opacity:0.1"/>
-  <path d="M 128,103.92941 C 128,121.64151 113.67312,136 96.000016,136 78.326876,136 64,121.64151 64,103.92941 64,86.217316 93.23588,49 96.000016,49 99.02374,49 128,86.217316 128,103.92941 Z" style="fill:#0091eb"/>
+  <path style="opacity:0.20;fill:#ffffff" d="M 96 16 A 80 80 0 0 0 16 96 A 80 80 0 0 0 16.02 96.47 A 80 80 0 0 1 96 17 A 80 80 0 0 1 175.97 96.51 A 80 80 0 0 0 176 96 A 80 80 0 0 0 96 16 z "/>
+  <path d="M 128,105.93 C 128,123.64 113.67,138 96.00,138 78.33,138 64,123.64 64,105.93 64,88.22 93.24,51 96.00,51 99.02,51 128,88.22 128,105.93 Z" style="filter:url(#filter859);opacity:0.10"/>
+  <path d="M 128,103.93 C 128,121.64 113.67,136 96.00,136 78.33,136 64,121.64 64,103.93 64,86.22 93.24,49 96.00,49 99.02,49 128,86.22 128,103.93 Z" style="fill:#0091eb"/>
 </svg>
